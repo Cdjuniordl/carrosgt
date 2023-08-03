@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vehiculos/honda-civic-lx/"}
+{"dg-publish":true,"permalink":"/vehiculos/honda-civic-lx/","tags":["gardenEntry"]}
 ---
 
 
