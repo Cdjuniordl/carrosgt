@@ -36,7 +36,7 @@ Válvula VTEC atascada en abierto.
 **Pruebas desde el escáner y mediciones con osciloscopio:**
 
 ##### Gráfica en Frío 
-![[U2023_7_26_8_45_16.bmp]]
+![U2023_7_26_8_45_16.jpg](/img/user/Adjuntos/U2023_7_26_8_45_16.jpg)
 
 ![[U2023_7_29_4_12_9.bmp]]
 Canal1 (amarillo): Sensor de presión de aceite 
@@ -59,7 +59,7 @@ Canal2 (azul): Señal activación de VTEC
 Cambio de cuerpo completo de válvula VTEC (sensor y válvula). Se reemplazo por una válvula original usada.
 
 ##### Válvula VTEC genérica 
-![IMG_20230724_121718_325.jpg](/img/user/Adjuntos/IMG_20230724_121718_325.jpg)
+![IMG_20230724_121718_325.jpg|300](/img/user/Adjuntos/IMG_20230724_121718_325.jpg)
 
 *Nota:* Se realizaron las mismas pruebas, sin arrojar fallas en cada una, tanto en frío como en caliente.
 
