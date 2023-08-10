@@ -52,9 +52,9 @@ Se realizaron las mediciones necesarias arrojando fallo en el sensor de cigüeñ
 ![](https://file.notion.so/f/s/63c19b7e-d19a-40ee-b9d7-e7d92c9a5af2/U2023_8_5_7_19_5.jpg?id=179ade81-18da-42c9-8698-f98407f614a2&table=block&spaceId=9f7b4746-1e57-4953-8d67-5e2115795754&expirationTimestamp=1691740800000&signature=9x5vYcz4pab1p1kFE-GDEpgKyXw9g6VTJJersWZhWNA&downloadName=U2023_8_5_7_19_5.jpg)
 
 >[!info] Conexiones
->##### Canal1:
+>**Canal1:**
 Amarillo - Sensor de Cigüeñal (CKP) 
->##### Canal2:
+>**Canal2:**
 Azul - Sensor de eje de levas (CMP)
 
 
