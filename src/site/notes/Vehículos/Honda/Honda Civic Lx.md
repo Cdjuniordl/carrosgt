@@ -45,8 +45,8 @@ Válvula VTEC atascada en abierto.
 
 
 >[!info] Conexiones
->Canal1 (amarillo): Sensor de presión de aceite 
->Canal2 (azul): Señal activación de VTEC
+>**Canal1** (amarillo): Sensor de presión de aceite 
+>**Canal2** (azul): Señal activación de VTEC
 
 
 >*Nota:* Sensor de presión mantiene señal de presión alta, mientras que la válvula VTEC está cerrada eléctricamente.
@@ -60,8 +60,8 @@ Posiblemente falla mecánica en válvula VTEC
 
 
 >[!info] Conexiones
->Canal1 (amarillo): Sensor de presión de aceite 
->Canal2 (azul): Señal activación de VTEC
+>**Canal1** (amarillo): Sensor de presión de aceite 
+>**Canal2** (azul): Señal activación de VTEC
 >
 
 >*Nota:* Presión de aceite cae al mismo tiempo que la válvula VTEC se cierra eléctricamente, indicando funcionamiento mecánico correcto de la VTEC.
