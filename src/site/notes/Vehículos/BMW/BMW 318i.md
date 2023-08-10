@@ -33,7 +33,7 @@
 
 
 >[!info] Conexión
->##### Canal1:
+>**Canal1:**
 >(Amarillo) Señal PWM de activación de electroválvula de compresor 
 
 
@@ -48,7 +48,7 @@
 
 
 >[!info] Conexión
->##### Canal1:
+>**Canal1:**
 >(Amarillo) Señal PWM de activación de electroválvula de compresor 
 
 ###### TAG:: #AC , #BMW 
