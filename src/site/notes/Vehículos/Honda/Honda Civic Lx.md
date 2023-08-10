@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/vehiculos/honda/honda-civic-lx/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/vehiculos/honda/honda-civic-lx/"}
 ---
 
 
 
 ## Datos del Vehículo 
-### Foto:: 
+### Foto::
 ![](https://file.notion.so/f/s/188b5188-1a66-4356-8ff4-bfd8c46f7a2e/IMG_20230801_110146_407.jpg?id=df5e60d8-a79f-4814-935a-43f6b84432d9&table=block&spaceId=9f7b4746-1e57-4953-8d67-5e2115795754&expirationTimestamp=1691733600000&signature=OxyaoBxjPxRWcGdJ93tFA7TNfk3JHk2HiG72g0QTk4E&downloadName=IMG_20230801_110146_407.jpg)
 
 
