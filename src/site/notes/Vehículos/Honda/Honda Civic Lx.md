@@ -43,7 +43,7 @@ Válvula VTEC atascada en abierto.
 ![](https://file.notion.so/f/s/2c439092-b21a-4ab1-899b-18558d7cd406/U2023_7_26_8_45_16.jpg?id=c49280a9-e09d-4b94-81fa-b4d1739dbee6&table=block&spaceId=9f7b4746-1e57-4953-8d67-5e2115795754&expirationTimestamp=1691733600000&signature=INyRbwpechrySYkr9HkVeBiGvEcBq14tiu5Y7PQWssU&downloadName=U2023_7_26_8_45_16.jpg)
 
 
->[!info] Conexiones
+>[!info]- Conexiones
 >**Canal1** (amarillo): Sensor de presión de aceite 
 >**Canal2** (azul): Señal activación de VTEC
 
@@ -58,7 +58,7 @@ Posiblemente falla mecánica en válvula VTEC
 ![](https://file.notion.so/f/s/991e3a8a-9bba-4b60-a2bb-d2e5fa8d22b9/U2023_8_2_0_53_45.jpg?id=e00966dd-6b26-409a-8cad-c111209328c2&table=block&spaceId=9f7b4746-1e57-4953-8d67-5e2115795754&expirationTimestamp=1691733600000&signature=0A3zvha-4LPiiDLeI5N2wN4h4JZEc0V60JlmXRzsN-4&downloadName=U2023_8_2_0_53_45.jpg)
 
 
->[!info] Conexiones
+>[!info]- Conexiones
 >**Canal1** (amarillo): Sensor de presión de aceite 
 >**Canal2** (azul): Señal activación de VTEC
 >
