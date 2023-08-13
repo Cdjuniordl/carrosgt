@@ -31,15 +31,19 @@
 - Se revisaron las bujías, estando dañadas y recomendando el cambio 
 
 #### Bujías 
-![Bujias](https://bolder-saga-9cf.notion.site/signed/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F62b0daa9-8fd3-4b53-860e-7d0c50b3a0a8%2FIMG_20230811_114429_845.jpg?table=block&id=07c5d597-7046-4ab0-a2dc-7e167282367e&spaceId=9f7b4746-1e57-4953-8d67-5e2115795754&name=IMG_20230811_114429_845.jpg&cache=v2)
+![Bujias](http://drive.google.com/uc?export=view&id=108KuoucMgkYQ54srf8Q4rhj2Fo-9yKWK)
 
-![Bujías y bobinas](https://file.notion.so/f/s/f9ef0cfc-a3a6-448c-9420-95b61d3e5b5c/IMG_20230811_114435_965.jpg?id=fcb13dce-89d9-48e6-bb5d-cc0b472535cc&table=block&spaceId=9f7b4746-1e57-4953-8d67-5e2115795754&expirationTimestamp=1691870400000&signature=FAf46rFeJtOo4DrxGl-hN498tlERxMOzueHHtQgkddo&downloadName=IMG_20230811_114435_965.jpg)
+![Bujías y Bobinas](http://drive.google.com/uc?export=view&id=108eTZbfiiav1l-mcG6eu4VK_MVkZcopV)
 
-![Bujía mala](https://file.notion.so/f/s/775208f0-9773-439d-b64a-03f4eb4d3e5b/IMG_20230811_114537_464.jpg?id=f6fdad7e-2fe0-4a8b-aa1d-30a4cba37f7e&table=block&spaceId=9f7b4746-1e57-4953-8d67-5e2115795754&expirationTimestamp=1691870400000&signature=kvU4imHkynCIb2ti9--nW68g2rLhKKBf7W0PPfVZOLE&downloadName=IMG_20230811_114537_464.jpg)
+![Bujía mala](http://drive.google.com/uc?export=view&id=10CKaQDQ01xJ-vaqPn_s4FVI4OsqcG0nS)
 
 #### Falla de cilindros 
+**Video falla cilindro 1**
+<iframe src="https://drive.google.com/file/d/10EBx5XZTE6zYwa5F7-kW-BOgnWJ4xEzw/preview"></iframe>
 
-[Video 1]()
+**Video falla cilindro 2**
+<iframe src=*https://drive.google.com/file/d/10Fx1iu_f-yQ4Zv2UN1wmXmtEtMigCpdc/preview*></iframe>
+
 
 ---
 ## Reparación:
