@@ -6,7 +6,8 @@
 
 ## Datos del Vehículo 
 ### Foto::
-![](https://bolder-saga-9cf.notion.site/signed/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F188b5188-1a66-4356-8ff4-bfd8c46f7a2e%2FIMG_20230801_110146_407.jpg?table=block&id=df5e60d8-a79f-4814-935a-43f6b84432d9&spaceId=9f7b4746-1e57-4953-8d67-5e2115795754&name=IMG_20230801_110146_407.jpg&cache=v2)
+![](http://drive.google.com/uc?export=view&id=1-OTm77QKqJG7j-UOYkIlq-80BWj2J1aC)
+
 
 ### Marca:: Honda 
 ### Modelo:: Civic Lx
@@ -39,7 +40,7 @@ Válvula VTEC atascada en abierto.
 **Pruebas desde el escáner y mediciones con osciloscopio:**
 
 ##### Gráfica en Frío 
-![](https://bolder-saga-9cf.notion.site/signed/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2c439092-b21a-4ab1-899b-18558d7cd406%2FU2023_7_26_8_45_16.jpg?table=block&id=c49280a9-e09d-4b94-81fa-b4d1739dbee6&spaceId=9f7b4746-1e57-4953-8d67-5e2115795754&name=U2023_7_26_8_45_16.jpg&cache=v2)
+![](http://drive.google.com/uc?export=view&id=1-lOQR3jdUSeNi0Rq8HmXyocpCzDDjBt7)
 
 
 >[!info]- Conexiones
@@ -51,10 +52,10 @@ Válvula VTEC atascada en abierto.
 Posiblemente falla mecánica en válvula VTEC 
 
 ##### Gráfica en Caliente 
-![](https://file.notion.so/f/s/08797cfc-6218-44be-b322-2738338f0004/U2023_7_29_4_10_41.jpg?id=889a97e5-beec-4d9c-8740-c35048dee496&table=block&spaceId=9f7b4746-1e57-4953-8d67-5e2115795754&expirationTimestamp=1691877600000&signature=TeEhoENvcIHJbxe79LnaqaqCsn5tJkarczuLEYkBg6Y&downloadName=U2023_7_29_4_10_41.jpg)
+![](http://drive.google.com/uc?export=view&id=1-qtowSFP37ZSM-Wfl-5QlgRNb0yDD9N0)
 
 
-![](https://file.notion.so/f/s/991e3a8a-9bba-4b60-a2bb-d2e5fa8d22b9/U2023_8_2_0_53_45.jpg?id=e00966dd-6b26-409a-8cad-c111209328c2&table=block&spaceId=9f7b4746-1e57-4953-8d67-5e2115795754&expirationTimestamp=1691877600000&signature=amuaCEr2SJP4VXMkLweqGQJJKRnqlmFWl9F-27c3hiE&downloadName=U2023_8_2_0_53_45.jpg)
+![](http://drive.google.com/uc?export=view&id=10-AIXo4um3YvuiEeKhLqZeY5hKL6-tSE)
 
 
 >[!info]- Conexiones
@@ -70,7 +71,7 @@ Posiblemente falla mecánica en válvula VTEC
 Cambio de cuerpo completo de válvula VTEC (sensor y válvula). Se reemplazo por una válvula original usada.
 
 ##### Válvula VTEC genérica 
-![](https://file.notion.so/f/s/31698545-5407-40be-a987-a793e10ab9ff/IMG_20230724_121718_325.jpg?id=c56defc5-89a9-4e62-b7c8-ffb28b4deafa&table=block&spaceId=9f7b4746-1e57-4953-8d67-5e2115795754&expirationTimestamp=1691877600000&signature=xIhlylnUPqBqSvNgjxJP7yvi1p-XVReIhgd2exdmsps&downloadName=IMG_20230724_121718_325.jpg)
+![](http://drive.google.com/uc?export=view&id=1-IRf45tRxzJbP0xQs_wqVix93ptyCGI8)
 
 
 >*Nota:* Se realizaron las mismas pruebas, sin arrojar fallas en cada una, tanto en frío como en caliente.
