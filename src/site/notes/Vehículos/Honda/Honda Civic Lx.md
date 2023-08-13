@@ -6,7 +6,7 @@
 
 ## Datos del Vehículo 
 ### Foto::
-![](http://drive.google.com/uc?export=view&id=1-OTm77QKqJG7j-UOYkIlq-80BWj2J1aC)
+![Vehiculo](http://drive.google.com/uc?export=view&id=1-OTm77QKqJG7j-UOYkIlq-80BWj2J1aC)
 
 
 ### Marca:: Honda 
@@ -40,7 +40,7 @@ Válvula VTEC atascada en abierto.
 **Pruebas desde el escáner y mediciones con osciloscopio:**
 
 ##### Gráfica en Frío 
-![](http://drive.google.com/uc?export=view&id=1-lOQR3jdUSeNi0Rq8HmXyocpCzDDjBt7)
+![Grafica 1](http://drive.google.com/uc?export=view&id=1-lOQR3jdUSeNi0Rq8HmXyocpCzDDjBt7)
 
 
 >[!info]- Conexiones
@@ -52,10 +52,11 @@ Válvula VTEC atascada en abierto.
 Posiblemente falla mecánica en válvula VTEC 
 
 ##### Gráfica en Caliente 
-![](http://drive.google.com/uc?export=view&id=1-qtowSFP37ZSM-Wfl-5QlgRNb0yDD9N0)
+![Grafica 2](http://drive.google.com/uc?export=view&id=1-qtowSFP37ZSM-Wfl-5QlgRNb0yDD9N0)
 
 
-![](http://drive.google.com/uc?export=view&id=10-AIXo4um3YvuiEeKhLqZeY5hKL6-tSE)
+![Grafica 3](http://drive.google.com/uc?export=view&id=10-AIXo4um3YvuiEeKhLqZeY5hKL6-tSE)
+
 
 
 >[!info]- Conexiones
@@ -71,7 +72,7 @@ Posiblemente falla mecánica en válvula VTEC
 Cambio de cuerpo completo de válvula VTEC (sensor y válvula). Se reemplazo por una válvula original usada.
 
 ##### Válvula VTEC genérica 
-![](http://drive.google.com/uc?export=view&id=1-IRf45tRxzJbP0xQs_wqVix93ptyCGI8)
+![VTEC](http://drive.google.com/uc?export=view&id=1-IRf45tRxzJbP0xQs_wqVix93ptyCGI8)
 
 
 >*Nota:* Se realizaron las mismas pruebas, sin arrojar fallas en cada una, tanto en frío como en caliente.
