@@ -42,7 +42,7 @@
 <iframe src="https://drive.google.com/file/d/10EBx5XZTE6zYwa5F7-kW-BOgnWJ4xEzw/preview"></iframe>
 
 **Video falla cilindro 2**
-<iframe src=*https://drive.google.com/file/d/10Fx1iu_f-yQ4Zv2UN1wmXmtEtMigCpdc/preview*></iframe>
+<iframe src="https://drive.google.com/file/d/10Fx1iu_f-yQ4Zv2UN1wmXmtEtMigCpdc/preview" allow="autoplay"></iframe>
 
 
 ---
