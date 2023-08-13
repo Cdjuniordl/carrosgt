@@ -5,7 +5,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![Foto Vehículo](https://file.notion.so/f/s/4c71f026-64c3-48fd-8971-9ec5521a2ac2/IMG_20230811_095111_110.jpg?id=dad697e3-bef3-49eb-a4c2-e316567ab804&table=block&spaceId=9f7b4746-1e57-4953-8d67-5e2115795754&expirationTimestamp=1691870400000&signature=JkfJ0QEaAVqMpo49EicTMfvnBXf9RJe7crA_KteMXtY&downloadName=IMG_20230811_095111_110.jpg)
+![](http://drive.google.com/uc?export=view&id=1iuVEKCb4Ls22n28JimnSOiEFd_GBCI3e)
 
 ### Marca:: Chevrolet 
 ### Modelo:: Spark Ls
@@ -39,7 +39,7 @@
 
 #### Falla de cilindros 
 
-
+[Video 1]()
 
 ---
 ## Reparación:
