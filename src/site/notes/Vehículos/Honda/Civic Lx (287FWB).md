@@ -19,6 +19,8 @@
 ##### Color:: Azul
 ---
 
-## Diagnóstico:
+## Historial:
 
+1. [[Órdenes/25-07-23 Civic Lx (287FWB)\|25-07-23 Civic Lx (287FWB)]]
+2. 
 
