@@ -5,7 +5,7 @@
 
 # Carros Gt Garage
 
-![](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+![Logo](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
 
 ### Taller automotriz 
 
