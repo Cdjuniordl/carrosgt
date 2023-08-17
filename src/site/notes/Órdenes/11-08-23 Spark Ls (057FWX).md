@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/ordenes/11-08-23-spark-ls-057-fwx/"}
 ---
 
+![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
 
 ## Vehículo
 
