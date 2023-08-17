@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/vehiculos/mazda/cx-7-553-gmj/"}
 ---
 
+![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
 
 ## Datos del Vehículo 
 ### Foto:: 
