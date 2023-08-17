@@ -33,4 +33,6 @@
 ![Foto7|150](http://drive.google.com/uc?export=view&id=13hvQ0S8KliS-wBPlUQ5hIErd7RG2BhZ-) ![Foto8|150](http://drive.google.com/uc?export=view&id=13ZLVLjtkR40RNm07dh3KBB1dGPFcBCJO)
 
 
-<a href = "[[Home/Todos\|Todos]]"><img src= "http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G"></a>
+[[Home/Todos\|Todos]]
+
+<a href = " [[Home/Todos\|Todos]] "><img src= "http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G"></a>
