@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/vehiculos/honda/civic-lx-287-fwb/"}
 ---
 
-
+![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
 
 ## Datos del Vehículo 
 ### Foto::
