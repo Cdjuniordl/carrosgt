@@ -1,0 +1,25 @@
+---
+{"dg-publish":true,"permalink":"/vehiculos/honda/civic-lx-630-dph/","created":"","updated":""}
+---
+
+![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+
+## Datos del Vehículo 
+### Foto:: 
+![](http://drive.google.com/uc?export=view&id=
+
+### Marca:: Honda
+### Modelo:: Civic Lx
+### Año:: 2000
+#### Motor:: 1600
+#### Serie Motor:: D16Y8
+#### Vin:: 2HGEJ6571YH509858
+##### Placa:: 630DPH
+##### Color:: Blanco
+---
+
+## Historial:
+1. [[Órdenes/18-08-23 Civic Lx (630DPH)\|18-08-23 Civic Lx (630DPH)]]
+2. 
+
+
