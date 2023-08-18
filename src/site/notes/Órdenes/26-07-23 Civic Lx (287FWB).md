@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ordenes/26-07-23-civic-lx-287-fwb/"}
+{"dg-publish":true,"permalink":"/ordenes/26-07-23-civic-lx-287-fwb/","created":"","updated":""}
 ---
 
 ![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
@@ -104,6 +104,6 @@ Vehículo entregado a prueba al cliente, sin reporte de fallas
 
 ## Estado
 
-- [ ] Pendiente
-- [ ] En Proceso 
-- [x] Completada
+- [ ] #Pendiente
+- [ ] #En_Proceso 
+- [x] #Completada ✅ 2023-08-17
