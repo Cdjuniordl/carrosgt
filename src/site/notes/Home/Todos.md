@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/todos/"}
+{"dg-publish":true,"permalink":"/home/todos/","created":"","updated":""}
 ---
 
 
