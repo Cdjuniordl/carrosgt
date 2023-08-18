@@ -31,8 +31,8 @@
 
 ## Recepción:
 ### Fecha:: 18-08-23
-#### Fotos de Recepción: [Recepción](
-[[Recepción/18-08-23 Rogue Se (568JYV) Recepción\|18-08-23 Rogue Se (568JYV) Recepción]]
+#### Fotos de Recepción: [Recepción](https://carrosgt.vercel.app/recepcion/18-08-23-rogue-se-568-jyv-recepcion/)
+
 
 ###### Kilometraje: 110 368 Mi
 ###### Nivel de Gasolina: Full
@@ -74,5 +74,5 @@
 ## Estado
 
 - [ ] #Pendiente
-- [x] #En_Proceso 
-- [ ] #Completada
+- [ ] #En_Proceso 
+- [x] #Completada
