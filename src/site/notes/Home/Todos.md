@@ -18,6 +18,7 @@
 | [[Vehículos/Chevrolet/Spark Ls (057FWX)\|Spark Ls (057FWX)]]  | Chevrolet  | Spark Ls     | 2014 |
 | [[Vehículos/Ford/Ford Ranger\|Ford Ranger]]                   | Ford       | Ranger       | 1993 |
 | [[Vehículos/Nissan/Rogue Se (568JYV)\|Rogue Se (568JYV)]]     | Nissan     | Rogue Se AWD | 2013 |
+| [[Vehículos/Kia/Sportage (538FFR)\|Sportage (538FFR)]]        | Kia        | Sportage 4WD | 1999 |
 | [[Vehículos/Honda/Civic Lx (287FWB)\|Civic Lx (287FWB)]]      | Honda      | Civic Lx     | 2007 |
 | [[Vehículos/Honda/Civic Lx (630DPH)\|Civic Lx (630DPH)]]      | Honda      | Civic Lx     | 2000 |
 
