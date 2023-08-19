@@ -12,7 +12,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![](http://drive.google.com/uc?export=view&id=
+![Vehículo](http://drive.google.com/uc?export=view&id=15hhtPft-RlbndQ228latZi1jPHoyO9jV)
 
 ### Marca:: Honda
 ### Modelo:: Civic Lx
@@ -49,10 +49,14 @@
 ### DTC:: 
 
 - Cojinete de rueda trasera derecha 
-- 
+- Problema de TPS
+- Aceleración entre 1500 y 2000 RPM es defectuosa, por un problema con el sensor TPS
+
+![Cuerpo de aceleracion](http://drive.google.com/uc?export=view&id=15hMCRJlZkaPB_En6x-gs0HowcMhLm6cI)
 
 ---
 ## Reparación:
+- Cambio de cojinete trasero derecho 
 - 
 
 ---
