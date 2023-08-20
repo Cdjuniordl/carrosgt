@@ -20,7 +20,11 @@
 ---
 
 ## Historial:
-1. [[Órdenes/23-08-14 Cx-7 (553GMJ)\|23-08-14 Cx-7 (553GMJ)]]
-2. 
+
+# [[Órdenes/23-08-14 Cx-7 (553GMJ)\|23-08-14 Cx-7 (553GMJ)]]
+
+    - [x] #Completada ✅ 2023-08-17
+
+{ .block-language-dataview} 
 
 
