@@ -21,6 +21,9 @@
 
 ## Historial:
 
-1. [[Órdenes/23-07-23 Civic Lx (287FWB)\|23-07-23 Civic Lx (287FWB)]]
-2. 
+# [[Órdenes/23-07-23 Civic Lx (287FWB)\|23-07-23 Civic Lx (287FWB)]]
+
+    - [x] #Completada ✅ 2023-08-17
+
+{ .block-language-dataview} 
 
