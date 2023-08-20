@@ -20,5 +20,8 @@
 
 ## Historial
 
-1. [[Órdenes/23-08-11 Spark Ls (057FWX)\|23-08-11 Spark Ls (057FWX)]]
-2. 
+# [[Órdenes/23-08-11 Spark Ls (057FWX)\|23-08-11 Spark Ls (057FWX)]]
+
+    - [x] #Completado
+
+{ .block-language-dataview} 
