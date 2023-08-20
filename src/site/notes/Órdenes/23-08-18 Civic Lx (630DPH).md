@@ -67,6 +67,4 @@
 
 ## Estado
 
-- [ ] #Pendiente
-- [x] #En_Proceso 
 - [ ] #Completada
