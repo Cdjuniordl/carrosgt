@@ -7,6 +7,8 @@
 
 **[[Home/Todos\|TODOS]]**
 
+---
+
 ## Órdenes en Proceso 
 
 # [[Órdenes/23-08-18 Civic Lx (630DPH)\|23-08-18 Civic Lx (630DPH)]]
@@ -17,6 +19,8 @@
     - [ ] #Completada
 
 { .block-language-dataview} 
+
+---
 
 ## Órdenes Completadas
 
@@ -37,3 +41,5 @@
     - [x] #Completada ✅ 2023-08-18
 
 { .block-language-dataview} 
+
+---
