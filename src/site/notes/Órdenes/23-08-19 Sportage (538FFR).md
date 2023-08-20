@@ -81,8 +81,6 @@
 
 ## Estado
 
-- [ ] #Pendiente
-- [x] #En_Proceso 
 - [ ] #Completada
 
 </div></div>
@@ -126,8 +124,6 @@
 
 ## Estado
 
-- [ ] #Pendiente
-- [x] #En_Proceso 
 - [ ] #Completada
 
 </div></div>
@@ -171,8 +167,6 @@
 
 ## Estado
 
-- [ ] #Pendiente
-- [x] #En_Proceso 
 - [ ] #Completada
 
 </div></div>
@@ -216,8 +210,6 @@
 
 ## Estado
 
-- [ ] #Pendiente
-- [x] #En_Proceso 
 - [ ] #Completada
 
 </div></div>
@@ -261,6 +253,4 @@
 
 ## Estado
 
-- [ ] #Pendiente
-- [x] #En_Proceso 
 - [ ] #Completada
