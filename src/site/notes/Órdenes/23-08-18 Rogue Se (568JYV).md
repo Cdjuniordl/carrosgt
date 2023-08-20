@@ -73,6 +73,4 @@
 
 ## Estado
 
-- [ ] #Pendiente
-- [ ] #En_Proceso 
-- [x] #Completada [completion:: 2023-08-18] ✅ 2023-08-18
+- [x] #Completada ✅ 2023-08-18
