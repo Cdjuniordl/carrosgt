@@ -33,6 +33,9 @@
 # [[Órdenes/23-08-04  S10 (412BCL)\|23-08-04  S10 (412BCL)]]
 
     - [x] #Completada ✅ 2023-08-17
+# [[Órdenes/23-08-11 Spark Ls (057FWX)\|23-08-11 Spark Ls (057FWX)]]
+
+    - [x] #Completada ✅ 2023-08-14
 # [[Órdenes/23-08-14 Cx-7 (553GMJ)\|23-08-14 Cx-7 (553GMJ)]]
 
     - [x] #Completada ✅ 2023-08-17
