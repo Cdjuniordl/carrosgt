@@ -104,6 +104,4 @@ Vehículo entregado a prueba al cliente, sin reporte de fallas
 
 ## Estado
 
-- [ ] #Pendiente
-- [ ] #En_Proceso 
 - [x] #Completada ✅ 2023-08-17
