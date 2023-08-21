@@ -24,18 +24,18 @@
 
 ## Órdenes Completadas
 
-# [[Órdenes/02-08-20 Mazda 3 (586GJK)\|02-08-20 Mazda 3 (586GJK)]]
-
-    - [x] #Completada ✅ 2023-08-02
 # [[Órdenes/23-06-06  BMW 328i (882GTX)\|23-06-06  BMW 328i (882GTX)]]
 
-    - [x] #Completada ✅ 2023-08-17
-# [[Órdenes/23-07-23 Civic Lx (287FWB)\|23-07-23 Civic Lx (287FWB)]]
+    - [x] #Completada ✅ 2023-06-12
+# [[Órdenes/23-07-26 Civic Lx (287FWB)\|23-07-26 Civic Lx (287FWB)]]
 
-    - [x] #Completada ✅ 2023-08-17
+    - [x] #Completada ✅ 2023-08-01
+# [[Órdenes/23-08-02 Mazda 3 (586GJK)\|23-08-02 Mazda 3 (586GJK)]]
+
+    - [x] #Completada ✅ 2023-08-02
 # [[Órdenes/23-08-04  S10 (412BCL)\|23-08-04  S10 (412BCL)]]
 
-    - [x] #Completada ✅ 2023-08-17
+    - [x] #Completada ✅ 2023-08-04
 # [[Órdenes/23-08-11 Spark Ls (057FWX)\|23-08-11 Spark Ls (057FWX)]]
 
     - [x] #Completada ✅ 2023-08-14
