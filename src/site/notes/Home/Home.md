@@ -24,6 +24,9 @@
 
 ## Órdenes Completadas
 
+# [[Órdenes/02-08-20 Mazda 3 (586GJK)\|02-08-20 Mazda 3 (586GJK)]]
+
+    - [x] #Completada ✅ 2023-08-02
 # [[Órdenes/23-06-06  BMW 328i (882GTX)\|23-06-06  BMW 328i (882GTX)]]
 
     - [x] #Completada ✅ 2023-08-17
