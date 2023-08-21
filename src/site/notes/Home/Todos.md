@@ -10,8 +10,8 @@
 | File                                                             | Marca      | Modelo       | Año  |
 | ---------------------------------------------------------------- | ---------- | ------------ | ---- |
 | [[Vehículos/BMW/BMW 328i (882GTX)\|BMW 328i (882GTX)]]        | BMW        | 328i         | 2011 |
-| [[Vehículos/Mazda/Mazda 3i\|Mazda 3i]]                        | Mazda      | 3i           | 2006 |
 | [[Vehículos/Mazda/Cx-7 (553GMJ)\|Cx-7 (553GMJ)]]              | Mazda      | Cx-7 Touring | 2008 |
+| [[Vehículos/Mazda/3i (586GJK)\|3i (586GJK)]]                  | Mazda      | 3i           | 2006 |
 | [[Vehículos/Mitsubishi/Mitsubishi Mirage\|Mitsubishi Mirage]] | Mitsubishi | Mirage DE    | 2000 |
 | [[Vehículos/Chevrolet/S10 (412BCL)\|S10 (412BCL)]]            | Chevrolet  | S10          | 1999 |
 | [[Vehículos/Chevrolet/Spark Ls (057FWX)\|Spark Ls (057FWX)]]  | Chevrolet  | Spark Ls     | 2014 |
