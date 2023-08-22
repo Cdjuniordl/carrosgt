@@ -30,7 +30,7 @@
 
 ## Recepción:
 ### Fecha:: 2023-08-21
-#### Fotos de Recepción: [[Recepción/23-08-21 Sentra SR (321KBN) Recepción\|23-08-21 Sentra SR (321KBN) Recepción]]
+#### Fotos de Recepción: [Fotos](https://carrosgt.vercel.app/recepcion/23-08-21-sentra-sr-321-kbn-recepcion/)
 
 ###### Kilometraje: 121 291 Mi
 ###### Nivel de Gasolina: 1/2
