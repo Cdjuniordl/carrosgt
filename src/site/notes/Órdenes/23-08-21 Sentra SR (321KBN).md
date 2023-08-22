@@ -12,7 +12,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![](http://drive.google.com/uc?export=view&id=
+![Vehículo](http://drive.google.com/uc?export=view&id=19RoZGPMV0SVRNXTK_n8GY9J_fE3WiLyV)
 
 ### Marca:: Nissan
 ### Modelo:: Sentra SR Turbo
@@ -30,7 +30,7 @@
 
 ## Recepción:
 ### Fecha:: 2023-08-21
-#### Fotos de Recepción: 
+#### Fotos de Recepción: [[Recepción/23-08-21 Sentra SR (321KBN) Recepción\|23-08-21 Sentra SR (321KBN) Recepción]]
 
 ###### Kilometraje: 121 291 Mi
 ###### Nivel de Gasolina: 1/2
@@ -41,7 +41,7 @@
 
 ## Falla presentada:
 - Problema con el Termostato electrónico
-- 
+- El vehículo calienta 
 
 
 ---
@@ -49,7 +49,8 @@
 ## Diagnóstico:
 ### DTC:: 
 
-- 
+- Termostato electrónico atorado
+- Daño interno del termostato electrónico 
 
 ---
 ## Reparación:
@@ -57,7 +58,7 @@
 
 ---
 
-###### TAG:: 
+###### TAG:: #Nissan, #Sentra
 
 ---
 
