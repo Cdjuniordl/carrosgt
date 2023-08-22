@@ -68,6 +68,14 @@
 - No se realizó la reparación
 - Cliente decidió llevarse el vehículo y hacer la reparación después 
 
+---
+
+## Presupuesto:
+
+| Nombre | Cantidad | Precio |
+| ------ | -------- | ------ |
+|Diagnostico        |          | Q250       |
+| **Total**       |        |    **Q250**    |
 
 ---
 
