@@ -97,6 +97,18 @@ Vehículo entregado a prueba al cliente, sin reporte de fallas
 
 ---
 
+## Presupuesto:
+
+| Nombre       | Cantidad | Precio |
+| ------------ | -------- | ------ |
+| Válvula VTEC | 1        | Q750   |
+| Mensajería   | 1        | Q50    |
+| Diagnostico  | 1        | Q250   |
+| Mano de Obra | 1        | Q300   |
+| **Total**             |          |     **Q1350**   |
+
+---
+
 ###### TAG:: #VTEC, #P2647 , #Honda , #Civic
 
 
