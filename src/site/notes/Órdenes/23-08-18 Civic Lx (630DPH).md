@@ -54,19 +54,23 @@
 
 ![Cuerpo de aceleracion](http://drive.google.com/uc?export=view&id=15hMCRJlZkaPB_En6x-gs0HowcMhLm6cI)
 
+- Se debe reemplazar el cuerpo de aceleración por completo
+
 ---
 ## Reparación:
 - Cambio de cojinete trasero derecho 
-- 
+- Cambio del Cuerpo de Aceleracion 
+	
 
 ---
 
 ## Presupuesto:
 
-| Nombre | Cantidad | Precio |
-| ------ | -------- | ------ |
-|        |          |        |
-| **Total**       |        |    **Q**    |
+| Nombre                | Cantidad | Precio |
+| --------------------- | -------- | ------ |
+| Cuerpo de Aceleración | 1        | Q400   |
+| Cojinete trasero      | 1        | Q      |
+|                       |          |        |
 
 ---
 
