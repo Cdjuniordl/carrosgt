@@ -67,6 +67,15 @@
 
 ---
 
+## Presupuesto:
+
+| Nombre | Cantidad | Precio |
+| ------ | -------- | ------ |
+|     Diagnóstico   |          |    Q200    |
+| **Total**       |        |    **Q200**    |
+
+---
+
 ###### TAG:: #Nissan, #Rogue, #AC 
 
 ---
