@@ -52,9 +52,22 @@
 - Termostato electrónico atorado
 - Daño interno del termostato electrónico 
 
+
 ---
 ## Reparación:
-- 
+- Se procedió a quitar el Termostato electrónico 
+- *Desmontaje*
+	![Termostato1|250](http://drive.google.com/uc?export=view&id=18dHjXjLf1JP7qtxu3o4w6Eg993qY2JTX)
+	![Termostato2|250](http://drive.google.com/uc?export=view&id=18hcQig30FSYuPFvWfmLDfiqvyNS7vuCI)
+	![Termostato3|250](http://drive.google.com/uc?export=view&id=18iXWkw7FxRrrXu4L_5BEC1vCHo86xd3p)
+
+- Se encontró daño interno en los engranes del Termostato 
+	![Termostato4|250](http://drive.google.com/uc?export=view&id=18cwFWVFxB8m4raTOrNrvKA1JdVsPdraB)
+
+- Cliente compro otro Termostato usado pero este venía lleno de óxido, por lo que no funcionó.
+- Se procedió al desarme de ambos para utilizar piezas y poder reparar uno de ellos.
+	![Termostato5|250](http://drive.google.com/uc?export=view&id=18cVHkO3hDKBMeOG2-mSMhn6vChBPXjqU)
+
 
 ---
 
