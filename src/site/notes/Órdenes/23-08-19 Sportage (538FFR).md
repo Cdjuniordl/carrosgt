@@ -75,46 +75,12 @@
 
 ---
 
-###### TAG:: #Kia, #Sportage
+## Presupuesto:
 
----
-
-## Estado
-
-- [ ] #Completada
-
-</div></div>
-
-
-## Recepción:
-### Fecha:: 2023-08-19ñ
-#### Fotos de Recepción: 
-
-###### Kilometraje: 
-###### Nivel de Gasolina: 
-###### Luces en tablero: 
-###### Llaves o documentos: Llave
-
----
-
-## Falla presentada:
-- No arranca 
-- trae quitado el CKP y traen otro para instalar 
-- La batería se la llevó el dueño 
-
-
----
-
-## Diagnóstico:
-### DTC:: 
-
-- Al instalar el nuevo CKP si arroja RPM más no arranca 
-- No enciende la bomba de gasolina 
-- Arnes de bomba de gasolina dañado 
-
----
-## Reparación:
-- 
+| Nombre | Cantidad | Precio |
+| ------ | -------- | ------ |
+|        |          |        |
+| **Total**       |        |    **Q**    |
 
 ---
 
@@ -161,46 +127,12 @@
 
 ---
 
-###### TAG:: #Kia, #Sportage
+## Presupuesto:
 
----
-
-## Estado
-
-- [ ] #Completada
-
-</div></div>
-
-
-## Recepción:
-### Fecha:: 2023-08-19ñ
-#### Fotos de Recepción: 
-
-###### Kilometraje: 
-###### Nivel de Gasolina: 
-###### Luces en tablero: 
-###### Llaves o documentos: Llave
-
----
-
-## Falla presentada:
-- No arranca 
-- trae quitado el CKP y traen otro para instalar 
-- La batería se la llevó el dueño 
-
-
----
-
-## Diagnóstico:
-### DTC:: 
-
-- Al instalar el nuevo CKP si arroja RPM más no arranca 
-- No enciende la bomba de gasolina 
-- Arnes de bomba de gasolina dañado 
-
----
-## Reparación:
-- 
+| Nombre | Cantidad | Precio |
+| ------ | -------- | ------ |
+|        |          |        |
+| **Total**       |        |    **Q**    |
 
 ---
 
@@ -244,6 +176,119 @@
 ---
 ## Reparación:
 - 
+
+---
+
+## Presupuesto:
+
+| Nombre | Cantidad | Precio |
+| ------ | -------- | ------ |
+|        |          |        |
+| **Total**       |        |    **Q**    |
+
+---
+
+###### TAG:: #Kia, #Sportage
+
+---
+
+## Estado
+
+- [ ] #Completada
+
+</div></div>
+
+
+## Recepción:
+### Fecha:: 2023-08-19ñ
+#### Fotos de Recepción: 
+
+###### Kilometraje: 
+###### Nivel de Gasolina: 
+###### Luces en tablero: 
+###### Llaves o documentos: Llave
+
+---
+
+## Falla presentada:
+- No arranca 
+- trae quitado el CKP y traen otro para instalar 
+- La batería se la llevó el dueño 
+
+
+---
+
+## Diagnóstico:
+### DTC:: 
+
+- Al instalar el nuevo CKP si arroja RPM más no arranca 
+- No enciende la bomba de gasolina 
+- Arnes de bomba de gasolina dañado 
+
+---
+## Reparación:
+- 
+
+---
+
+## Presupuesto:
+
+| Nombre | Cantidad | Precio |
+| ------ | -------- | ------ |
+|        |          |        |
+| **Total**       |        |    **Q**    |
+
+---
+
+###### TAG:: #Kia, #Sportage
+
+---
+
+## Estado
+
+- [ ] #Completada
+
+</div></div>
+
+
+## Recepción:
+### Fecha:: 2023-08-19ñ
+#### Fotos de Recepción: 
+
+###### Kilometraje: 
+###### Nivel de Gasolina: 
+###### Luces en tablero: 
+###### Llaves o documentos: Llave
+
+---
+
+## Falla presentada:
+- No arranca 
+- trae quitado el CKP y traen otro para instalar 
+- La batería se la llevó el dueño 
+
+
+---
+
+## Diagnóstico:
+### DTC:: 
+
+- Al instalar el nuevo CKP si arroja RPM más no arranca 
+- No enciende la bomba de gasolina 
+- Arnes de bomba de gasolina dañado 
+
+---
+## Reparación:
+- 
+
+---
+
+## Presupuesto:
+
+| Nombre | Cantidad | Precio |
+| ------ | -------- | ------ |
+|        |          |        |
+| **Total**       |        |    **Q**    |
 
 ---
 
