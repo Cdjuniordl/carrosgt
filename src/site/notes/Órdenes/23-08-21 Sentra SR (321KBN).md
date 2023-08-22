@@ -71,6 +71,15 @@
 
 ---
 
+## Presupuesto:
+
+| Nombre                  | Cantidad | Precio |
+| ----------------------- | -------- | ------ |
+| Soldadura de Termostato |        |        |
+| Mano de obra            |          |        |
+
+---
+
 ###### TAG:: #Nissan, #Sentra
 
 ---
