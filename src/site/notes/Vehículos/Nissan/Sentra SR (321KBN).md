@@ -6,7 +6,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![](http://drive.google.com/uc?export=view&id=
+![Vehículo](http://drive.google.com/uc?export=view&id=19RoZGPMV0SVRNXTK_n8GY9J_fE3WiLyV)
 
 ### Marca:: Nissan
 ### Modelo:: Sentra SR Turbo
