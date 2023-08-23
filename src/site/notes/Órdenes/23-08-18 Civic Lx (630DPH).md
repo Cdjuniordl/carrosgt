@@ -52,7 +52,7 @@
 - Problema de TPS
 - Aceleración entre 1500 y 2000 RPM es defectuosa, por un problema con el sensor TPS
 
-![Cuerpo de aceleracion](http://drive.google.com/uc?export=view&id=15hMCRJlZkaPB_En6x-gs0HowcMhLm6cI)
+![Cuerpo de aceleracion|200](http://drive.google.com/uc?export=view&id=15hMCRJlZkaPB_En6x-gs0HowcMhLm6cI)
 
 - Se debe reemplazar el cuerpo de aceleración por completo
 
@@ -60,7 +60,16 @@
 ## Reparación:
 - Cambio de cojinete trasero derecho 
 - Cambio del Cuerpo de Aceleracion 
-	
+- **Cuerpo de aceleracion Viejo**
+	![Viejo1|200](http://drive.google.com/uc?export=view&id=1BuDAtTk4kw5mDcs90pUlI7s8fH14a-NO)
+	![Viejo2|200](http://drive.google.com/uc?export=view&id=1BoiKmqHdQiyHkrJjD_SE8mhlb8fkJ0KK)
+
+- **Cuerpo de aceleracion nuevo**
+	![Nuevo1|200](http://drive.google.com/uc?export=view&id=1BlQRZpv_G-VnbHnBu5QqL_Y50-YmGB3G)
+	![Nuevo2|200](http://drive.google.com/uc?export=view&id=1BkoOcSgEUw_cZgfWC8IFF6FMab9P2zTR)
+	![Nuevo3|200](http://drive.google.com/uc?export=view&id=1BgPeW0KVZJc5pYTj3rCshcZCgRuvlbi_)
+
+
 
 ---
 
