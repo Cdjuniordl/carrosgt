@@ -26,6 +26,6 @@
 
 # [[Órdenes/23-08-21 Sentra SR (321KBN)\|23-08-21 Sentra SR (321KBN)]]
 
-    - [ ] #Completada
+    - [x] #Completada ✅ 2023-08-22
 
 { .block-language-dataview} 
