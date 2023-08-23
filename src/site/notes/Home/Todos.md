@@ -21,6 +21,7 @@
 | [[Vehículos/Kia/Sportage (538FFR)\|Sportage (538FFR)]]        | Kia        | Sportage 4WD    | 1999 |
 | [[Vehículos/Honda/Civic Lx (287FWB)\|Civic Lx (287FWB)]]      | Honda      | Civic Lx        | 2007 |
 | [[Vehículos/Honda/Civic Lx (630DPH)\|Civic Lx (630DPH)]]      | Honda      | Civic Lx        | 2000 |
+| [[Vehículos/Honda/Fit Sport (920HRK)\|Fit Sport (920HRK)]]    | Honda      | Fit Sport       | 2008 |
 
 { .block-language-dataview}
 
