@@ -22,6 +22,6 @@
 
 # [[Órdenes/23-08-18 Civic Lx (630DPH)\|23-08-18 Civic Lx (630DPH)]]
 
-    - [ ] #Completada
+    - [x] #Completada ✅ 2023-08-23
 
 { .block-language-dataview} 
