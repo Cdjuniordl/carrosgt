@@ -74,4 +74,4 @@
 
 ## Estado
 
-- [ ] #Completada
+- [x] #Completada ✅ 2023-08-23
