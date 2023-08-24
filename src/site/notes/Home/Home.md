@@ -11,16 +11,10 @@
 
 ## Órdenes en Proceso 
 
-# [[Órdenes/23-08-18 Civic Lx (630DPH)\|23-08-18 Civic Lx (630DPH)]]
-
-    - [ ] #Completada
 # [[Órdenes/23-08-19 Sportage (538FFR)\|23-08-19 Sportage (538FFR)]]
 
     - [ ] #Completada
 # [[Órdenes/23-08-22 Cx-5 (785KGT)\|23-08-22 Cx-5 (785KGT)]]
-
-    - [ ] #Completada
-# [[Órdenes/23-08-23 Fit Sport (920HRK)\|23-08-23 Fit Sport (920HRK)]]
 
     - [ ] #Completada
 
@@ -48,12 +42,18 @@
 # [[Órdenes/23-08-14 Cx-7 (553GMJ)\|23-08-14 Cx-7 (553GMJ)]]
 
     - [x] #Completada ✅ 2023-08-17
+# [[Órdenes/23-08-18 Civic Lx (630DPH)\|23-08-18 Civic Lx (630DPH)]]
+
+    - [x] #Completada ✅ 2023-08-23
 # [[Órdenes/23-08-18 Rogue Se (568JYV)\|23-08-18 Rogue Se (568JYV)]]
 
     - [x] #Completada ✅ 2023-08-18
 # [[Órdenes/23-08-21 Sentra SR (321KBN)\|23-08-21 Sentra SR (321KBN)]]
 
     - [x] #Completada ✅ 2023-08-22
+# [[Órdenes/23-08-23 Fit Sport (920HRK)\|23-08-23 Fit Sport (920HRK)]]
+
+    - [x] #Completada ✅ 2023-08-23
 
 { .block-language-dataview} 
 
