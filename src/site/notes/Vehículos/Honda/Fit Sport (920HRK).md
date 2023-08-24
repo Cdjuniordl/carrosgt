@@ -26,6 +26,6 @@
 
 # [[Órdenes/23-08-23 Fit Sport (920HRK)\|23-08-23 Fit Sport (920HRK)]]
 
-    - [ ] #Completada
+    - [x] #Completada ✅ 2023-08-23
 
 { .block-language-dataview} 
