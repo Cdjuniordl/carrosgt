@@ -23,6 +23,7 @@
 | [[Vehículos/Honda/Civic Lx (287FWB)\|Civic Lx (287FWB)]]      | Honda      | Civic Lx           | 2007 |
 | [[Vehículos/Honda/Civic Lx (630DPH)\|Civic Lx (630DPH)]]      | Honda      | Civic Lx           | 2000 |
 | [[Vehículos/Honda/Fit Sport (920HRK)\|Fit Sport (920HRK)]]    | Honda      | Fit Sport          | 2008 |
+| [[Vehículos/Toyota/Yaris L (424KLP)\|Yaris L (424KLP)]]       | Toyota     | Yaris L            | 2019 |
 
 { .block-language-dataview}
 
