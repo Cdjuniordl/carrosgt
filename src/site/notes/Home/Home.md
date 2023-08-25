@@ -17,6 +17,9 @@
 # [[Órdenes/23-08-22 Cx-5 (785KGT)\|23-08-22 Cx-5 (785KGT)]]
 
     - [ ] #Completada
+# [[Órdenes/23-08-24 Yaris L (424KLP)\|23-08-24 Yaris L (424KLP)]]
+
+    - [ ] #Completada
 
 { .block-language-dataview} 
 
