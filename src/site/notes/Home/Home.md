@@ -20,6 +20,9 @@
 # [[Órdenes/23-08-24 Yaris L (424KLP)\|23-08-24 Yaris L (424KLP)]]
 
     - [ ] #Completada
+# [[Órdenes/23-08-25 Cherokee Limited (332CLC)\|23-08-25 Cherokee Limited (332CLC)]]
+
+    - [ ] #Completada
 
 { .block-language-dataview} 
 
