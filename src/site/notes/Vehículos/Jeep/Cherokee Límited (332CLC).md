@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/vehiculos/jeep/cherokee-limited-332-clc/","created":"","updated":""}
+---
+
+![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+
+## Datos del Vehículo 
+### Foto:: 
+![](http://drive.google.com/uc?export=view&id=
+
+### Marca:: Jeep
+### Modelo:: Grand Cherokee Limited
+### Año:: 2004
+#### Motor:: 4700
+#### Serie Motor:: 
+#### Vin:: 1J4GW58NX4C423158
+##### Placa:: 332CLC
+##### Color:: Gris
+---
+
+## Cliente:
+
+---
+
+## Historial
+
+# [[Órdenes/23-08-25 Cherokee Limited (332CLC)\|23-08-25 Cherokee Limited (332CLC)]]
+
+    - [ ] #Completada
+
+{ .block-language-dataview} 
