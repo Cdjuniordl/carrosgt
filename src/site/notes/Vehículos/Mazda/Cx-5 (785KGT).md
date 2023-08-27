@@ -20,6 +20,8 @@
 
 ## Cliente:
 
+[[Clientes/Hugo Corzo\|Hugo Corzo]]
+
 ---
 
 ## Historial
