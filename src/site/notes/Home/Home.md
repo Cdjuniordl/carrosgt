@@ -14,12 +14,6 @@
 # [[Órdenes/23-08-19 Sportage (538FFR)\|23-08-19 Sportage (538FFR)]]
 
     - [ ] #Completada
-# [[Órdenes/23-08-22 Cx-5 (785KGT)\|23-08-22 Cx-5 (785KGT)]]
-
-    - [ ] #Completada
-# [[Órdenes/23-08-24 Yaris L (424KLP)\|23-08-24 Yaris L (424KLP)]]
-
-    - [ ] #Completada
 # [[Órdenes/23-08-25 Cherokee Limited (332CLC)\|23-08-25 Cherokee Limited (332CLC)]]
 
     - [ ] #Completada
@@ -54,12 +48,18 @@
 # [[Órdenes/23-08-18 Rogue Se (568JYV)\|23-08-18 Rogue Se (568JYV)]]
 
     - [x] #Completada ✅ 2023-08-18
+# [[Órdenes/23-08-19 Fit Sport (920HRK)\|23-08-19 Fit Sport (920HRK)]]
+
+    - [x] #Completada ✅ 2023-08-23
 # [[Órdenes/23-08-21 Sentra SR (321KBN)\|23-08-21 Sentra SR (321KBN)]]
 
     - [x] #Completada ✅ 2023-08-22
-# [[Órdenes/23-08-23 Fit Sport (920HRK)\|23-08-23 Fit Sport (920HRK)]]
+# [[Órdenes/23-08-22 Cx-5 (785KGT)\|23-08-22 Cx-5 (785KGT)]]
 
-    - [x] #Completada ✅ 2023-08-23
+    - [x] #Completada ✅ 2023-08-26
+# [[Órdenes/23-08-24 Yaris L (424KLP)\|23-08-24 Yaris L (424KLP)]]
+
+    - [x] #Completada ✅ 2023-08-26
 
 { .block-language-dataview} 
 
