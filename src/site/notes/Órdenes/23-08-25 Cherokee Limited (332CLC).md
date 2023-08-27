@@ -50,9 +50,10 @@
 ### DTC:: 
 
 - Consumo de 3.2A en batería 
-	![](http://drive.google.com/uc?export=view&id=
+	![Foto1|200](http://drive.google.com/uc?export=view&id=https://drive.google.com/file/d/1H-SNXwhk2V-FVGxlTECcUJDCJH1IcfuD)
 - El consumo proviene de fusible 7, en compartimento de motor
-	![](http://drive.google.com/uc?export=view&id=
+	![Foto2|200](http://drive.google.com/uc?export=view&id=1GsQ2unRDBKjQr62PPlTKXEwY2aop011V)
+	![Foto3|200](http://drive.google.com/uc?export=view&id=1Gp6bHL-QX6WJR7ncEjnc9Q12yRpchlYo)
 
 ---
 ## Reparación:
