@@ -12,6 +12,7 @@
 | [[Vehículos/BMW/BMW 328i (882GTX)\|BMW 328i (882GTX)]]                  | BMW        | 328i                   | 2011 |
 | [[Vehículos/Chevrolet/S10 (412BCL)\|S10 (412BCL)]]                      | Chevrolet  | S10                    | 1999 |
 | [[Vehículos/Chevrolet/Spark Ls (057FWX)\|Spark Ls (057FWX)]]            | Chevrolet  | Spark Ls               | 2014 |
+| [[Vehículos/Fiat/Palio (763BDJ)\|Palio (763BDJ)]]                       | Fiat       | Palio Fire             | 2005 |
 | [[Vehículos/Ford/Ford Ranger\|Ford Ranger]]                             | Ford       | Ranger                 | 1993 |
 | [[Vehículos/Honda/Civic Lx (287FWB)\|Civic Lx (287FWB)]]                | Honda      | Civic Lx               | 2007 |
 | [[Vehículos/Honda/Civic Lx (630DPH)\|Civic Lx (630DPH)]]                | Honda      | Civic Lx               | 2000 |
