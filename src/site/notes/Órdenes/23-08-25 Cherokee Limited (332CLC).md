@@ -63,6 +63,8 @@
 
 ---
 ## Reparación:
+- Anulación del sistema de calentamiento del sillón lado piloto.
+- El módulo de sillón quedó funcionando aunque se recomienda el cambio 
 - 
 
 ---
@@ -76,7 +78,7 @@
 
 ---
 
-###### TAG:: 
+###### TAG:: #Jeep, #Cherokee
 
 ---
 
