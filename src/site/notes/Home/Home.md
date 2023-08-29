@@ -17,6 +17,9 @@
 # [[Órdenes/23-08-25 Cherokee Limited (332CLC)\|23-08-25 Cherokee Limited (332CLC)]]
 
     - [ ] #Completada
+# [[Órdenes/23-08-29 Palio (763BDK)\|23-08-29 Palio (763BDK)]]
+
+    - [ ] #Completada
 
 { .block-language-dataview} 
 
