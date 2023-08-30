@@ -41,7 +41,8 @@
 
 ## Falla presentada:
 - Descarga la batería 
-- Ya colocaron baterías nuevas y siempre las descarga 
+- Ya colocaron baterías nuevas y siempre las descarga
+- Ruidos traseros
 
 
 ---
@@ -65,7 +66,7 @@
 ## Reparación:
 - Anulación del sistema de calentamiento del sillón lado piloto.
 - El módulo de sillón quedó funcionando aunque se recomienda el cambio 
-- 
+- Cambio de muleta trasera (muleta soporte de catarina trasera)
 
 ---
 
@@ -84,4 +85,4 @@
 
 ## Estado
 
-- [ ] #Completada
+- [x] #Completada ✅ 2023-08-30
