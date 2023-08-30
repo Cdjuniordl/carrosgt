@@ -6,7 +6,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![](http://drive.google.com/uc?export=view&id=
+![Vehículo](http://drive.google.com/uc?export=view&id=1JniPAkz-jSIlYYlIHTMQ3rTXQNqNg_Ln)
 
 ### Marca:: Honda 
 ### Modelo:: CR-V Ex
@@ -26,5 +26,8 @@
 
 ## Historial
 
+# [[Órdenes/23-08-30 Crv (751GMF)\|23-08-30 Crv (751GMF)]]
+
+    - [ ] #Completada
 
 { .block-language-dataview} 
