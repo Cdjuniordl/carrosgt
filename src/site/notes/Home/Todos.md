@@ -26,6 +26,7 @@
 | [[Vehículos/Mitsubishi/Mitsubishi Mirage\|Mitsubishi Mirage]]           | Mitsubishi | Mirage DE              | 2000 |
 | [[Vehículos/Nissan/Rogue Se (568JYV)\|Rogue Se (568JYV)]]               | Nissan     | Rogue Se AWD           | 2013 |
 | [[Vehículos/Nissan/Sentra SR (321KBN)\|Sentra SR (321KBN)]]             | Nissan     | Sentra SR Turbo        | 2017 |
+| [[Vehículos/Toyota/Rav4 (671HZR)\|Rav4 (671HZR)]]                       | Toyota     | Rav4                   | 2001 |
 | [[Vehículos/Toyota/Yaris L (424KLP)\|Yaris L (424KLP)]]                 | Toyota     | Yaris L                | 2019 |
 | [[Vehículos/Volkswagen/Golf Gti (157JNP)\|Golf Gti (157JNP)]]           | Volkswagen | Golf Gti               | 2013 |
 
