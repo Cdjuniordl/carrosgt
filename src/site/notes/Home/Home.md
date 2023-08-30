@@ -14,9 +14,6 @@
 # [[Órdenes/23-08-19 Sportage (538FFR)\|23-08-19 Sportage (538FFR)]]
 
     - [ ] #Completada
-# [[Órdenes/23-08-25 Cherokee Limited (332CLC)\|23-08-25 Cherokee Limited (332CLC)]]
-
-    - [ ] #Completada
 # [[Órdenes/23-08-26 Golf Gti (157JNP)\|23-08-26 Golf Gti (157JNP)]]
 
     - [ ] #Completada
@@ -24,6 +21,9 @@
 
     - [ ] #Completada
 # [[Órdenes/23-08-30 Crv (751GMF)\|23-08-30 Crv (751GMF)]]
+
+    - [ ] #Completada
+# [[Órdenes/23-08-30 Rav4 (671HZR)\|23-08-30 Rav4 (671HZR)]]
 
     - [ ] #Completada
 
@@ -69,6 +69,9 @@
 # [[Órdenes/23-08-24 Yaris L (424KLP)\|23-08-24 Yaris L (424KLP)]]
 
     - [x] #Completada ✅ 2023-08-26
+# [[Órdenes/23-08-25 Cherokee Limited (332CLC)\|23-08-25 Cherokee Limited (332CLC)]]
+
+    - [x] #Completada ✅ 2023-08-30
 
 { .block-language-dataview} 
 
