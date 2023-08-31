@@ -49,7 +49,9 @@
 ## Diagnóstico:
 ### DTC:: 
 
-- 
+- Si hay señal de activación en la electroválvula del compresor 
+- Compresor no genera presión 
+- Compresor dañado 
 
 ---
 ## Reparación:
