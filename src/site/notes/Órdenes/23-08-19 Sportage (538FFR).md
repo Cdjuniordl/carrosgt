@@ -77,10 +77,10 @@
 
 ## Presupuesto:
 
-| Nombre | Cantidad | Precio |
-| ------ | -------- | ------ |
-|        |          |        |
-| **Total**       |        |    **Q**    |
+|  Nombre   | Cantidad | Precio |
+|:---------:| -------- | ------ |
+|           |          |        |
+| **Total** |          | **Q**  |
 
 ---
 
@@ -129,10 +129,10 @@
 
 ## Presupuesto:
 
-| Nombre | Cantidad | Precio |
-| ------ | -------- | ------ |
-|        |          |        |
-| **Total**       |        |    **Q**    |
+|  Nombre   | Cantidad | Precio |
+|:---------:| -------- | ------ |
+|           |          |        |
+| **Total** |          | **Q**  |
 
 ---
 
@@ -181,10 +181,10 @@
 
 ## Presupuesto:
 
-| Nombre | Cantidad | Precio |
-| ------ | -------- | ------ |
-|        |          |        |
-| **Total**       |        |    **Q**    |
+|  Nombre   | Cantidad | Precio |
+|:---------:| -------- | ------ |
+|           |          |        |
+| **Total** |          | **Q**  |
 
 ---
 
@@ -233,10 +233,10 @@
 
 ## Presupuesto:
 
-| Nombre | Cantidad | Precio |
-| ------ | -------- | ------ |
-|        |          |        |
-| **Total**       |        |    **Q**    |
+|  Nombre   | Cantidad | Precio |
+|:---------:| -------- | ------ |
+|           |          |        |
+| **Total** |          | **Q**  |
 
 ---
 
@@ -285,10 +285,10 @@
 
 ## Presupuesto:
 
-| Nombre | Cantidad | Precio |
-| ------ | -------- | ------ |
-|        |          |        |
-| **Total**       |        |    **Q**    |
+|  Nombre   | Cantidad | Precio |
+|:---------:| -------- | ------ |
+|           |          |        |
+| **Total** |          | **Q**  |
 
 ---
 
