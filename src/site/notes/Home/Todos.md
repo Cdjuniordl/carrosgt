@@ -32,5 +32,5 @@
 
 { .block-language-dataview}
 
-<a href="obsidian://open?vault=Carros%20Gt&file=Home%2FHome"><button class="btn success">Home</button></a>
+<a href="obsidian://open?vault=Carros%20Gt&file=Home%2FHome"><button class="btn success">HOME</button></a>
 
