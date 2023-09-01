@@ -5,7 +5,7 @@
 
 ## Vehículos
 
-**[[Home/Todos\|TODOS]]**
+<a href="https://carrosgt.vercel.app/home/todos/"><button class="btn success">TODOS</button></a>
 
 ---
 
