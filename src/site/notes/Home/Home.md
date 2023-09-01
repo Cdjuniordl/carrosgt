@@ -5,7 +5,11 @@
 
 ## Vehículos
 
-<a href="https://carrosgt.vercel.app/home/todos/"><button class="btn success">TODOS</button></a>
+<a href="obsidian://open?vault=Carros%20Gt&file=Home%2FTodos"><button class="btn success">TODOS</button></a>
+
+
+<!DOCTYPE html><html><head><meta name="viewport" content="width=device-width, initial-scale=1"><style>.btn { border: none; background-color:#04AA6D; padding: 14px 28px; font-size: 16px; cursor: pointer; display: inline-block;}btn:hover {background: #eee:}.sucess:hover {background-color: #04AA6Dcolor: white}.success {color: white;}</style></head><body><h2>Botón de texto</h2><button class="btn success">Enviar</button></body></html>
+
 
 ---
 
