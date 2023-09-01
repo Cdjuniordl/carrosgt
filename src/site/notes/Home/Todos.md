@@ -32,5 +32,5 @@
 
 { .block-language-dataview}
 
+<a href="[[Home/Home\|Home]]"><button class="btn success">Home</button></a>
 
-[[Home/Home\|Home]]
