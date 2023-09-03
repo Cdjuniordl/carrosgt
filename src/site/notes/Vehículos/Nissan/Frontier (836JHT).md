@@ -6,7 +6,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![](http://drive.google.com/uc?export=view&id=
+![Vehículo](http://drive.google.com/uc?export=view&id=1LX_w0sabFqGUdZ5r4ms5Rn7ySHIuDLXO)
 
 ### Marca:: Nissan
 ### Modelo:: Frontier Se King
