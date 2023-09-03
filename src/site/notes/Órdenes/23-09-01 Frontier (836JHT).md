@@ -53,7 +53,8 @@
 
 ---
 ## Reparación:
-- 
+- Ajuste de arnes de computadora 
+- limpieza de espigas de computadora
 
 ---
 
@@ -61,8 +62,8 @@
 
 | Nombre | Cantidad | Precio |
 | ------ | -------- | ------ |
-|        |          |        |
-| **Total**       |        |    **Q**    |
+|     Diagnóstico   |          | Q125       |
+| **Total**       |        |    **Q125**    |
 
 ---
 
@@ -72,4 +73,4 @@
 
 ## Estado
 
-- [ ] #Completada
+- [x] #Completada ✅ 2023-09-02
