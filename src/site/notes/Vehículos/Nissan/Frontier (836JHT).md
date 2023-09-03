@@ -28,6 +28,6 @@
 
 # [[Órdenes/23-09-01 Frontier (836JHT)\|23-09-01 Frontier (836JHT)]]
 
-    - [ ] #Completada
+    - [x] #Completada ✅ 2023-09-02
 
 { .block-language-dataview} 
