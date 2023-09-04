@@ -25,4 +25,3 @@
 
 <a href="obsidian://open?vault=Carros%20Gt&file=Home%2F01%20Recordatorios"><button class="btn success">Recordatorios</button></a>
 
-
