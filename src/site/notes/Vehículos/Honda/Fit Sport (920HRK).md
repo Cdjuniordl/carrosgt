@@ -24,8 +24,5 @@
 
 ## Historial
 
-# [[Órdenes/23-08-19 Fit Sport (920HRK)\|23-08-19 Fit Sport (920HRK)]]
-
-    - [x] #Completada ✅ 2023-08-23
 
 { .block-language-dataview} 
