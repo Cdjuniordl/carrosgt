@@ -26,8 +26,5 @@
 
 ## Historial
 
-# [[Órdenes/23-08-30 Rav4 (671HZR)\|23-08-30 Rav4 (671HZR)]]
-
-    - [ ] #Completada
 
 { .block-language-dataview} 
