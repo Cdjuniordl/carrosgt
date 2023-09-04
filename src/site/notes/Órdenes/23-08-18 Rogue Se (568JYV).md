@@ -82,4 +82,4 @@
 
 ## Estado
 
-- [x] #Completada ✅ 2023-08-18
+### Entrega:: 2023-08-18
