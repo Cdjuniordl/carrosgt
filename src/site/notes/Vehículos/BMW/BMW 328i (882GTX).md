@@ -21,9 +21,6 @@
 
 ## Historial:
 
-# [[Órdenes/23-06-06  BMW 328i (882GTX)\|23-06-06  BMW 328i (882GTX)]]
-
-    - [x] #Completada ✅ 2023-06-12
 
 { .block-language-dataview} 
 
