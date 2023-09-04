@@ -90,7 +90,7 @@
 
 ## Estado
 
-- [ ] #Completada
+### Entrega:: 
 
 </div></div>
 
@@ -142,7 +142,7 @@
 
 ## Estado
 
-- [ ] #Completada
+### Entrega:: 
 
 </div></div>
 
@@ -194,7 +194,7 @@
 
 ## Estado
 
-- [ ] #Completada
+### Entrega:: 
 
 </div></div>
 
@@ -246,7 +246,7 @@
 
 ## Estado
 
-- [ ] #Completada
+### Entrega:: 
 
 </div></div>
 
@@ -298,4 +298,4 @@
 
 ## Estado
 
-- [ ] #Completada
+### Entrega:: 
