@@ -29,8 +29,5 @@
 # [[Órdenes/23-08-22 Cx-5 (785KGT)\|23-08-22 Cx-5 (785KGT)]]
 
     - [x] #Completada ✅ 2023-08-26
-# [[Órdenes/23-08-31 Cx-5 (785KGT)\|23-08-31 Cx-5 (785KGT)]]
-
-    - [ ] #Completada
 
 { .block-language-dataview} 
