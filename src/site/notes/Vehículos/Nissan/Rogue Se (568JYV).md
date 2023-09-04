@@ -21,9 +21,6 @@
 
 ## Historial:
 
-# [[Órdenes/23-08-18 Rogue Se (568JYV)\|23-08-18 Rogue Se (568JYV)]]
-
-    - [x] #Completada ✅ 2023-08-18
 
 { .block-language-dataview} 
 
