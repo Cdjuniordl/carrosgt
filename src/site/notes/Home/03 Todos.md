@@ -7,7 +7,7 @@
 # Carros Gt
 
 
-| File                                                                       | Marca      | Modelo                 | Año  |
+| Nombre                                                                     | Marca      | Modelo                 | Año  |
 | -------------------------------------------------------------------------- | ---------- | ---------------------- | ---- |
 | [[Vehículos/BMW/BMW 328i (882GTX)\|BMW 328i (882GTX)]]                  | BMW        | 328i                   | 2011 |
 | [[Vehículos/Chevrolet/S10 (412BCL)\|S10 (412BCL)]]                      | Chevrolet  | S10                    | 1999 |
