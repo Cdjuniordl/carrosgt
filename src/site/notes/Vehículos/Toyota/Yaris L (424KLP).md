@@ -27,8 +27,5 @@
 
 ## Historial
 
-# [[Órdenes/23-08-24 Yaris L (424KLP)\|23-08-24 Yaris L (424KLP)]]
-
-    - [x] #Completada ✅ 2023-08-26
 
 { .block-language-dataview} 
