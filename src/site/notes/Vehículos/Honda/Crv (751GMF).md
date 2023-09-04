@@ -26,8 +26,5 @@
 
 ## Historial
 
-# [[Órdenes/23-08-30 Crv (751GMF)\|23-08-30 Crv (751GMF)]]
-
-    - [x] #Completada ✅ 2023-09-01
 
 { .block-language-dataview} 
