@@ -42,6 +42,7 @@
 ## Falla presentada:
 - No funciona el AC
 - Se cambió la electroválvula y se cargó de gas 
+- Luz de check por sistema Evap
 
 
 ---
@@ -68,7 +69,7 @@
 
 ---
 
-###### TAG:: 
+###### TAG:: #AC , #Evap
 
 ---
 
