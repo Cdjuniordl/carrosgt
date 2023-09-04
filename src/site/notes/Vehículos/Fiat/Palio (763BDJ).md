@@ -26,8 +26,5 @@
 
 ## Historial
 
-# [[Órdenes/23-08-29 Palio (763BDK)\|23-08-29 Palio (763BDK)]]
-
-    - [ ] #Completada
 
 { .block-language-dataview} 
