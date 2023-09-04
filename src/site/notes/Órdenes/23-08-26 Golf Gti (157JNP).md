@@ -72,6 +72,6 @@
 
 ---
 
-## Estado
+## Estado:
 
-- [ ] #Completada
+### Entrega:: 
