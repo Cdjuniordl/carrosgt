@@ -24,8 +24,5 @@
 
 ## Historial
 
-# [[Órdenes/23-08-25 Cherokee Limited (332CLC)\|23-08-25 Cherokee Limited (332CLC)]]
-
-    - [x] #Completada ✅ 2023-08-30
 
 { .block-language-dataview} 
