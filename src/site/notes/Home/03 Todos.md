@@ -22,6 +22,7 @@ color blue
 | [[Vehículos/Ford/Ford Ranger\|Ford Ranger]]                             | Ford       | Ranger                 | 1993 |
 | [[Vehículos/Honda/Civic Lx (287FWB)\|Civic Lx (287FWB)]]                | Honda      | Civic Lx               | 2007 |
 | [[Vehículos/Honda/Civic Lx (630DPH)\|Civic Lx (630DPH)]]                | Honda      | Civic Lx               | 2000 |
+| [[Vehículos/Honda/Civic Lx (922FXJ)\|Civic Lx (922FXJ)]]                | Honda      | Civic Lx               | 2004 |
 | [[Vehículos/Honda/Crv (138HZB)\|Crv (138HZB)]]                          | Honda      | Crv                    | 1997 |
 | [[Vehículos/Honda/Crv (751GMF)\|Crv (751GMF)]]                          | Honda      | CR-V Ex                | 2005 |
 | [[Vehículos/Honda/Fit Sport (920HRK)\|Fit Sport (920HRK)]]              | Honda      | Fit Sport              | 2008 |
