@@ -38,6 +38,7 @@ color blue
 | [[Vehículos/Toyota/Rav4 (671HZR)\|Rav4 (671HZR)]]                       | Toyota     | Rav4                   | 2001 |
 | [[Vehículos/Toyota/Yaris L (424KLP)\|Yaris L (424KLP)]]                 | Toyota     | Yaris L                | 2019 |
 | [[Vehículos/Volkswagen/Golf Gti (157JNP)\|Golf Gti (157JNP)]]           | Volkswagen | Golf Gti               | 2013 |
+| [[Vehículos/Volkswagen/Golf TDI (741CXY)\|Golf TDI (741CXY)]]           | Volkswagen | Golf TDI               | 2002 |
 
 { .block-language-dataview}
 
