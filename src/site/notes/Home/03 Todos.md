@@ -2,6 +2,12 @@
 {"dg-publish":true,"permalink":"/home/03-todos/","created":"","updated":""}
 ---
 
+```button
+name HOME
+type link
+action obsidian://open?vault=Carros%20Gt&file=Home%2F06%20Home
+color blue
+```{ #button-ei4y}
 
 
 # Carros Gt
@@ -34,5 +40,10 @@
 
 { .block-language-dataview}
 
-<a href="obsidian://open?vault=Carros%20Gt&file=Home%2FHome"><button class="btn success">HOME</button></a>
+```button
+name HOME
+type link
+action obsidian://open?vault=Carros%20Gt&file=Home%2F06%20Home
+color blue
+```{ #button-ei4y}
 
