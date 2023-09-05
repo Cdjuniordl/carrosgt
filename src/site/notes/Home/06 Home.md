@@ -3,24 +3,69 @@
 ---
 
 
-## Vehículos
 
-<a href="obsidian://open?vault=Carros%20Gt&file=Home%2FTodos"><button class="btn success">TODOS</button></a>
+## Órdenes
 
----
+```button
+name EN PROCESO
+type link
+action obsidian://open?vault=Carros%20Gt&file=Home%2F05%20%C3%93rdenes%20en%20Proceso
+color blue
+```{ #button-vkxb}
 
-## Órdenes en Proceso 
 
-<a href="obsidian://open?vault=Carros%20Gt&file=Home%2F05%20%C3%93rdenes%20en%20Proceso"><button class="btn success">Órdenes en Proceso</button></a>
+```button
+name COMPLETADAS
+type link
+action obsidian://open?vault=Carros%20Gt&file=Home%2F04%20%C3%93rdenes%20Completadas
+color blue
+```{ #button-xd0y}
 
----
 
-## Órdenes Completadas
+```button
+name TODOS
+type link
+action obsidian://open?vault=Carros%20Gt&file=Home%2F03%20Todos
+color blue
+```{ #button-afhb}
 
-<a href="obsidian://open?vault=Carros%20Gt&file=Home%2F04%20%C3%93rdenes%20Completadas"><button class="btn success">Órdenes Completadas</button></a>
 
 ---
 
 ## Recordatorios 
 
-<a href="obsidian://open?vault=Carros%20Gt&file=Home%2F01%20Recordatorios"><button class="btn success">Recordatorios</button></a>
+```button
+name RECORDATORIOS
+type link
+action obsidian://open?vault=Carros%20Gt&file=Home%2F01%20Recordatorios
+color red
+```{ #button-fygj}
+
+
+---
+
+## Nuevos Datos
+
+```button
+name Nuevo Cliente
+type note(Nombre) template
+action tpl.Cliente
+color green
+```{ #button-aiqw}
+
+
+```button
+name Nuevo Vehículo
+type note(Marca) template
+action tpl.Datos
+color purple
+```{ #button-myet}
+
+
+```button
+name Nueva Orden
+type note(Orden) template
+action tpl.Ordenes
+color yellow
+```
+^button-5svv
