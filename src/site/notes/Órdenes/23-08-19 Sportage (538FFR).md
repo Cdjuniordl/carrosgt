@@ -71,7 +71,10 @@
 
 ---
 ## Reparación:
-- 
+- Instalación de CKP
+- Reparación de arnés de bomba de gasolina 
+- Cambio de mangueras de gas 
+- Limpieza de candelas 
 
 ---
 
@@ -123,7 +126,10 @@
 
 ---
 ## Reparación:
-- 
+- Instalación de CKP
+- Reparación de arnés de bomba de gasolina 
+- Cambio de mangueras de gas 
+- Limpieza de candelas 
 
 ---
 
@@ -175,7 +181,10 @@
 
 ---
 ## Reparación:
-- 
+- Instalación de CKP
+- Reparación de arnés de bomba de gasolina 
+- Cambio de mangueras de gas 
+- Limpieza de candelas 
 
 ---
 
@@ -227,7 +236,10 @@
 
 ---
 ## Reparación:
-- 
+- Instalación de CKP
+- Reparación de arnés de bomba de gasolina 
+- Cambio de mangueras de gas 
+- Limpieza de candelas 
 
 ---
 
@@ -279,7 +291,10 @@
 
 ---
 ## Reparación:
-- 
+- Instalación de CKP
+- Reparación de arnés de bomba de gasolina 
+- Cambio de mangueras de gas 
+- Limpieza de candelas 
 
 ---
 
