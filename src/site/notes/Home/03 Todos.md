@@ -15,6 +15,7 @@ color blue
 
 | Nombre                                                                     | Marca      | Modelo                 | Año  |
 | -------------------------------------------------------------------------- | ---------- | ---------------------- | ---- |
+| [[Vehículos/BMW/328i (636HNT)\|328i (636HNT)]]                          | BMW        | 328i                   | 2008 |
 | [[Vehículos/BMW/BMW 328i (882GTX)\|BMW 328i (882GTX)]]                  | BMW        | 328i                   | 2011 |
 | [[Vehículos/Chevrolet/S10 (412BCL)\|S10 (412BCL)]]                      | Chevrolet  | S10                    | 1999 |
 | [[Vehículos/Chevrolet/Spark Ls (057FWX)\|Spark Ls (057FWX)]]            | Chevrolet  | Spark Ls               | 2014 |
