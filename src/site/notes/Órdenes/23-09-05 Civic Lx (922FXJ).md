@@ -12,7 +12,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![](http://drive.google.com/uc?export=view&id=
+![Vehículo](http://drive.google.com/uc?export=view&id=1MzA3HwAvhL1pxcc8CoQAJbRCQJIw3Lf-)
 
 ### Marca:: Honda
 ### Modelo:: Civic Lx
@@ -54,16 +54,20 @@
 
 ---
 ## Reparación:
-- 
+- Cambio de Regulador 
+- Cambio de Puente de diodos 
+- Mantenimiento general de alternador 
 
 ---
 
 ## Presupuesto:
 
-| Nombre | Cantidad | Precio |
-| ------ | -------- | ------ |
-|        |          |        |
-| **Total**       |        |    **Q**    |
+| Nombre          | Cantidad | Precio |
+| --------------- | -------- | ------ |
+| Placa de diodos | 1        | Q150   |
+| Regulador       | 1        | Q175   |
+| Mano de Obra    |          | Q225   |
+|        **Total**         |          |    **Q550**    |
 
 ---
 
