@@ -63,10 +63,9 @@ color purple
 
 
 ```button
-name Nueva Orden
-type note(Orden) template
-action tpl.Ordenes
+name NUEVA ORDEN
+type command
+action Notas diarias: Abrir la nota de hoy
 color yellow
-```{ #button-5svv}
-
+```{ #button-p9k2}
 
