@@ -56,7 +56,7 @@
 
 ---
 ## Reparación:
-- 
+- No se realizó ninguna reparación 
 
 ---
 
@@ -75,4 +75,4 @@
 
 ## Estado:
 
-### Entrega:: 
+### Entrega:: 2023-09-06
