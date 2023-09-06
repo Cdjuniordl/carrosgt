@@ -12,7 +12,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![](http://drive.google.com/uc?export=view&id=
+![Vehículo](http://drive.google.com/uc?export=view&id=1MZ8mwO1VPK1pIJDFEiI_RK3_HWgdMHFT)
 
 ### Marca:: Volkswagen 
 ### Modelo:: Golf TDI
@@ -48,7 +48,7 @@
 ## Diagnóstico:
 ### DTC:: 
 
-- <a href="http"><button class="btn success">CÓDIGOS</button></a>
+- <a href="http://aitus.golo365.com/Home/Report/reportDetail/diagnose_record_id/404df27ageAE3bKw54OM5454IF/report_type/D/l/es/timezone/-6"><button class="btn success">CÓDIGOS</button></a>
 - 
 
 ---
