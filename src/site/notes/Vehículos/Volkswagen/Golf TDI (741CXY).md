@@ -6,7 +6,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![](http://drive.google.com/uc?export=view&id=
+![Vehículo](http://drive.google.com/uc?export=view&id=1MZ8mwO1VPK1pIJDFEiI_RK3_HWgdMHFT)
 
 ### Marca:: Volkswagen 
 ### Modelo:: Golf TDI
@@ -27,5 +27,6 @@
 
 ## Historial
 
+- [[Órdenes/23-09-05 Golf TDI (741CXY)\|23-09-05 Golf TDI (741CXY)]]
 
 { .block-language-dataview} 
