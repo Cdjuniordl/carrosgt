@@ -30,7 +30,6 @@
 
 ## Recepción:
 ### Fecha:: 2023-09-05
-#### Fotos de Recepción: <a href="http"><button class="btn success">FOTOS</button></a>
 
 ###### Kilometraje: 183 916Mi
 ###### Nivel de Gasolina: 1/4
@@ -51,12 +50,21 @@
 
 - <a href="http"><button class="btn success">CÓDIGOS</button></a>
 - No carga el alternador 
+- Regulador dañado 
+- Dañado el puente de diodos 
+- Canasta dañada 
+	![Altermador|175](http://drive.google.com/uc?export=view&id=1Ndbf8j9sC27Tjz3QhRkCCJtwXNe7XHzi)
+	![Alternador2|175](http://drive.google.com/uc?export=view&id=1Nhu-Tp5ZyBK_dIHsWyyyOXZLq4Ec71T8)
+	![Alternador3|175](http://drive.google.com/uc?export=view&id=1Nk6YL9NRcfiC84zr95jFiu1xA1RlvX58)
+	
 
 ---
 ## Reparación:
-- Cambio de Regulador 
-- Cambio de Puente de diodos 
-- Mantenimiento general de alternador 
+- Cambio de Alternador 
+- Altermador usado original 
+	![Reemplazo1|175](http://drive.google.com/uc?export=view&id=1NPjWAighAbm3hmvzGrfGRO_-Z2fB_wSQ)
+	![Reemplazo2|175](http://drive.google.com/uc?export=view&id=1NQWZf_9i0SEkUn_uOSjDDLj2yR9qAcox)
+	![Reemplazo3|175](http://drive.google.com/uc?export=view&id=1NPhIDdAJRyKEK8xS8sKjzBg_OS3rTA9K)
 
 ---
 
@@ -64,10 +72,9 @@
 
 | Nombre          | Cantidad | Precio |
 | --------------- | -------- | ------ |
-| Placa de diodos | 1        | Q150   |
-| Regulador       | 1        | Q175   |
-| Mano de Obra    |          | Q225   |
-|        **Total**         |          |    **Q550**    |
+| Alternador usado | 1        | Q700   |
+| Mano de Obra  y mensajeria  |          | Q100   |
+|        **Total**         |          |    **Q800**    |
 
 ---
 
