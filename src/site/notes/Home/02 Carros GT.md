@@ -36,5 +36,3 @@
 ![Logo](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
 
 
-[[Vehículos/Honda/Civic Lx (922FXJ)\|Civic Lx (922FXJ)]]
-[[Home/03 Todos\|03 Todos]]
