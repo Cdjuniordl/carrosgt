@@ -66,6 +66,8 @@
 	![Reemplazo2|175](http://drive.google.com/uc?export=view&id=1NQWZf_9i0SEkUn_uOSjDDLj2yR9qAcox)
 	![Reemplazo3|175](http://drive.google.com/uc?export=view&id=1NPhIDdAJRyKEK8xS8sKjzBg_OS3rTA9K)
 
+- Carga de alternador nuevo *14.5v*
+	![Carga|175](http://drive.google.com/uc?export=view&id=1ODUIiwRAkMe0uFVcvbGCorh4BijPsYf9)
 ---
 
 ## Presupuesto:
