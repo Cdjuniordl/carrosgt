@@ -6,7 +6,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![Vehículo](http://drive.google.com/uc?export=view&id=
+![Vehículo](http://drive.google.com/uc?export=view&id=1PAsYdDO04sjSuOWPhzQHhHLiYDMetrVq)
 
 ### Marca:: Honda
 ### Modelo:: CR-V EX
@@ -20,7 +20,7 @@
 
 ## Cliente:
 
-
+[[Clientes/Pablo Ayala\|Pablo Ayala]]
 
 ---
 
