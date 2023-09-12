@@ -54,7 +54,7 @@
 ---
 ## Reparación:
 - Reemplazo de cinturón delantero derecho 
-
+	![Cinturón|175](http://drive.google.com/uc?export=view&id=1TI7G4gAjKcIrFyHZvWoweaJ03pFQ7m_s)
 ---
 
 ## Presupuesto:
