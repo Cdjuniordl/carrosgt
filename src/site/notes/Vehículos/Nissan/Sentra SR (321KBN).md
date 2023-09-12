@@ -24,5 +24,8 @@
 
 ## Historial
 
+- [[Órdenes/23-08-21 Sentra SR (321KBN)\|23-08-21 Sentra SR (321KBN)]]
+- [[Órdenes/23-09-06 Sentra Sr (321KBN)\|23-09-06 Sentra Sr (321KBN)]]
+- [[Órdenes/23-09-12 Sentra Sr (321KBN)\|23-09-12 Sentra Sr (321KBN)]]
 
 { .block-language-dataview} 
