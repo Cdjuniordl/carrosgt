@@ -10,10 +10,10 @@
 
 
 ### Marca:: Toyota
-### Modelo:: Rav4
+### Modelo:: Rav4 XLE
 ### Año:: 2022
 #### Motor:: 2500
-#### Serie Motor:: 
+#### Serie Motor:: A25A
 #### Vin:: 2T3P1RFVXNC297415
 ##### Placa:: 
 ##### Color:: Gris oscuro
