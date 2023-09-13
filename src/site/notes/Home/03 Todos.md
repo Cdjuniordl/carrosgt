@@ -40,6 +40,7 @@
 | [[Vehículos/Toyota/Yaris L (424KLP)\|Yaris L (424KLP)]]                 | Toyota     | Yaris L                | 2019 |
 | [[Vehículos/Volkswagen/Golf Gti (157JNP)\|Golf Gti (157JNP)]]           | Volkswagen | Golf Gti               | 2013 |
 | [[Vehículos/Volkswagen/Golf TDI (741CXY)\|Golf TDI (741CXY)]]           | Volkswagen | Golf TDI               | 2002 |
+| [[Vehículos/Volkswagen/Tiguan TDi (548DVN)\|Tiguan TDi (548DVN)]]       | Volkswagen | Tiguan TDi             | 2010 |
 
 { .block-language-dataview}
 
