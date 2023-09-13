@@ -25,6 +25,7 @@
 | [[Vehículos/Honda/Crv (751GMF)\|Crv (751GMF)]]                          | Honda      | CR-V Ex                | 2005 |
 | [[Vehículos/Honda/Fit Sport (920HRK)\|Fit Sport (920HRK)]]              | Honda      | Fit Sport              | 2008 |
 | [[Vehículos/Jeep/Cherokee Límited (332CLC)\|Cherokee Límited (332CLC)]] | Jeep       | Grand Cherokee Limited | 2004 |
+| [[Vehículos/Kia/Río (528JYQ)\|Río (528JYQ)]]                            | Kia        | Rio LX                 | 2016 |
 | [[Vehículos/Kia/Sportage (538FFR)\|Sportage (538FFR)]]                  | Kia        | Sportage 4WD           | 1999 |
 | [[Vehículos/Mazda/3i (586GJK)\|3i (586GJK)]]                            | Mazda      | 3i                     | 2006 |
 | [[Vehículos/Mazda/Cx-5 (785KGT)\|Cx-5 (785KGT)]]                        | Mazda      | Cx-5 Grand Touring     | 2018 |
