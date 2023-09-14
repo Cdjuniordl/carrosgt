@@ -23,6 +23,7 @@
 | [[Vehículos/Honda/Crv (138HZB)\|Crv (138HZB)]]                          | Honda      | Crv                    | 1997 |
 | [[Vehículos/Honda/Crv (142JNB)\|Crv (142JNB)]]                          | Honda      | CR-V EX                | 2002 |
 | [[Vehículos/Honda/Crv (751GMF)\|Crv (751GMF)]]                          | Honda      | CR-V Ex                | 2005 |
+| [[Vehículos/Honda/Fit Lx (934JYV)\|Fit Lx (934JYV)]]                    | Honda      | Fit Lx                 | 2017 |
 | [[Vehículos/Honda/Fit Sport (920HRK)\|Fit Sport (920HRK)]]              | Honda      | Fit Sport              | 2008 |
 | [[Vehículos/Jeep/Cherokee Límited (332CLC)\|Cherokee Límited (332CLC)]] | Jeep       | Grand Cherokee Limited | 2004 |
 | [[Vehículos/Kia/Río (528JYQ)\|Río (528JYQ)]]                            | Kia        | Rio LX                 | 2016 |
