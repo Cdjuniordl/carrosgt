@@ -6,7 +6,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![Vehículo](http://drive.google.com/uc?export=view&id=
+![Vehículo](http://drive.google.com/uc?export=view&id=1Xb_WzPUr48cMoDZdHkUrcWeVwew9Wm6q)
 
 ### Marca:: Nissan
 ### Modelo:: Sentra Sv
