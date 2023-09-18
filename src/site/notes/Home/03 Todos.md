@@ -17,6 +17,7 @@
 | [[Vehículos/Fiat/500 Pop (208GVG)\|500 Pop (208GVG)]]                   | Fiat       | 500 Pop                | 2012 |
 | [[Vehículos/Fiat/Palio (763BDJ)\|Palio (763BDJ)]]                       | Fiat       | Palio Fire             | 2005 |
 | [[Vehículos/Ford/Ford Ranger\|Ford Ranger]]                             | Ford       | Ranger                 | 1993 |
+| [[Vehículos/Ford/Mustang (334JMV)\|Mustang (334JMV)]]                   | Ford       | Mustang V6 convertible | 2014 |
 | [[Vehículos/Honda/Civic Lx (287FWB)\|Civic Lx (287FWB)]]                | Honda      | Civic Lx               | 2007 |
 | [[Vehículos/Honda/Civic Lx (630DPH)\|Civic Lx (630DPH)]]                | Honda      | Civic Lx               | 2000 |
 | [[Vehículos/Honda/Civic Lx (922FXJ)\|Civic Lx (922FXJ)]]                | Honda      | Civic Lx               | 2004 |
