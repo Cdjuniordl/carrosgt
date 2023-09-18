@@ -30,11 +30,11 @@
 
 ## Recepción:
 ### Fecha:: 2023-09-18
-#### Fotos de Recepción: <a href="http"><button class="btn success">FOTOS</button></a>
+#### Fotos de Recepción:
 
-###### Kilometraje: 
-###### Nivel de Gasolina: 
-###### Luces en tablero: 
+###### Kilometraje: 114 673Mi
+###### Nivel de Gasolina: Reseva
+###### Luces en tablero: Luz aceite
 ###### Llaves o documentos: Llave y tarjeta 
 
 ---
@@ -50,12 +50,14 @@
 ## Diagnóstico:
 ### DTC:: 
 
-- <a href="http"><button class="btn success">CÓDIGOS</button></a>
-- 
+- Arnes dañado de sensor de presión hacia Clúster 
 
 ---
 ## Reparación:
-- 
+- Reparación de arnés Sensor de presión de aceite 
+	![Arnes1|175](http://drive.google.com/uc?export=view&id=1YyLs5C4PsCDvU3sFEymsUoeHYSTNtCbU)
+	![Arnes2|175](http://drive.google.com/uc?export=view&id=1ZH0x9X5daR3D8ObhJYsTfIwagUEqsfHe)
+	![Tablero|175](http://drive.google.com/uc?export=view&id=1Z0PCBpULtFStr4xPZGNcJXoW3sUiOQ9b)
 
 ---
 
@@ -63,8 +65,8 @@
 
 | Nombre | Cantidad | Precio |
 | ------ | -------- | ------ |
-|        |          |        |
-| **Total**       |        |    **Q**    |
+|   Reparación de Arnes     |          |   Q300     |
+| **Total**       |        |    **Q300**    |
 
 ---
 
@@ -74,4 +76,4 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2023-09-18
