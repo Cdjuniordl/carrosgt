@@ -14,6 +14,7 @@
 | [[Vehículos/Chevrolet/Colorado Lt\|Colorado Lt]]                        | Chevrolet  | Colorado LT            | 2007 |
 | [[Vehículos/Chevrolet/S10 (412BCL)\|S10 (412BCL)]]                      | Chevrolet  | S10                    | 1999 |
 | [[Vehículos/Chevrolet/Spark Ls (057FWX)\|Spark Ls (057FWX)]]            | Chevrolet  | Spark Ls               | 2014 |
+| [[Vehículos/Dodge/Ram 2500 (433DPQ)\|Ram 2500 (433DPQ)]]                | Dodge      | Ram 2500 SLT           | 2008 |
 | [[Vehículos/Fiat/500 Pop (208GVG)\|500 Pop (208GVG)]]                   | Fiat       | 500 Pop                | 2012 |
 | [[Vehículos/Fiat/Palio (763BDJ)\|Palio (763BDJ)]]                       | Fiat       | Palio Fire             | 2005 |
 | [[Vehículos/Ford/Ford Ranger\|Ford Ranger]]                             | Ford       | Ranger                 | 1993 |
