@@ -42,7 +42,7 @@
 ## Falla presentada:
 - Perdida de potencia 
 - En subidas parpadea luz de precalentadores 
-- Al apagar la luz de quita 
+- Al apagar la luz se quita 
 - Cuando enciende el check ya no se borra 
 - Se hizo prueba de manejo y se reprodujo la falla junto con el cliente 
 
@@ -57,7 +57,7 @@
 - Y un valor entre *0.65v* y *0.85v* cuando hay vacío aplicado 
 	![Sensor](http://drive.google.com/uc?export=view&id=1a0WCGqF4Mb44YbF3QGWOiZEA4zQxnBRy)
 - El valor obtenido es de *3.5v* con vacío y sin vacío aplicado, comprobando así que existe un problema en la válvula actuadora de posición 
-- **Gráfica de Válvula y Sensor de posición **
+**Gráfica de Válvula y Sensor de posición **
 	- ![Grafica1|225](http://drive.google.com/uc?export=view&id=1_QGXzmyFFYyGs-QtAPlNH1snBt4eXf_A)
 	- ![Gráfica2|225](http://drive.google.com/uc?export=view&id=1_DHTOB2eNttK4PQFSwlnEsfGQDlQ6cPD)
 >[!info]- Conexiones
