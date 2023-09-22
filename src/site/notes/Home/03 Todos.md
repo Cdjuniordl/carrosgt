@@ -31,6 +31,7 @@
 | [[Vehículos/Hyundai/Tucson (620JJN)\|Tucson (620JJN)]]                  | Hyundai    | Tucson GLS             | 2014 |
 | [[Vehículos/Jeep/Cherokee Límited (332CLC)\|Cherokee Límited (332CLC)]] | Jeep       | Grand Cherokee Limited | 2004 |
 | [[Vehículos/Kia/Río (528JYQ)\|Río (528JYQ)]]                            | Kia        | Rio LX                 | 2016 |
+| [[Vehículos/Kia/Sorento (156FXC)\|Sorento (156FXC)]]                    | Kia        | Sorento                | 2012 |
 | [[Vehículos/Kia/Sportage (538FFR)\|Sportage (538FFR)]]                  | Kia        | Sportage 4WD           | 1999 |
 | [[Vehículos/Mazda/3i (586GJK)\|3i (586GJK)]]                            | Mazda      | 3i                     | 2006 |
 | [[Vehículos/Mazda/3i (658GRP)\|3i (658GRP)]]                            | Mazda      | 3i                     | 2012 |
