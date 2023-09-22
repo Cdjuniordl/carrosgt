@@ -32,7 +32,7 @@
 ### Fecha:: 2023-09-20
 #### Fotos de Recepción:
 
-###### Kilometraje: 
+###### Kilometraje: 134 897Mi
 ###### Nivel de Gasolina: Reserva
 ###### Luces en tablero: Check
 ###### Llaves o documentos: Llqve
@@ -60,6 +60,8 @@
 ## Reparación:
 - Cambio de 2 fusibles de *10A*
 - Reemplazo de Relay *ASD*
+	- ![Fusiblera|200](http://drive.google.com/uc?export=view&id=1agVi_ezCH0aF49mgBkkxf0BeQIUE1H3y)
+	- ![Tablero|200](http://drive.google.com/uc?export=view&id=1agHuHCR436pLvU8ZkEeT580CRiXm6R6s)
 
 ---
 
