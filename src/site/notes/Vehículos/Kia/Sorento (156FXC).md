@@ -6,7 +6,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![Vehículo](http://drive.google.com/uc?export=view&id=
+![Vehículo](http://drive.google.com/uc?export=view&id=1e-Gt49qN0VifpkzPYz8XGQp7L-ZymaqL)
 
 ### Marca:: Kia 
 ### Modelo:: Sorento
@@ -26,6 +26,6 @@
 
 ## Historial
 
-- [[Órdenes/23-09-22 Sorento (156FXC\|23-09-22 Sorento (156FXC]]
+- [[Órdenes/23-09-22 Sorento (156FXC)\|23-09-22 Sorento (156FXC)]]
 
 { .block-language-dataview} 
