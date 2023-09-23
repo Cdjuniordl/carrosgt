@@ -32,10 +32,10 @@
 ### Fecha:: 2023-09-22
 #### Fotos de Recepción: 
 
-###### Kilometraje: 
-###### Nivel de Gasolina: 
-###### Luces en tablero: 
-###### Llaves o documentos: 
+###### Kilometraje: 49 542Mi
+###### Nivel de Gasolina: 1/4
+###### Luces en tablero: ABS y Antiderrape 
+###### Llaves o documentos: Llave y tarjeta
 
 ---
 
