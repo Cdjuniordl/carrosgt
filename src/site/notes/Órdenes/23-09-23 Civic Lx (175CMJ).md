@@ -32,10 +32,10 @@
 ### Fecha:: 2023-09-23
 #### Fotos de Recepción: <a href="http"><button class="btn success">FOTOS</button></a>
 
-###### Kilometraje: 
-###### Nivel de Gasolina: 
-###### Luces en tablero: 
-###### Llaves o documentos: 
+###### Kilometraje: 301 979Mi
+###### Nivel de Gasolina: 1/4
+###### Luces en tablero: ABS 
+###### Llaves o documentos: Llave, tarjeta 
 
 ---
 
@@ -54,20 +54,29 @@
 ### DTC:: 
 
 - <a href="http"><button class="btn success">CÓDIGOS</button></a>
-- 
+- Fuga de cilindros en frío no tiene 
+- Ventilador Ac malo 
+- Servicio menor de motor 
+- Instalacion de frenos 
+- Bujes de muleta dañados 
+- Amortiguadores malos 
+- Cabezales de barra estabilizadora malos 
 
 ---
 ## Reparación:
-- 
+- Servicio de motor Aceite *20w50* Castrol y filtro *Ph7317*
+- Instalación de frenos delanteros izquierdos 
 
 ---
 
 ## Presupuesto:
 
-| Nombre | Cantidad | Precio |
-| ------ | -------- | ------ |
-|        |          |        |
-| **Total**       |        |    **Q**    |
+| Nombre        | Cantidad | Precio |
+| ------------- | -------- | ------ |
+| Aceite        | 4        | Q275   |
+| Filtro aceite | 1        | Q25    |
+| Mano de obra  |          | Q      |
+| **Total**              |          |   **Q**     |
 
 ---
 
