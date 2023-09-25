@@ -75,8 +75,8 @@
 | ------------- | -------- | ------ |
 | Aceite        | 4        | Q275   |
 | Filtro aceite | 1        | Q25    |
-| Mano de obra  |          | Q      |
-| **Total**              |          |   **Q**     |
+| Mano de obra  |          | Q200      |
+| **Total**              |          |   **Q500**     |
 
 ---
 
@@ -86,4 +86,4 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2023-09-24
