@@ -79,8 +79,8 @@
 
 | Nombre | Cantidad | Precio |
 | ------ | -------- | ------ |
-|  Diagnóstico       |          |  Q225      |
-| **Total**       |        |    **Q225**    |
+|  Diagnóstico       |          |  Q300      |
+| **Total**       |        |    **Q300**    |
 
 ---
 
