@@ -30,7 +30,6 @@
 
 ## Recepción:
 ### Fecha:: 2023-09-22
-#### Fotos de Recepción: 
 
 ###### Kilometraje: 49 542Mi
 ###### Nivel de Gasolina: 1/4
@@ -72,6 +71,8 @@
 ![Gráfica2|300](http://drive.google.com/uc?export=view&id=1eLhlx-cuy30OpWYUlanKb4VQCTI4CgKe)
 >[!info]- Conexiones
 	>**Canal1** (amarillo): Señal de ABS trasero derecho 
+
+**Nota**: Cliente decide llevarse el vehículo para intentar pedir garantía del repuesto y traerlo nuevamente cuando tenga otro respuesto.
 
 ---
 
