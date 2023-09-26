@@ -72,6 +72,11 @@
 >[!info]- Conexiones
 	>**Canal1** (amarillo): Señal de ABS trasero derecho 
 
+La señal del sensor genérico presenta una anomalía en su funcionamiento, dando como resultado una interpretación errónea del módulo de ABS e indicando el código de falla *C1207*
+Ambos sensores presentan la misma señal, esto puede deberse a fallas de fábrica o una pieza incorrecta para el reemplazo del vehículo.
+
+Se debe reemplazar nuevamente la Bufa con sensor ABS.
+
 **Nota**: Cliente decide llevarse el vehículo para intentar pedir garantía del repuesto y traerlo nuevamente cuando tenga otro respuesto.
 
 ---
