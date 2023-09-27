@@ -42,6 +42,7 @@
 | [[Vehículos/Mazda/Cx-5 (785KGT)\|Cx-5 (785KGT)]]                                                                 | Mazda      | Cx-5 Grand Touring     | 2018 |
 | [[Vehículos/Mazda/Cx-7 (553GMJ)\|Cx-7 (553GMJ)]]                                                                 | Mazda      | Cx-7 Touring           | 2008 |
 | [[Vehículos/Mitsubishi/Mitsubishi Mirage\|Mitsubishi Mirage]]                                                    | Mitsubishi | Mirage DE              | 2000 |
+| [[Vehículos/Nissan/Frontier (805FFT)\|Frontier (805FFT)]]                                                        | Nissan     | Frontier XE            | 2001 |
 | [[Vehículos/Nissan/Frontier (836JHT)\|Frontier (836JHT)]]                                                        | Nissan     | Frontier Se King       | 2008 |
 | [[Vehículos/Nissan/Rogue Se (568JYV)\|Rogue Se (568JYV)]]                                                        | Nissan     | Rogue Se AWD           | 2013 |
 | [[Vehículos/Nissan/Sentra (965JXT)\|Sentra (965JXT)]]                                                            | Nissan     | Sentra Sv              | 2014 |
