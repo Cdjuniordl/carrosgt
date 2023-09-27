@@ -30,17 +30,18 @@
 
 ## Recepción:
 ### Fecha:: 2023-09-25
-#### Fotos de Recepción: <a href="http"><button class="btn success">FOTOS</button></a>
+#### Fotos de Recepción: 
 
-###### Kilometraje: 
-###### Nivel de Gasolina: 
+###### Kilometraje: 315 814Mi
+###### Nivel de Gasolina: Reserva
 ###### Luces en tablero: 
-###### Llaves o documentos: 
+###### Llaves o documentos: Llave y tarjeta
 
 ---
 
 ## Falla presentada:
-- 
+- Pérdida de potencia 
+- A veces se apaga al llegar a una esquina 
 
 
 ---
@@ -49,10 +50,13 @@
 ### DTC:: 
 
 - <a href="http"><button class="btn success">CÓDIGOS</button></a>
-- 
+- Códigos presentes de sensor MAF y CKP
+- CKP no conectado 
 
 ---
 ## Reparación:
+- Conexión de arnés de CKP
+- Reparación de arnés de distribuidor 
 - 
 
 ---
