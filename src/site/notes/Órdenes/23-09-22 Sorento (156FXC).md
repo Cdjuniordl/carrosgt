@@ -79,6 +79,9 @@ Se debe reemplazar nuevamente la Bufa con sensor ABS.
 
 **Nota**: Cliente decide llevarse el vehículo para intentar pedir garantía del repuesto y traerlo nuevamente cuando tenga otro respuesto.
 
+**Actualización** 
+Se reemplazo la bufa por otra original y el fallo se corrigió 
+
 ---
 
 ## Presupuesto:
