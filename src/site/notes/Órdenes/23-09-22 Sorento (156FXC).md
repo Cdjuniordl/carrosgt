@@ -41,7 +41,7 @@
 ## Falla presentada:
 - Falla de sensor de ABS trasero izquierdo
 - Ya se cambió la bufa completa 2 veces y la falla persiste 
-
+![Bufa|200](http://drive.google.com/uc?export=view&id=1i3ej99pCw_4RTfI_d9HTtQzqvBWjB2P5)
 
 ---
 
@@ -59,6 +59,9 @@
 - Se procede a realizar la medición del sensor y las líneas de ABS desde el sensor hacia el módulo de ABS 
 - Líneas y sensor en buen estado 
 - Se realiza medición con osciloscopio
+
+**Diagrama ABS**
+![Diagrama|275](http://drive.google.com/uc?export=view&id=1i3XHAyFzfnYYp1fqaweKiXAdRe1F1w8R)
 
 **Gráfica de Sensor ABS Genérico**
 	![Grafica1|300](http://drive.google.com/uc?export=view&id=1eARbekJqdNJkmHDtAp3O9Pi2l6QUWJ7r)
