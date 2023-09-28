@@ -49,11 +49,16 @@
 ### DTC:: 
 
 - <a href="http://aitus.golo365.com/Home/Report/reportDetail/diagnose_record_id/404df27ageAE3bKw54OM5454IF/report_type/D/l/es/timezone/-6"><button class="btn success">CÓDIGOS</button></a>
-- 
+- Fuga en interculer
+- Problemas con el turbo 
+- Bomba de hidráulico mala 
 
 ---
 ## Reparación:
-- 
+- Cambio de bomba hidráulica 
+- Reparación de fugas de interculer 
+- Limpieza del sistema 
+- Servicio de aceite 
 
 ---
 
@@ -72,4 +77,4 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2023-09-25
