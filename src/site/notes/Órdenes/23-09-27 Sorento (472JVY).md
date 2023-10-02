@@ -54,7 +54,8 @@
 
 ---
 ## Reparación:
-- 
+- Se realizó prueba de manejo por más de *40km* pero no sé logro replicar la falla que de reporta 
+- No se puede proceder con ninguna reparación 
 
 ---
 
