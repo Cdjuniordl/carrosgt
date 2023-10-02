@@ -30,20 +30,6 @@ color blue
 ```{ #button-afhb}
 
 
----
-
-## Recordatorios 
-
-```button
-name RECORDATORIOS
-type link
-action obsidian://open?vault=Carros%20Gt&file=Home%2F01%20Recordatorios
-color red
-```{ #button-fygj}
-
-
----
-
 ## Nuevos Datos
 
 ```button
@@ -68,4 +54,23 @@ type command
 action Notas diarias: Abrir la nota de hoy
 color yellow
 ```{ #button-p9k2}
+
+
+## Pendientes
+
+```button
+name RECORDATORIOS
+type link
+action obsidian://open?vault=Carros%20Gt&file=Home%2F01%20Recordatorios
+color red
+```{ #button-fygj}
+
+
+```button
+name COBROS Y PAGOS
+type link
+action obsidian://open?vault=Carros%20Gt&file=Presupuestos%2FCOBROS%20Y%20PAGOS
+color purple
+```{ #button-fygj}
+
 
