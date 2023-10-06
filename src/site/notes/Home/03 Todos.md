@@ -16,6 +16,7 @@
 | [[Vehículos/Chevrolet/S10 (412BCL)\|S10 (412BCL)]]                                                               | Chevrolet  | S10                    | 1999 |
 | [[Vehículos/Chevrolet/Spark Ls (057FWX)\|Spark Ls (057FWX)]]                                                     | Chevrolet  | Spark Ls               | 2014 |
 | [[Vehículos/Dodge/Durango (993CLH)\|Durango (993CLH)]]                                                           | Dodge      | Durango                | 1998 |
+| [[Vehículos/Dodge/Ram 1500 (177GXB)\|Ram 1500 (177GXB)]]                                                         | Dodge      | Ram 1500 C/Cab         | 2016 |
 | [[Vehículos/Dodge/Ram 2500 (433DPQ)\|Ram 2500 (433DPQ)]]                                                         | Dodge      | Ram 2500 SLT           | 2008 |
 | [[Vehículos/Fiat/500 Pop (208GVG)\|500 Pop (208GVG)]]                                                            | Fiat       | 500 Pop                | 2012 |
 | [[Vehículos/Fiat/Palio (763BDJ)\|Palio (763BDJ)]]                                                                | Fiat       | Palio Fire             | 2005 |
