@@ -28,5 +28,6 @@
 ## Historial
 
 - [[Órdenes/23-08-24 Yaris L (424KLP)\|23-08-24 Yaris L (424KLP)]]
+- [[Órdenes/23-10-07 Yaris L(424KLP)\|23-10-07 Yaris L(424KLP)]]
 
 { .block-language-dataview} 
