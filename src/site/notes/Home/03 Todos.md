@@ -37,6 +37,7 @@
 | [[Vehículos/Honda/Fit Sport (920HRK)\|Fit Sport (920HRK)]]                                                       | Honda      | Fit Sport              | 2008 |
 | [[Vehículos/Hyundai/Tucson (620JJN)\|Tucson (620JJN)]]                                                           | Hyundai    | Tucson GLS             | 2014 |
 | [[Vehículos/Jeep/Cherokee Límited (332CLC)\|Cherokee Límited (332CLC)]]                                          | Jeep       | Grand Cherokee Limited | 2004 |
+| [[Vehículos/Kia/Forte (304GHG)\|Forte (304GHG)]]                                                                 | Kia        | Forte Koup Ex          | 2013 |
 | [[Vehículos/Kia/Río (528JYQ)\|Río (528JYQ)]]                                                                     | Kia        | Rio LX                 | 2016 |
 | [[Vehículos/Kia/Sorento (156FXC)\|Sorento (156FXC)]]                                                             | Kia        | Sorento                | 2012 |
 | [[Vehículos/Kia/Sorento (472JVY)\|Sorento (472JVY)]]                                                             | Kia        | Sorento                | \-   |
