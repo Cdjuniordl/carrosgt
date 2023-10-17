@@ -70,14 +70,17 @@
 	![Válvula1|200](http://drive.google.com/uc?export=view&id=1a3_mggfuyffGO_PvA449x3fMbmBzKGzH)
 	![Válvula2|200](http://drive.google.com/uc?export=view&id=1_s3r9UrG6muFh0WoSJfS_vX2KCjWJSlu)
 
+**Nota**: no se encontró la válvula y cliente decidió llevarse la camioneta 
+
 ---
 
 ## Presupuesto:
 
-| Nombre | Cantidad | Precio |
-| ------ | -------- | ------ |
-|        |          |        |
-| **Total**       |        |    **Q**    |
+| Nombre       | Cantidad | Precio |
+| ------------ | -------- | ------ |
+| Diagnostico  |          | Q250   |
+| Mano de obra |          | Q250   |
+| **Total**             |          |    **Q500**    |
 
 ---
 
@@ -87,4 +90,4 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2023-10-13
