@@ -65,7 +65,7 @@
 
 | Nombre | Cantidad | Precio |
 | ------ | -------- | ------ |
-|        |          |        |
+|   Diagnóstico     |          | Q350       |
 | **Total**       |        |    **Q**    |
 
 ---
@@ -76,4 +76,4 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2023-10-16
