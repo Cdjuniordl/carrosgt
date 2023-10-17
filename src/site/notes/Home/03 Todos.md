@@ -32,9 +32,11 @@
 | [[Vehículos/Honda/Crv (138HZB)\|Crv (138HZB)]]                                                                   | Honda      | Crv                    | 1997 |
 | [[Vehículos/Honda/Crv (142JNB)\|Crv (142JNB)]]                                                                   | Honda      | CR-V EX                | 2002 |
 | [[Vehículos/Honda/Crv (751GMF)\|Crv (751GMF)]]                                                                   | Honda      | CR-V Ex                | 2005 |
+| [[Vehículos/Honda/Crv LX (690JZB)\|Crv LX (690JZB)]]                                                             | Honda      | CR-V LX 4WD            | 2015 |
 | [[Vehículos/Honda/Fit (590JVY)\|Fit (590JVY)]]                                                                   | Honda      | Fit                    | 2008 |
 | [[Vehículos/Honda/Fit Lx (934JYV)\|Fit Lx (934JYV)]]                                                             | Honda      | Fit Lx                 | 2017 |
 | [[Vehículos/Honda/Fit Sport (920HRK)\|Fit Sport (920HRK)]]                                                       | Honda      | Fit Sport              | 2008 |
+| [[Vehículos/Hyundai/Starex (346KMF)\|Starex (346KMF)]]                                                           | Hyundai    | Grand Starex CVX       | 2010 |
 | [[Vehículos/Hyundai/Tucson (620JJN)\|Tucson (620JJN)]]                                                           | Hyundai    | Tucson GLS             | 2014 |
 | [[Vehículos/Jeep/Cherokee Límited (332CLC)\|Cherokee Límited (332CLC)]]                                          | Jeep       | Grand Cherokee Limited | 2004 |
 | [[Vehículos/Kia/Forte (304GHG)\|Forte (304GHG)]]                                                                 | Kia        | Forte Koup Ex          | 2013 |
