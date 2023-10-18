@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ordenes/23-08-21-sentra-sr-321-kbn/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/ordenes/23-08-21-sentra-sr-321-kbn/"}
 ---
 
 ![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
