@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ordenes/23-09-12-tiguan-t-di-548-dvn/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/ordenes/23-09-12-tiguan-t-di-548-dvn/"}
 ---
 
 ![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
