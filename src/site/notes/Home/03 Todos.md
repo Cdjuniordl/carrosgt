@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/03-todos/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/home/03-todos/"}
 ---
 
 
@@ -50,6 +50,7 @@
 | [[Vehículos/Mazda/Cx-5 (785KGT)\|Cx-5 (785KGT)]]                                                                 | Mazda      | Cx-5 Grand Touring     | 2018 |
 | [[Vehículos/Mazda/Cx-7 (553GMJ)\|Cx-7 (553GMJ)]]                                                                 | Mazda      | Cx-7 Touring           | 2008 |
 | [[Vehículos/Mazda/Protege (650DPQ)\|Protege (650DPQ)]]                                                           | Mazda      | Protege DX             | 2000 |
+| [[Vehículos/Mitsubishi/Lancer (819DMF)\|Lancer (819DMF)]]                                                        | Mitsubishi | Lancer GLX             | 2008 |
 | [[Vehículos/Mitsubishi/Mitsubishi Mirage\|Mitsubishi Mirage]]                                                    | Mitsubishi | Mirage DE              | 2000 |
 | [[Vehículos/Nissan/Frontier (805FFT)\|Frontier (805FFT)]]                                                        | Nissan     | Frontier XE            | 2001 |
 | [[Vehículos/Nissan/Frontier (836JHT)\|Frontier (836JHT)]]                                                        | Nissan     | Frontier Se King       | 2008 |
