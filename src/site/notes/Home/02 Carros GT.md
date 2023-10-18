@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/02-carros-gt/","tags":["gardenEntry"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/home/02-carros-gt/","tags":["gardenEntry"]}
 ---
 
 
