@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ordenes/23-09-23-civic-lx-175-cmj/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/ordenes/23-09-23-civic-lx-175-cmj/"}
 ---
 
 ![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
