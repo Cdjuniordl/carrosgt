@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recepcion/23-08-21-sentra-sr-321-kbn-recepcion/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/recepcion/23-08-21-sentra-sr-321-kbn-recepcion/"}
 ---
 
 
