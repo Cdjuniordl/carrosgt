@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vehiculos/chevrolet/colorado-lt/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/vehiculos/chevrolet/colorado-lt/"}
 ---
 
 ![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
