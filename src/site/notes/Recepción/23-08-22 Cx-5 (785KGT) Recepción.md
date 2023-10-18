@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recepcion/23-08-22-cx-5-785-kgt-recepcion/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/recepcion/23-08-22-cx-5-785-kgt-recepcion/"}
 ---
 
 
