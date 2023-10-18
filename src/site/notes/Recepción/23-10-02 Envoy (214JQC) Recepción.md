@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recepcion/23-10-02-envoy-214-jqc-recepcion/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/recepcion/23-10-02-envoy-214-jqc-recepcion/"}
 ---
 
 
