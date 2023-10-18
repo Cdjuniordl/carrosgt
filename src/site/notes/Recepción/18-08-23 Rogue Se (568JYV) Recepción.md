@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recepcion/18-08-23-rogue-se-568-jyv-recepcion/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/recepcion/18-08-23-rogue-se-568-jyv-recepcion/"}
 ---
 
 
