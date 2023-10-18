@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ordenes/23-09-09-colorado-675-dgk/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/ordenes/23-09-09-colorado-675-dgk/"}
 ---
 
 ![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
