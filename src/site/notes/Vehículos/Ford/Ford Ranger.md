@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vehiculos/ford/ford-ranger/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/vehiculos/ford/ford-ranger/"}
 ---
 
 
