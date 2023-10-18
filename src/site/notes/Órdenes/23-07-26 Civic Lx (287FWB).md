@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ordenes/23-07-26-civic-lx-287-fwb/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/ordenes/23-07-26-civic-lx-287-fwb/"}
 ---
 
 ![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
