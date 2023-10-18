@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vehiculos/honda/crv-142-jnb/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/vehiculos/honda/crv-142-jnb/"}
 ---
 
 ![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
