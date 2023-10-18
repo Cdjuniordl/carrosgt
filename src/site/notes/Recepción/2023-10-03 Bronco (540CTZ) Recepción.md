@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recepcion/2023-10-03-bronco-540-ctz-recepcion/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/recepcion/2023-10-03-bronco-540-ctz-recepcion/"}
 ---
 
 
