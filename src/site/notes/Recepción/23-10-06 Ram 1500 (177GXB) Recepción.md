@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recepcion/23-10-06-ram-1500-177-gxb-recepcion/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/recepcion/23-10-06-ram-1500-177-gxb-recepcion/"}
 ---
 
 
