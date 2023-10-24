@@ -39,6 +39,7 @@
 | [[Vehículos/Hyundai/Starex (346KMF)\|Starex (346KMF)]]                                                           | Hyundai       | Grand Starex CVX       | 2010 |
 | [[Vehículos/Hyundai/Tucson (620JJN)\|Tucson (620JJN)]]                                                           | Hyundai       | Tucson GLS             | 2014 |
 | [[Vehículos/Jeep/Cherokee Límited (332CLC)\|Cherokee Límited (332CLC)]]                                          | Jeep          | Grand Cherokee Limited | 2004 |
+| [[Vehículos/Jeep/Grand Cherokee (299JML)\|Grand Cherokee (299JML)]]                                              | Jeep          | Grand Cherokee Laredo  | 2006 |
 | [[Vehículos/Kia/Forte (304GHG)\|Forte (304GHG)]]                                                                 | Kia           | Forte Koup Ex          | 2013 |
 | [[Vehículos/Kia/Río (528JYQ)\|Río (528JYQ)]]                                                                     | Kia           | Rio LX                 | 2016 |
 | [[Vehículos/Kia/Sorento (156FXC)\|Sorento (156FXC)]]                                                             | Kia           | Sorento                | 2012 |
