@@ -60,6 +60,7 @@
 | [[Vehículos/Nissan/Sentra (965JXT)\|Sentra (965JXT)]]                                                            | Nissan        | Sentra Sv              | 2014 |
 | [[Vehículos/Nissan/Sentra SR (321KBN)\|Sentra SR (321KBN)]]                                                      | Nissan        | Sentra SR Turbo        | 2017 |
 | [[Vehículos/Toyota/Corolla (110KJM)\|Corolla (110KJM)]]                                                          | Toyota        | Corolla                | 2016 |
+| [[Vehículos/Toyota/Rav4 (404JPN)\|Rav4 (404JPN)]]                                                                | Toyota        | Rav4                   | 2001 |
 | [[Vehículos/Toyota/Rav4 (671HZR)\|Rav4 (671HZR)]]                                                                | Toyota        | Rav4                   | 2001 |
 | [[Vehículos/Toyota/Rav4 (sin)\|Rav4 (sin)]]                                                                      | Toyota        | Rav4 XLE               | 2022 |
 | [[Vehículos/Toyota/Yaris L (424KLP)\|Yaris L (424KLP)]]                                                          | Toyota        | Yaris L                | 2019 |
