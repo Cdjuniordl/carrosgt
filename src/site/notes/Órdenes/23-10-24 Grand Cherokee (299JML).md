@@ -30,7 +30,8 @@
 
 ## Recepción:
 ### Fecha:: 2023-10-24
-#### Fotos de Recepción: <a href="http"><button class="btn success">FOTOS</button></a>
+#### Fotos de Recepción: 
+![Tablero|275](http://drive.google.com/uc?export=view&id=1veF8X6QROzMagwVo3MLfX7XgrmtRe5LF)
 
 ###### Kilometraje: 207 383Mi
 ###### Nivel de Gasolina: Casi Reserva 
@@ -54,7 +55,7 @@
 ## Diagnóstico:
 ### DTC:: 
 
-- <a href="http"><button class="btn success">CÓDIGOS</button></a>
+- <a href="https://usait.x431.com/Home/Report/reportDetail/diagnose_record_id/c1129106geAEKwAEoGoGoGLroG/report_type/D/l/es/timezone/-6"><button class="btn success">CÓDIGOS</button></a>
 - Torno de discos delanteros 
 - Servicio de motor, transmisión y diferenciales 
 - Líquido de frenos 
