@@ -61,8 +61,18 @@
 - Líquido de frenos 
 - Refrigerante 
 
+**Fuga en Cremallera**
+![Fuga|250](http://drive.google.com/uc?export=view&id=1vlCFmp--oDnZpVPeMixJlei2PK-bDzch)
+
+**Tapón radiador roto**
+![Tapón|275](http://drive.google.com/uc?export=view&id=1vlJZxPKeBFId5ZnQncc_5IiE-ZhGU7O7)
+
 ---
 ## Reparación:
+- Cambio de aceite de motor 20w50 5litros
+- Filtro aceite Wix 51516
+- Filtro de aire Wix 42329
+- Refrigerante 2 galones Freezetone
 - 
 
 ---
