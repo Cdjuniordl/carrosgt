@@ -26,6 +26,5 @@
 
 ## Historial
 
-- [[Órdenes/23-10-03 Bronco (540CTZ)\|23-10-03 Bronco (540CTZ)]]
 
 { .block-language-dataview} 
