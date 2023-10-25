@@ -6,7 +6,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![Vehículo](http://drive.google.com/uc?export=view&id=
+![Vehículo](http://drive.google.com/uc?export=view&id=1wPNqcDbr9WqbB1OvuavAUcmCcPfIMjK1)
 
 ### Marca:: Ford
 ### Modelo:: Fiesta SEL
@@ -26,6 +26,6 @@
 
 ## Historial
 
-- [[Órdenes/23-10-25 Fiesta (536GGF)\|23-10-25 Fiesta (536GGF)]]
+- [[Órdenes/23-10-24 Fiesta (536GGF)\|23-10-24 Fiesta (536GGF)]]
 
 { .block-language-dataview} 
