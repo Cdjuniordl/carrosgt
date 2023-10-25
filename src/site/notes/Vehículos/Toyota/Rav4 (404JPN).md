@@ -12,7 +12,7 @@
 ### Modelo:: Rav4
 ### Año:: 2001
 #### Motor:: 2000
-#### Serie Motor:: 1AZ
+#### Serie Motor:: 1FE
 #### Vin:: JTEGH20V310024501
 ##### Placa:: 404JPN
 ##### Color:: Gris
