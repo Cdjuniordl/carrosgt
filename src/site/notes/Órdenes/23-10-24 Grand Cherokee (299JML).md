@@ -73,16 +73,23 @@
 - Filtro aceite Wix 51516
 - Filtro de aire Wix 42329
 - Refrigerante 2 galones Freezetone
-- 
+- Aceite de transmisión ATF M-IV 7litros
+- Cambio de Líquido de frenos 
+- Torno discos delanteros 
+- Frenos delanteros 
+- Cambio de aceite diferencial trasero 2Litros 
 
 ---
 
 ## Presupuesto:
 
-| Nombre | Cantidad | Precio |
-| ------ | -------- | ------ |
-|        |          |        |
-| **Total**       |        |    **Q**    |
+| Nombre                  | Cantidad | Precio |
+| ----------------------- | -------- | ------ |
+| Torno discos delanteros | 2        | Q100   |
+| Tapón Radiador          | 1        | Q75    |
+| Carga de AC             | 1        | Q175   |
+| Mano de Obra            |          | Q900   |
+| **Total**                        |          |  **Q1250**      |
 
 ---
 
@@ -92,4 +99,4 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2023-10-26
