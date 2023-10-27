@@ -53,6 +53,7 @@
 | [[Vehículos/Mazda/Cx-7 (553GMJ)\|Cx-7 (553GMJ)]]                                                                 | Mazda         | Cx-7 Touring           | 2008 |
 | [[Vehículos/Mazda/Protege (650DPQ)\|Protege (650DPQ)]]                                                           | Mazda         | Protege DX             | 2000 |
 | [[Vehículos/Mercedes/E300 (869BXL)\|E300 (869BXL)]]                                                              | Mercedes-Benz | E300 Turbo Diesel      | 1999 |
+| [[Vehículos/Mitsubishi/Lancer (508DDD)\|Lancer (508DDD)]]                                                        | Mitsubishi    | Lancer GLX             | 2007 |
 | [[Vehículos/Mitsubishi/Lancer (819DMF)\|Lancer (819DMF)]]                                                        | Mitsubishi    | Lancer GLX             | 2008 |
 | [[Vehículos/Mitsubishi/Mitsubishi Mirage\|Mitsubishi Mirage]]                                                    | Mitsubishi    | Mirage DE              | 2000 |
 | [[Vehículos/Nissan/Frontier (805FFT)\|Frontier (805FFT)]]                                                        | Nissan        | Frontier XE            | 2001 |
