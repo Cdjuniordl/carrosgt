@@ -26,6 +26,7 @@
 | [[Vehículos/Ford/Mustang (334JMV)\|Mustang (334JMV)]]                                                            | Ford          | Mustang V6 convertible | 2014 |
 | [[Vehículos/GMC/Envoy (214JQC)\|Envoy (214JQC)]]                                                                 | GMC           | Envoy                  | 2008 |
 | [[Vehículos/Honda/Civic (186GNZ)\|Civic (186GNZ)]]                                                               | Honda         | Civic EX               | 2012 |
+| [[Vehículos/Honda/Civic (428KJL)\|Civic (428KJL)]]                                                               | Honda         | Civic Lx               | 2011 |
 | [[Vehículos/Honda/Civic Lx (175CMJ)\|Civic Lx (175CMJ)]]                                                         | Honda         | Civic Lc               | 2003 |
 | [[Vehículos/Honda/Civic Lx (287FWB)\|Civic Lx (287FWB)]]                                                         | Honda         | Civic Lx               | 2007 |
 | [[Vehículos/Honda/Civic Lx (630DPH)\|Civic Lx (630DPH)]]                                                         | Honda         | Civic Lx               | 2000 |
