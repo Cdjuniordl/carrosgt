@@ -27,6 +27,7 @@
 | [[Vehículos/GMC/Envoy (214JQC)\|Envoy (214JQC)]]                                                                 | GMC           | Envoy                  | 2008 |
 | [[Vehículos/Honda/Civic (186GNZ)\|Civic (186GNZ)]]                                                               | Honda         | Civic EX               | 2012 |
 | [[Vehículos/Honda/Civic (428KJL)\|Civic (428KJL)]]                                                               | Honda         | Civic Lx               | 2011 |
+| [[Vehículos/Honda/Civic Lx (140JVZ)\|Civic Lx (140JVZ)]]                                                         | Honda         | Civic Lx               | 2011 |
 | [[Vehículos/Honda/Civic Lx (175CMJ)\|Civic Lx (175CMJ)]]                                                         | Honda         | Civic Lc               | 2003 |
 | [[Vehículos/Honda/Civic Lx (287FWB)\|Civic Lx (287FWB)]]                                                         | Honda         | Civic Lx               | 2007 |
 | [[Vehículos/Honda/Civic Lx (630DPH)\|Civic Lx (630DPH)]]                                                         | Honda         | Civic Lx               | 2000 |
@@ -69,6 +70,7 @@
 | [[Vehículos/Toyota/Yaris L (424KLP)\|Yaris L (424KLP)]]                                                          | Toyota        | Yaris L                | 2019 |
 | [[Vehículos/Volkswagen/Golf Gti (157JNP)\|Golf Gti (157JNP)]]                                                    | Volkswagen    | Golf Gti               | 2013 |
 | [[Vehículos/Volkswagen/Golf TDI (741CXY)\|Golf TDI (741CXY)]]                                                    | Volkswagen    | Golf TDI               | 2002 |
+| [[Vehículos/Volkswagen/Jetta (660CMZ)\|Jetta (660CMZ)]]                                                          | Volkswagen    | Jetta GLS              | 1997 |
 | [[Vehículos/Volkswagen/Tiguan TDi (548DVN)\|Tiguan TDi (548DVN)]]                                                | Volkswagen    | Tiguan TDi             | 2010 |
 
 { .block-language-dataview}
