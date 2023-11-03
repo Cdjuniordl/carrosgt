@@ -52,11 +52,25 @@
 ### DTC:: 
 
 - <a href="http"><button class="btn success">CÓDIGOS</button></a>
-- 
+- Sensor CMP demasiado corto 
+- Queda muy alejado del captor del eje de levas 
+
+	**Gráfica errónea de Sensor CMP**
+	![Gráfica|275](http://drive.google.com/uc?export=view&id=10uTg8H43fyta_Vc_XvVzSFRBSifbb48A)
+	
+- Luces delanteras y neblineras no funcionan 
 
 ---
 ## Reparación:
-- 
+- Cambio de sensor CMP 
+- CMP viejo tiene *24mm*
+- CMP nuevo tiene *26mm*
+- Cambio de Map Sensor 
+- Conexión de neblineras 
+- Fusible de luces reemplazado
+
+	**Sensores Reemplazados**
+	![Sensores|250](http://drive.google.com/uc?export=view&id=1-EE0Tagtk1tjccgqsDRBbK9eK8ejCtbW)
 
 ---
 
@@ -75,4 +89,4 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2023-11-02
