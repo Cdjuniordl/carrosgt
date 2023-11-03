@@ -39,6 +39,7 @@
 | [[Vehículos/Honda/Fit (590JVY)\|Fit (590JVY)]]                                                                   | Honda         | Fit                    | 2008 |
 | [[Vehículos/Honda/Fit Lx (934JYV)\|Fit Lx (934JYV)]]                                                             | Honda         | Fit Lx                 | 2017 |
 | [[Vehículos/Honda/Fit Sport (920HRK)\|Fit Sport (920HRK)]]                                                       | Honda         | Fit Sport              | 2008 |
+| [[Vehículos/Hyundai/Santa Fe (886GHG)\|Santa Fe (886GHG)]]                                                       | Hyundai       | Santa Fe Sport         | 2013 |
 | [[Vehículos/Hyundai/Starex (346KMF)\|Starex (346KMF)]]                                                           | Hyundai       | Grand Starex CVX       | 2010 |
 | [[Vehículos/Hyundai/Tucson (620JJN)\|Tucson (620JJN)]]                                                           | Hyundai       | Tucson GLS             | 2014 |
 | [[Vehículos/Jeep/Cherokee Límited (332CLC)\|Cherokee Límited (332CLC)]]                                          | Jeep          | Grand Cherokee Limited | 2004 |
