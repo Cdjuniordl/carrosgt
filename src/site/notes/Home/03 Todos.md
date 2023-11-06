@@ -70,6 +70,7 @@
 | [[Vehículos/Toyota/Rav4 (sin)\|Rav4 (sin)]]                                                                      | Toyota        | Rav4 XLE               | 2022 |
 | [[Vehículos/Toyota/Yaris L (424KLP)\|Yaris L (424KLP)]]                                                          | Toyota        | Yaris L                | 2019 |
 | [[Vehículos/Volkswagen/Golf Gti (157JNP)\|Golf Gti (157JNP)]]                                                    | Volkswagen    | Golf Gti               | 2013 |
+| [[Vehículos/Volkswagen/Golf Saveiro (237CJM)\|Golf Saveiro (237CJM)]]                                            | Volkswagen    | Saveiro                | 1992 |
 | [[Vehículos/Volkswagen/Golf TDI (741CXY)\|Golf TDI (741CXY)]]                                                    | Volkswagen    | Golf TDI               | 2002 |
 | [[Vehículos/Volkswagen/Jetta (660CMZ)\|Jetta (660CMZ)]]                                                          | Volkswagen    | Jetta GLS              | 1997 |
 | [[Vehículos/Volkswagen/Tiguan TDi (548DVN)\|Tiguan TDi (548DVN)]]                                                | Volkswagen    | Tiguan TDi             | 2010 |
