@@ -58,8 +58,11 @@
 ---
 ## Reparación:
 - Reparación de arnés de alternador 
+	![Alternador1|250](http://drive.google.com/uc?export=view&id=12zdiQSSXjp29nDBsvsp-2_viIYOYg8kU)
+	![Alternador2|250](http://drive.google.com/uc?export=view&id=12jql5VDyEU1cQ-rzAamlzsAbGaRYDuKV)
 - Limpieza de mando de parabrisas
 - Limpieza de botón de intermitentes, aún quedó con fallo 
+	![Limpieza|250](http://drive.google.com/uc?export=view&id=12cSvoyozPy1Ot-5mGZvWxt20hBkOCR5v)
 
 ---
 
@@ -78,4 +81,4 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2023-11-06
