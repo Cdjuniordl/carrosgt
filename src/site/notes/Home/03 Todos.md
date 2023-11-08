@@ -15,6 +15,7 @@
 | [[Vehículos/Chevrolet/Colorado Lt\|Colorado Lt]]                                                                 | Chevrolet     | Colorado LT            | 2007 |
 | [[Vehículos/Chevrolet/S10 (412BCL) (conflict 2023-09-25-00-04-05)\|S10 (412BCL) (conflict 2023-09-25-00-04-05)]] | Chevrolet     | S10                    | 1999 |
 | [[Vehículos/Chevrolet/S10 (412BCL)\|S10 (412BCL)]]                                                               | Chevrolet     | S10                    | 1999 |
+| [[Vehículos/Chevrolet/Spark (002JZC)\|Spark (002JZC)]]                                                           | Chevrolet     | Spark Ls               | 2015 |
 | [[Vehículos/Chevrolet/Spark Ls (057FWX)\|Spark Ls (057FWX)]]                                                     | Chevrolet     | Spark Ls               | 2014 |
 | [[Vehículos/Dodge/Durango (993CLH)\|Durango (993CLH)]]                                                           | Dodge         | Durango                | 1998 |
 | [[Vehículos/Dodge/Ram 1500 (177GXB)\|Ram 1500 (177GXB)]]                                                         | Dodge         | Ram 1500 C/Cab         | 2016 |
