@@ -22,6 +22,7 @@
 | [[Vehículos/Dodge/Ram 2500 (433DPQ)\|Ram 2500 (433DPQ)]]                                                         | Dodge         | Ram 2500 SLT           | 2008 |
 | [[Vehículos/Fiat/500 Pop (208GVG)\|500 Pop (208GVG)]]                                                            | Fiat          | 500 Pop                | 2012 |
 | [[Vehículos/Fiat/Palio (763BDJ)\|Palio (763BDJ)]]                                                                | Fiat          | Palio Fire             | 2005 |
+| [[Vehículos/Ford/Aspire (873DRX)\|Aspire (873DRX)]]                                                              | Ford          | Aspire                 | 1997 |
 | [[Vehículos/Ford/Bronco (540CTZ)\|Bronco (540CTZ)]]                                                              | Ford          | Bronco 2               | 1988 |
 | [[Vehículos/Ford/Fiesta (536GGF)\|Fiesta (536GGF)]]                                                              | Ford          | Fiesta SEL             | 2011 |
 | [[Vehículos/Ford/Ford Ranger\|Ford Ranger]]                                                                      | Ford          | Ranger                 | 1993 |
