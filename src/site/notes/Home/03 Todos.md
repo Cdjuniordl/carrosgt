@@ -16,6 +16,7 @@
 | [[Vehículos/Chevrolet/S10 (412BCL) (conflict 2023-09-25-00-04-05)\|S10 (412BCL) (conflict 2023-09-25-00-04-05)]] | Chevrolet     | S10                    | 1999 |
 | [[Vehículos/Chevrolet/S10 (412BCL)\|S10 (412BCL)]]                                                               | Chevrolet     | S10                    | 1999 |
 | [[Vehículos/Chevrolet/Spark (002JZC)\|Spark (002JZC)]]                                                           | Chevrolet     | Spark Ls               | 2015 |
+| [[Vehículos/Chevrolet/Spark (795DGY)\|Spark (795DGY)]]                                                           | Chevrolet     | Spark                  | 2007 |
 | [[Vehículos/Chevrolet/Spark Ls (057FWX)\|Spark Ls (057FWX)]]                                                     | Chevrolet     | Spark Ls               | 2014 |
 | [[Vehículos/Dodge/Durango (993CLH)\|Durango (993CLH)]]                                                           | Dodge         | Durango                | 1998 |
 | [[Vehículos/Dodge/Ram 1500 (177GXB)\|Ram 1500 (177GXB)]]                                                         | Dodge         | Ram 1500 C/Cab         | 2016 |
@@ -71,6 +72,7 @@
 | [[Vehículos/Toyota/Corolla (110KJM)\|Corolla (110KJM)]]                                                          | Toyota        | Corolla                | 2016 |
 | [[Vehículos/Toyota/Rav4 (404JPN)\|Rav4 (404JPN)]]                                                                | Toyota        | Rav4                   | 2001 |
 | [[Vehículos/Toyota/Rav4 (671HZR)\|Rav4 (671HZR)]]                                                                | Toyota        | Rav4                   | 2001 |
+| [[Vehículos/Toyota/Rav4 (694KHV)\|Rav4 (694KHV)]]                                                                | Toyota        | Rav4                   | 2010 |
 | [[Vehículos/Toyota/Rav4 (sin)\|Rav4 (sin)]]                                                                      | Toyota        | Rav4 XLE               | 2022 |
 | [[Vehículos/Toyota/Yaris (653KGQ)\|Yaris (653KGQ)]]                                                              | Toyota        | Yaris                  | 2012 |
 | [[Vehículos/Toyota/Yaris L (424KLP)\|Yaris L (424KLP)]]                                                          | Toyota        | Yaris L                | 2019 |
