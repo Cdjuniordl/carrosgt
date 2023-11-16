@@ -73,6 +73,7 @@
 | [[Vehículos/Toyota/Rav4 (404JPN)\|Rav4 (404JPN)]]                                                                | Toyota        | Rav4                   | 2001 |
 | [[Vehículos/Toyota/Rav4 (671HZR)\|Rav4 (671HZR)]]                                                                | Toyota        | Rav4                   | 2001 |
 | [[Vehículos/Toyota/Rav4 (694KHV)\|Rav4 (694KHV)]]                                                                | Toyota        | Rav4                   | 2010 |
+| [[Vehículos/Toyota/Rav4 (blanca)\|Rav4 (blanca)]]                                                                | Toyota        | Rav4 XLE               | 2023 |
 | [[Vehículos/Toyota/Rav4 (sin)\|Rav4 (sin)]]                                                                      | Toyota        | Rav4 XLE               | 2022 |
 | [[Vehículos/Toyota/Yaris (653KGQ)\|Yaris (653KGQ)]]                                                              | Toyota        | Yaris                  | 2012 |
 | [[Vehículos/Toyota/Yaris L (424KLP)\|Yaris L (424KLP)]]                                                          | Toyota        | Yaris L                | 2019 |
