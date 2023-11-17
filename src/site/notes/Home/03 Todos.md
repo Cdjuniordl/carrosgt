@@ -18,6 +18,7 @@
 | [[Vehículos/Chevrolet/Spark (002JZC)\|Spark (002JZC)]]                                                           | Chevrolet     | Spark Ls               | 2015 |
 | [[Vehículos/Chevrolet/Spark (795DGY)\|Spark (795DGY)]]                                                           | Chevrolet     | Spark                  | 2007 |
 | [[Vehículos/Chevrolet/Spark Ls (057FWX)\|Spark Ls (057FWX)]]                                                     | Chevrolet     | Spark Ls               | 2014 |
+| [[Vehículos/Chevrolet/Tracker (928JRZ)\|Tracker (928JRZ)]]                                                       | Chevrolet     | Tracker                | 1996 |
 | [[Vehículos/Dodge/Durango (993CLH)\|Durango (993CLH)]]                                                           | Dodge         | Durango                | 1998 |
 | [[Vehículos/Dodge/Ram 1500 (177GXB)\|Ram 1500 (177GXB)]]                                                         | Dodge         | Ram 1500 C/Cab         | 2016 |
 | [[Vehículos/Dodge/Ram 2500 (433DPQ)\|Ram 2500 (433DPQ)]]                                                         | Dodge         | Ram 2500 SLT           | 2008 |
@@ -69,6 +70,7 @@
 | [[Vehículos/Nissan/Rogue Se (568JYV)\|Rogue Se (568JYV)]]                                                        | Nissan        | Rogue Se AWD           | 2013 |
 | [[Vehículos/Nissan/Sentra (965JXT)\|Sentra (965JXT)]]                                                            | Nissan        | Sentra Sv              | 2014 |
 | [[Vehículos/Nissan/Sentra SR (321KBN)\|Sentra SR (321KBN)]]                                                      | Nissan        | Sentra SR Turbo        | 2017 |
+| [[Vehículos/Nissan/Xterra (787GWX)\|Xterra (787GWX)]]                                                            | Nissan        | Xterra                 | 2005 |
 | [[Vehículos/Toyota/Corolla (110KJM)\|Corolla (110KJM)]]                                                          | Toyota        | Corolla                | 2016 |
 | [[Vehículos/Toyota/Rav4 (404JPN)\|Rav4 (404JPN)]]                                                                | Toyota        | Rav4                   | 2001 |
 | [[Vehículos/Toyota/Rav4 (671HZR)\|Rav4 (671HZR)]]                                                                | Toyota        | Rav4                   | 2001 |
@@ -78,9 +80,9 @@
 | [[Vehículos/Toyota/Yaris (653KGQ)\|Yaris (653KGQ)]]                                                              | Toyota        | Yaris                  | 2012 |
 | [[Vehículos/Toyota/Yaris L (424KLP)\|Yaris L (424KLP)]]                                                          | Toyota        | Yaris L                | 2019 |
 | [[Vehículos/Volkswagen/Golf Gti (157JNP)\|Golf Gti (157JNP)]]                                                    | Volkswagen    | Golf Gti               | 2013 |
+| [[Vehículos/Volkswagen/Golf Gti (303JZW)\|Golf Gti (303JZW)]]                                                    | Volkswagen    | Gti                    | 2010 |
 | [[Vehículos/Volkswagen/Golf Saveiro (237CJM)\|Golf Saveiro (237CJM)]]                                            | Volkswagen    | Saveiro                | 1992 |
 | [[Vehículos/Volkswagen/Golf TDI (741CXY)\|Golf TDI (741CXY)]]                                                    | Volkswagen    | Golf TDI               | 2002 |
-| [[Vehículos/Volkswagen/Gti (303JZW)\|Gti (303JZW)]]                                                              | Volkswagen    | Gti                    | 2010 |
 | [[Vehículos/Volkswagen/Jetta (660CMZ)\|Jetta (660CMZ)]]                                                          | Volkswagen    | Jetta GLS              | 1997 |
 | [[Vehículos/Volkswagen/Tiguan TDi (548DVN)\|Tiguan TDi (548DVN)]]                                                | Volkswagen    | Tiguan TDi             | 2010 |
 
