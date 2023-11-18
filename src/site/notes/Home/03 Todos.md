@@ -53,6 +53,7 @@
 | [[Vehículos/Kia/Río (528JYQ)\|Río (528JYQ)]]                                                                     | Kia           | Rio LX                 | 2016 |
 | [[Vehículos/Kia/Sorento (156FXC)\|Sorento (156FXC)]]                                                             | Kia           | Sorento                | 2012 |
 | [[Vehículos/Kia/Sorento (472JVY)\|Sorento (472JVY)]]                                                             | Kia           | Sorento                | \-   |
+| [[Vehículos/Kia/Soul (681KKW)\|Soul (681KKW)]]                                                                   | Kia           | Soul Base              | 2015 |
 | [[Vehículos/Kia/Sportage (538FFR)\|Sportage (538FFR)]]                                                           | Kia           | Sportage 4WD           | 1999 |
 | [[Vehículos/Mazda/3i (586GJK)\|3i (586GJK)]]                                                                     | Mazda         | 3i                     | 2006 |
 | [[Vehículos/Mazda/3i (658GRP)\|3i (658GRP)]]                                                                     | Mazda         | 3i                     | 2012 |
@@ -71,6 +72,7 @@
 | [[Vehículos/Nissan/Sentra (965JXT)\|Sentra (965JXT)]]                                                            | Nissan        | Sentra Sv              | 2014 |
 | [[Vehículos/Nissan/Sentra SR (321KBN)\|Sentra SR (321KBN)]]                                                      | Nissan        | Sentra SR Turbo        | 2017 |
 | [[Vehículos/Nissan/Xterra (787GWX)\|Xterra (787GWX)]]                                                            | Nissan        | Xterra                 | 2005 |
+| [[Vehículos/Scion/IA (221JFN)\|IA (221JFN)]]                                                                     | Scion         | IA                     | 2016 |
 | [[Vehículos/Toyota/Corolla (110KJM)\|Corolla (110KJM)]]                                                          | Toyota        | Corolla                | 2016 |
 | [[Vehículos/Toyota/Rav4 (404JPN)\|Rav4 (404JPN)]]                                                                | Toyota        | Rav4                   | 2001 |
 | [[Vehículos/Toyota/Rav4 (671HZR)\|Rav4 (671HZR)]]                                                                | Toyota        | Rav4                   | 2001 |
