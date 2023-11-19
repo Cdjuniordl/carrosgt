@@ -6,12 +6,9 @@
 
 ## Vehículo
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/vehiculos/chevrolet/tracker-928-jrz/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/vehiculos/chevrolet/tracker-928-jrz/#datos-del-vehiculo" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
-
-
-![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
 
 ## Datos del Vehículo 
 ### Foto:: 
@@ -27,17 +24,6 @@
 ##### Color:: Azul
 ---
 
-## Cliente:
-
-[[Clientes/Jaime González\|Jaime González]]
-
----
-
-## Historial
-
-- [[Órdenes/23-11-16 Tracker (928JRZ)\|23-11-16 Tracker (928JRZ)]]
-
-{ .block-language-dataview} 
 
 </div></div>
 
@@ -66,11 +52,18 @@
 ### DTC:: 
 
 - <a href="http"><button class="btn success">CÓDIGOS</button></a>
-- 
+- Mandos dañados 
+- Resistencia dañada 
+- Fuga de escape 
+- Sistema de 4x4 dañado 
 
 ---
 ## Reparación:
-- 
+- Cambio de Mandos del timón 
+- Cambio de luz delantera 
+- Reparación de fugas de escape 
+- Armado y engrase de 4x4
+- Cambio de resistencia de blower 
 
 ---
 
@@ -89,4 +82,4 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2023-11-18
