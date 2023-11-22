@@ -29,6 +29,7 @@
 | [[Vehículos/Ford/Fiesta (536GGF)\|Fiesta (536GGF)]]                                                              | Ford          | Fiesta SEL             | 2011 |
 | [[Vehículos/Ford/Ford Ranger\|Ford Ranger]]                                                                      | Ford          | Ranger                 | 1993 |
 | [[Vehículos/Ford/Mustang (334JMV)\|Mustang (334JMV)]]                                                            | Ford          | Mustang V6 convertible | 2014 |
+| [[Vehículos/Ford/Ranger (037CRQ)\|Ranger (037CRQ)]]                                                              | Ford          | Ranger XLT             | 1995 |
 | [[Vehículos/GMC/Envoy (214JQC)\|Envoy (214JQC)]]                                                                 | GMC           | Envoy                  | 2008 |
 | [[Vehículos/Honda/Civic (186GNZ)\|Civic (186GNZ)]]                                                               | Honda         | Civic EX               | 2012 |
 | [[Vehículos/Honda/Civic (428KJL)\|Civic (428KJL)]]                                                               | Honda         | Civic Lx               | 2011 |
