@@ -12,6 +12,7 @@
 | [[Vehículos/Acura/Acura (189HNX)\|Acura (189HNX)]]                                                               | Acura         | TL                     | 1999 |
 | [[Vehículos/BMW/328i (636HNT)\|328i (636HNT)]]                                                                   | BMW           | 328i                   | 2008 |
 | [[Vehículos/BMW/BMW 328i (882GTX)\|BMW 328i (882GTX)]]                                                           | BMW           | 328i                   | 2011 |
+| [[Vehículos/BMW/X3 (624GBK)\|X3 (624GBK)]]                                                                       | BMW           | X3 3.0i 4x4            | 2004 |
 | [[Vehículos/Chevrolet/Colorado Lt\|Colorado Lt]]                                                                 | Chevrolet     | Colorado LT            | 2007 |
 | [[Vehículos/Chevrolet/S10 (412BCL) (conflict 2023-09-25-00-04-05)\|S10 (412BCL) (conflict 2023-09-25-00-04-05)]] | Chevrolet     | S10                    | 1999 |
 | [[Vehículos/Chevrolet/S10 (412BCL)\|S10 (412BCL)]]                                                               | Chevrolet     | S10                    | 1999 |
@@ -38,6 +39,7 @@
 | [[Vehículos/Honda/Civic Lx (287FWB)\|Civic Lx (287FWB)]]                                                         | Honda         | Civic Lx               | 2007 |
 | [[Vehículos/Honda/Civic Lx (630DPH)\|Civic Lx (630DPH)]]                                                         | Honda         | Civic Lx               | 2000 |
 | [[Vehículos/Honda/Civic Lx (922FXJ)\|Civic Lx (922FXJ)]]                                                         | Honda         | Civic Lx               | 2004 |
+| [[Vehículos/Honda/Civic Lx (Sin)\|Civic Lx (Sin)]]                                                               | #Honda        | Civic Lx               | 2007 |
 | [[Vehículos/Honda/Crv (138HZB)\|Crv (138HZB)]]                                                                   | Honda         | Crv                    | 1997 |
 | [[Vehículos/Honda/Crv (142JNB)\|Crv (142JNB)]]                                                                   | Honda         | CR-V EX                | 2002 |
 | [[Vehículos/Honda/Crv (751GMF)\|Crv (751GMF)]]                                                                   | Honda         | CR-V Ex                | 2005 |
