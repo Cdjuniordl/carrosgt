@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vehiculos/chevrolet/spark-795-dgy/"}
+{"dg-publish":true,"permalink":"/vehiculos/chevrolet/spark-795-dgy/","tags":["Chevrolet"]}
 ---
 
 ![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
