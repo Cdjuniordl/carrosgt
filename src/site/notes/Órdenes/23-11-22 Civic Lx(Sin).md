@@ -14,7 +14,7 @@
 ### Foto:: 
 ![Vehículo](http://drive.google.com/uc?export=view&id=1GF555XZ8VBUBtzp1qQsdrGXFZs6GGJv5)
 
-### Marca:: #Honda 
+### Marca:: Honda 
 ### Modelo:: Civic Lx
 ### Año:: 2007
 #### Motor:: 1800
