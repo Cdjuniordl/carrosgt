@@ -39,7 +39,7 @@
 | [[Vehículos/Honda/Civic Lx (287FWB)\|Civic Lx (287FWB)]]                                                         | Honda         | Civic Lx               | 2007 |
 | [[Vehículos/Honda/Civic Lx (630DPH)\|Civic Lx (630DPH)]]                                                         | Honda         | Civic Lx               | 2000 |
 | [[Vehículos/Honda/Civic Lx (922FXJ)\|Civic Lx (922FXJ)]]                                                         | Honda         | Civic Lx               | 2004 |
-| [[Vehículos/Honda/Civic Lx (Sin)\|Civic Lx (Sin)]]                                                               | #Honda        | Civic Lx               | 2007 |
+| [[Vehículos/Honda/Civic Lx (Sin)\|Civic Lx (Sin)]]                                                               | Honda         | Civic Lx               | 2007 |
 | [[Vehículos/Honda/Crv (138HZB)\|Crv (138HZB)]]                                                                   | Honda         | Crv                    | 1997 |
 | [[Vehículos/Honda/Crv (142JNB)\|Crv (142JNB)]]                                                                   | Honda         | CR-V EX                | 2002 |
 | [[Vehículos/Honda/Crv (751GMF)\|Crv (751GMF)]]                                                                   | Honda         | CR-V Ex                | 2005 |
