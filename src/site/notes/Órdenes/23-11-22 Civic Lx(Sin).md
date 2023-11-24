@@ -49,11 +49,11 @@
 ### DTC:: 
 
 - <a href="http"><button class="btn success">CÓDIGOS</button></a>
-- 
+- Falla del módulo de AC
 
 ---
 ## Reparación:
-- 
+- Cambio del módulo de AC
 
 ---
 
@@ -61,8 +61,8 @@
 
 | Nombre | Cantidad | Precio |
 | ------ | -------- | ------ |
-|        |          |        |
-| **Total**       |        |    **Q**    |
+| Mano de obra        |          |  Q250      |
+| **Total**       |        |    **Q250**    |
 
 ---
 
@@ -72,4 +72,4 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2023-11-23
