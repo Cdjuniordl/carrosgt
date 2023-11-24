@@ -75,11 +75,11 @@
 
 | Nombre                 | Cantidad | Precio |
 | ---------------------- | -------- | ------ |
-| Luces                  |          | Q      |
-| Guardapolvo            | 1        | Q      |
-| Cinchos de Guardapolvo |          | Q      |
+| Luces                  |          | Q100      |
+| Guardapolvo            | 1        | Q50      |
+| Cinchos de Guardapolvo |          | Q50      |
 | Cable de palanca       | 1        | Q      |
-|                        |          |        |
+|     Grapas de tapicería                    |     8     |   Q50     |
 
 ---
 
@@ -89,4 +89,4 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2023-11-23
