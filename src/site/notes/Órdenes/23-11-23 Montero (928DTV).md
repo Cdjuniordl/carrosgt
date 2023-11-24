@@ -12,7 +12,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![Vehículo](http://drive.google.com/uc?export=view&id=
+![Vehículo](http://drive.google.com/uc?export=view&id=1INhCgxn6WBtJSYVzxedZIBL88Y2oiKtR)
 
 ### Marca:: Mitsubishi 
 ### Modelo:: Montero Sport 
@@ -32,10 +32,10 @@
 ### Fecha:: 2023-11-23
 #### Fotos de Recepción: <a href="http"><button class="btn success">FOTOS</button></a>
 
-###### Kilometraje: 
-###### Nivel de Gasolina: 
-###### Luces en tablero: 
-###### Llaves o documentos: 
+###### Kilometraje: 218 914Mi
+###### Nivel de Gasolina: 1/4
+###### Luces en tablero: Check
+###### Llaves o documentos: Llave y tarjeta 
 
 ---
 
@@ -46,9 +46,9 @@
 ---
 
 ## Diagnóstico:
-### DTC:: 
+### DTC:: P0170
 
-- <a href="http"><button class="btn success">CÓDIGOS</button></a>
+- <a href="https://usait.x431.com/Home/Report/reportDetail/diagnose_record_id/8075a263geAE548coGTdnRtZLr/report_type/D/l/es/timezone/-6"><button class="btn success">CÓDIGOS</button></a>
 - Baja presión de combustible 
 - Filtro de gasolina sucio 
 
@@ -56,24 +56,25 @@
 ## Reparación:
 - Cambio de filtro de gasolina 
 - Cambio de bomba de gasolina 
+	![Bomba vieja|225](http://drive.google.com/uc?export=view&id=1IRVrrJwZXNX7zOSBbVjKgeJipChaPOfY)
 
 ---
 
 ## Presupuesto:
 
-| Nombre             | Cantidad | Precio |
-| ------------------ | -------- | ------ |
-| Filtro de gasolina |          | Q45    |
-| Bomba de gasolina  |          | Q      |
-| Mano de obra       |          | Q      |
-| **Total**                   |          |  **Q**      |
+| Nombre             | Cantidad |   Precio |
+| ------------------ |:--------:| --------:|
+| Filtro de gasolina |    1     |      Q45 |
+| Bomba de gasolina  |    1     |     Q250 |
+| Mano de obra       |          |     Q275 |
+| **Total**          |          | **Q570** |
 
 ---
 
-###### TAG:: #Mitsubishi , #Montero, #Gasolina
+###### TAG:: #Mitsubishi , #Montero, #Gasolina, #P0170
 
 ---
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2023-11-24
