@@ -30,7 +30,8 @@
 
 ## Recepción:
 ### Fecha:: 2023-11-25
-#### Fotos de Recepción: <a href="http"><button class="btn success">FOTOS</button></a>
+#### Fotos de Recepción:
+
 
 ###### Kilometraje: 
 ###### Nivel de Gasolina: 
@@ -49,7 +50,7 @@
 ## Diagnóstico:
 ### DTC:: 
 
-- <a href="http"><button class="btn success">CÓDIGOS</button></a>
+- <a href="https://usait.x431.com/Home/Report/reportDetail/diagnose_record_id/208c49afgeAE54AE54oGKwoGDh/report_type/D/l/es/timezone/-6"><button class="btn success">CÓDIGOS</button></a>
 - Daño en el cuerpo de aceleración 
 
 ---
