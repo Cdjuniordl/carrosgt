@@ -20,6 +20,7 @@
 | [[Vehículos/Chevrolet/Spark (795DGY)\|Spark (795DGY)]]                                                           | Chevrolet     | Spark                  | 2007 |
 | [[Vehículos/Chevrolet/Spark Ls (057FWX)\|Spark Ls (057FWX)]]                                                     | Chevrolet     | Spark Ls               | 2014 |
 | [[Vehículos/Chevrolet/Tracker (928JRZ)\|Tracker (928JRZ)]]                                                       | Chevrolet     | Tracker                | 1996 |
+| [[Vehículos/Dodge/Caliber (949FDM)\|Caliber (949FDM)]]                                                           | Dodge         | Caliber SXT            | 2007 |
 | [[Vehículos/Dodge/Durango (993CLH)\|Durango (993CLH)]]                                                           | Dodge         | Durango                | 1998 |
 | [[Vehículos/Dodge/Ram 1500 (177GXB)\|Ram 1500 (177GXB)]]                                                         | Dodge         | Ram 1500 C/Cab         | 2016 |
 | [[Vehículos/Dodge/Ram 2500 (433DPQ)\|Ram 2500 (433DPQ)]]                                                         | Dodge         | Ram 2500 SLT           | 2008 |
