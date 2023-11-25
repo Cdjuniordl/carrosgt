@@ -85,7 +85,7 @@
 | [[Vehículos/Toyota/Rav4 (694KHV)\|Rav4 (694KHV)]]                                                                | Toyota        | Rav4                   | 2010 |
 | [[Vehículos/Toyota/Rav4 (blanca)\|Rav4 (blanca)]]                                                                | Toyota        | Rav4 XLE               | 2023 |
 | [[Vehículos/Toyota/Rav4 (sin)\|Rav4 (sin)]]                                                                      | Toyota        | Rav4 XLE               | 2022 |
-| [[Vehículos/Toyota/Yaris (\|Yaris (]]                                                                            | \-            | \-                     | \-   |
+| [[Vehículos/Toyota/Yaris (470GQF)\|Yaris (470GQF)]]                                                              | Toyota        | Yaris Le               | 2013 |
 | [[Vehículos/Toyota/Yaris (653KGQ)\|Yaris (653KGQ)]]                                                              | Toyota        | Yaris                  | 2012 |
 | [[Vehículos/Toyota/Yaris L (424KLP)\|Yaris L (424KLP)]]                                                          | Toyota        | Yaris L                | 2019 |
 | [[Vehículos/Volkswagen/Golf Gti (157JNP)\|Golf Gti (157JNP)]]                                                    | Volkswagen    | Golf Gti               | 2013 |
