@@ -52,7 +52,7 @@
 | [[Vehículos/Hyundai/Santa Fe (886GHG)\|Santa Fe (886GHG)]]                                                       | Hyundai       | Santa Fe Sport         | 2013 |
 | [[Vehículos/Hyundai/Starex (346KMF)\|Starex (346KMF)]]                                                           | Hyundai       | Grand Starex CVX       | 2010 |
 | [[Vehículos/Hyundai/Tucson (620JJN)\|Tucson (620JJN)]]                                                           | Hyundai       | Tucson GLS             | 2014 |
-| [[Vehículos/Hyundai/Tucson (809JYW)\|Tucson (809JYW)]]                                                           | Hyundai       | Tucson                 | \-   |
+| [[Vehículos/Hyundai/Tucson (809JYW)\|Tucson (809JYW)]]                                                           | Hyundai       | Tucson                 | 2009 |
 | [[Vehículos/Jeep/Cherokee Límited (332CLC)\|Cherokee Límited (332CLC)]]                                          | Jeep          | Grand Cherokee Limited | 2004 |
 | [[Vehículos/Jeep/Grand Cherokee (299JML)\|Grand Cherokee (299JML)]]                                              | Jeep          | Grand Cherokee Laredo  | 2006 |
 | [[Vehículos/Kia/Forte (304GHG)\|Forte (304GHG)]]                                                                 | Kia           | Forte Koup Ex          | 2013 |
@@ -85,6 +85,7 @@
 | [[Vehículos/Toyota/Rav4 (404JPN)\|Rav4 (404JPN)]]                                                                | Toyota        | Rav4                   | 2001 |
 | [[Vehículos/Toyota/Rav4 (671HZR)\|Rav4 (671HZR)]]                                                                | Toyota        | Rav4                   | 2001 |
 | [[Vehículos/Toyota/Rav4 (694KHV)\|Rav4 (694KHV)]]                                                                | Toyota        | Rav4                   | 2010 |
+| [[Vehículos/Toyota/Rav4 (887KQS)\|Rav4 (887KQS)]]                                                                | Toyota        | Rav4 Límited           | 2019 |
 | [[Vehículos/Toyota/Rav4 (blanca)\|Rav4 (blanca)]]                                                                | Toyota        | Rav4 XLE               | 2023 |
 | [[Vehículos/Toyota/Rav4 (sin)\|Rav4 (sin)]]                                                                      | Toyota        | Rav4 XLE               | 2022 |
 | [[Vehículos/Toyota/Yaris (470GQF)\|Yaris (470GQF)]]                                                              | Toyota        | Yaris Le               | 2013 |
