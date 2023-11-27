@@ -10,10 +10,10 @@
 
 ### Marca:: Hyundai 
 ### Modelo:: Tucson 
-### Año:: 
-#### Motor:: 
-#### Serie Motor:: 
-#### Vin:: 
+### Año:: 2009
+#### Motor:: 2000
+#### Serie Motor:: D4EA
+#### Vin:: KMHJN81VP9U133451
 ##### Placa:: 809JYW
 ##### Color:: Negro
 ---
