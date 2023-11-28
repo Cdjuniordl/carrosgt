@@ -82,6 +82,7 @@
 | [[Vehículos/Nissan/Xterra (787GWX)\|Xterra (787GWX)]]                                                            | Nissan        | Xterra                 | 2005 |
 | [[Vehículos/Scion/IA (221JFN)\|IA (221JFN)]]                                                                     | Scion         | IA                     | 2016 |
 | [[Vehículos/Toyota/Corolla (110KJM)\|Corolla (110KJM)]]                                                          | Toyota        | Corolla                | 2016 |
+| [[Vehículos/Toyota/Pickup V6 (418BHQ)\|Pickup V6 (418BHQ)]]                                                      | Toyota        | Pickup V6              | 1990 |
 | [[Vehículos/Toyota/Rav4 (404JPN)\|Rav4 (404JPN)]]                                                                | Toyota        | Rav4                   | 2001 |
 | [[Vehículos/Toyota/Rav4 (671HZR)\|Rav4 (671HZR)]]                                                                | Toyota        | Rav4                   | 2001 |
 | [[Vehículos/Toyota/Rav4 (694KHV)\|Rav4 (694KHV)]]                                                                | Toyota        | Rav4                   | 2010 |
