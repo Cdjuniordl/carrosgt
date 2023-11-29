@@ -52,10 +52,12 @@
 - <a href="http"><button class="btn success">CÓDIGOS</button></a>
 - Señal de CMP buena 
 - Señal de CKP buena
+- Baja presión de gasolina *15psi*
+- Bomba mala 
 
 ---
 ## Reparación:
-- 
+- Cambio de bomba de gasolina 
 
 ---
 
@@ -74,4 +76,4 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2023-11-28
