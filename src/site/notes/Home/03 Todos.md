@@ -55,6 +55,7 @@
 | [[Vehículos/Hyundai/Tucson (809JYW)\|Tucson (809JYW)]]                                                           | Hyundai       | Tucson                 | 2009 |
 | [[Vehículos/Jeep/Cherokee Límited (332CLC)\|Cherokee Límited (332CLC)]]                                          | Jeep          | Grand Cherokee Limited | 2004 |
 | [[Vehículos/Jeep/Grand Cherokee (299JML)\|Grand Cherokee (299JML)]]                                              | Jeep          | Grand Cherokee Laredo  | 2006 |
+| [[Vehículos/Jeep/Patriot (474JBZ)\|Patriot (474JBZ)]]                                                            | Jeep          | Patriot Sport 2WD      | 2016 |
 | [[Vehículos/Kia/Forte (304GHG)\|Forte (304GHG)]]                                                                 | Kia           | Forte Koup Ex          | 2013 |
 | [[Vehículos/Kia/Río (528JYQ)\|Río (528JYQ)]]                                                                     | Kia           | Rio LX                 | 2016 |
 | [[Vehículos/Kia/Sorento (156FXC)\|Sorento (156FXC)]]                                                             | Kia           | Sorento                | 2012 |
@@ -67,6 +68,7 @@
 | [[Vehículos/Mazda/Cx-5 (785KGT)\|Cx-5 (785KGT)]]                                                                 | Mazda         | Cx-5 Grand Touring     | 2018 |
 | [[Vehículos/Mazda/Cx-7 (553GMJ)\|Cx-7 (553GMJ)]]                                                                 | Mazda         | Cx-7 Touring           | 2008 |
 | [[Vehículos/Mazda/Cx5 (613JCV)\|Cx5 (613JCV)]]                                                                   | Mazda         | CX-5                   | 2015 |
+| [[Vehículos/Mazda/Cx7 (349FRY)\|Cx7 (349FRY)]]                                                                   | Mazda         | Cx-7 Touring           | 2007 |
 | [[Vehículos/Mazda/Protege (420DTQ)\|Protege (420DTQ)]]                                                           | Mazda         | Protege Lx             | 2000 |
 | [[Vehículos/Mazda/Protege (650DPQ)\|Protege (650DPQ)]]                                                           | Mazda         | Protege DX             | 2000 |
 | [[Vehículos/Mercedes/E300 (869BXL)\|E300 (869BXL)]]                                                              | Mercedes-Benz | E300 Turbo Diesel      | 1999 |
