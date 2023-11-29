@@ -33,9 +33,9 @@
 #### Fotos de Recepción:
 
 
-###### Kilometraje: 
-###### Nivel de Gasolina: 
-###### Luces en tablero: 
+###### Kilometraje: 152 416
+###### Nivel de Gasolina: Reserva 
+###### Luces en tablero: Check, Rayo, Airbag
 ###### Llaves o documentos: 
 
 ---
@@ -55,7 +55,8 @@
 
 ---
 ## Reparación:
-- 
+- Cambio del cuerpo de Aceleración
+- Se cambió el cuerpo 3 veces porque 2 de las veces estaba dañado 
 
 ---
 
@@ -74,4 +75,4 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2023-11-28
