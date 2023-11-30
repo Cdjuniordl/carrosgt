@@ -6,12 +6,12 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![Vehículo](http://drive.google.com/uc?export=view&id=
+![Vehículo](http://drive.google.com/uc?export=view&id=1OzAIvBJy2ted5spd7bx4zXvHWzjwgrky)
 
 ### Marca:: Honda 
 ### Modelo:: Civic Lx
 ### Año:: 1996
-#### Motor:: 1800
+#### Motor:: 1600
 #### Serie Motor:: 
 #### Vin:: 1HGEJ652XTL036055
 ##### Placa:: 907BYS
@@ -26,5 +26,6 @@
 
 ## Historial
 
+- [[Órdenes/23-11-30 Civic (907BYS)\|23-11-30 Civic (907BYS)]]
 
 { .block-language-dataview} 
