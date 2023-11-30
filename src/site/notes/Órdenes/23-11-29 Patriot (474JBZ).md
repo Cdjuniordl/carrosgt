@@ -12,7 +12,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![Vehículo](http://drive.google.com/uc?export=view&id=
+![Vehículo](http://drive.google.com/uc?export=view&id=1NjlJnViCKWozH9Z15hpz2G8KFA798Ru2)
 
 ### Marca:: Jeep
 ### Modelo:: Patriot Sport 2WD
@@ -30,7 +30,8 @@
 
 ## Recepción:
 ### Fecha:: 2023-11-29
-#### Fotos de Recepción: <a href="http"><button class="btn success">FOTOS</button></a>
+#### Fotos de Recepción: 
+![Tablero|225](http://drive.google.com/uc?export=view&id=1Nl8Q3MqVSItl7quw0AMExus1oYiwlhbj)
 
 ###### Kilometraje: 31 929Mi
 ###### Nivel de Gasolina: Full
@@ -73,3 +74,5 @@
 ## Estado
 
 ### Entrega:: 
+
+<img src= "obsidian://open?vault=Carros%20Gt&file=Adjuntos%2FIMG_20230808_092428_154.jpg" />
