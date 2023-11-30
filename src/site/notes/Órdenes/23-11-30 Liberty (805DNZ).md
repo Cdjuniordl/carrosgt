@@ -50,11 +50,14 @@
 ### DTC:: 
 
 - <a href="http"><button class="btn success">CÓDIGOS</button></a>
-- 
+- Botón de intermitentes dañado 
 
 ---
 ## Reparación:
-- 
+- Reparación de botón de intermitentes
+	![Botón|250](http://drive.google.com/uc?export=view&id=1Om79Iz8USYL262aor2H1lGQha3-ChzhI)
+	![Boton2|250](http://drive.google.com/uc?export=view&id=1OlIRva0-o5_ZTb9pAcq9bA5TFCV2Oizf)
+	![Boton3|250](http://drive.google.com/uc?export=view&id=1OssBbNEGH3MWkLC8oPWkr3ZYVCM2CiAJ)
 
 ---
 
@@ -62,8 +65,8 @@
 
 | Nombre | Cantidad | Precio |
 | ------ | -------- | ------ |
-|        |          |        |
-| **Total**       |        |    **Q**    |
+|  Mano de Obra      |          |    Q250    |
+| **Total**       |        |    **Q250**    |
 
 ---
 
@@ -73,4 +76,4 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2023-11-30
