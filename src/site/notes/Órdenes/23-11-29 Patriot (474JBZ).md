@@ -74,5 +74,3 @@
 ## Estado
 
 ### Entrega:: 
-
-<img src= "obsidian://open?vault=Carros%20Gt&file=Adjuntos%2FIMG_20230808_092428_154.jpg" />
