@@ -106,7 +106,7 @@
 ```button
 name HOME
 type link
-action obsidian://open?vault=Carros%20Gt&file=Home%2F06%20Home
+action obsidian://open?vault=Carros%20Gt&file=Home%2F07%20Home
 color blue
 ```{ #button-ei4y}
 
