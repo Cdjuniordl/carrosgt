@@ -5,9 +5,9 @@
 
 # Datos del Cliente 
 - **Nombre:** Adelso Isuzu Hombre
-- **Teléfono:** <a href="tel:30590373">Celular</a>
+- **Teléfono**:: <a href="tel:30590373">Celular</a>
 - **Dirección:** 
-- **WhatsApp:** <a href="http://wa.me/50230590373">WhatsApp</a>
+- **WhatsApp**:: <a href="http://wa.me/50230590373">WhatsApp</a>
 - **NIT:** 
 - **Otros:** 
 
