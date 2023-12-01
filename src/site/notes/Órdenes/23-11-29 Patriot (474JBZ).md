@@ -50,20 +50,29 @@
 ### DTC:: 
 
 - <a href="http"><button class="btn success">CÓDIGOS</button></a>
-- 
+- Sensor de cigüeñal dañado 
+- Sensor CMP roto 
+- Daño en el sensor MAP
 
 ---
 ## Reparación:
-- 
+- Cambio de sensor de cigüeñal 
+- Cambio de sensor CMP
+	![CMP|250](http://drive.google.com/uc?export=view&id=1OayofKVJggqQcEBhQcdl3IIB2WjfCOrP)
+- Cambio de sensor MAP
+	![Map|250](http://drive.google.com/uc?export=view&id=1Ob6OYVPbMhz2O48hLfM1F5UD504wCaur)
 
 ---
 
 ## Presupuesto:
 
-| Nombre | Cantidad | Precio |
-| ------ | -------- | ------ |
-|        |          |        |
-| **Total**       |        |    **Q**    |
+| Nombre       | Cantidad |    Precio |
+| ------------ |:--------:| ---------:|
+| Sensor CKP   |    1     |      Q225 |
+| Sensor CMP   |    1     |      Q250 |
+| Sensor MAP   |    1     |      Q375 |
+| Mano de Obra |          |      Q300 |
+| **Total**    |          | **Q1150** |
 
 ---
 
