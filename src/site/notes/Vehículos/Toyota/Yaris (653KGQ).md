@@ -27,5 +27,6 @@
 ## Historial
 
 - [[Órdenes/23-11-06 Yaris (653KGQ)\|23-11-06 Yaris (653KGQ)]]
+- [[Órdenes/23-12-01 Yaris (653KGQ)\|23-12-01 Yaris (653KGQ)]]
 
 { .block-language-dataview} 
