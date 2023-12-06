@@ -6,7 +6,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![Vehículo](http://drive.google.com/uc?export=view&id=1pZB_UH5MX1T-sZN58U1DaGTnQwqYF7Fk)
+![Vehículo](http://drive.google.com/uc?export=view&id=1ScpPPNoGOyDQ5oHoJH1CqrO_V7awxO4c)
 
 ### Marca:: Kia 
 ### Modelo:: Forte Koup Ex
@@ -27,5 +27,6 @@
 ## Historial
 
 - [[Órdenes/23-10-09 Forte (304GHG)\|23-10-09 Forte (304GHG)]]
+- [[Órdenes/23-12-06 Forte (304GHG)\|23-12-06 Forte (304GHG)]]
 
 { .block-language-dataview} 
