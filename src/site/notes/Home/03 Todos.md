@@ -38,6 +38,7 @@
 | [[Vehículos/Honda/Civic (907BYS)\|Civic (907BYS)]]                                                               | Honda         | Civic Lx               | 1996 |
 | [[Vehículos/Honda/Civic Lx (140JVZ)\|Civic Lx (140JVZ)]]                                                         | Honda         | Civic Lx               | 2011 |
 | [[Vehículos/Honda/Civic Lx (175CMJ)\|Civic Lx (175CMJ)]]                                                         | Honda         | Civic Lc               | 2003 |
+| [[Vehículos/Honda/Civic Lx (203FXD)\|Civic Lx (203FXD)]]                                                         | Honda         | Civic Lx               | 2002 |
 | [[Vehículos/Honda/Civic Lx (287FWB)\|Civic Lx (287FWB)]]                                                         | Honda         | Civic Lx               | 2007 |
 | [[Vehículos/Honda/Civic Lx (323KPN)\|Civic Lx (323KPN)]]                                                         | Honda         | Civic Lx               | 2007 |
 | [[Vehículos/Honda/Civic Lx (630DPH)\|Civic Lx (630DPH)]]                                                         | Honda         | Civic Lx               | 2000 |
