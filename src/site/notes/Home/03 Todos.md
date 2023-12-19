@@ -116,3 +116,5 @@ action obsidian://open?vault=Carros%20Gt&file=Home%2F07%20Home
 color blue
 ```{ #button-ei4y}
 
+
+[[Diagramas Compartidos/Chevrolet Spark 2016\|Chevrolet Spark 2016]]
