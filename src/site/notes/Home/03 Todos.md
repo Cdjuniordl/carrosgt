@@ -6,6 +6,7 @@
 
 # Carros Gt
 
+[[Diagramas Compartidos/Chevrolet Spark 2016\|Chevrolet Spark 2016]]
 
 | Nombre                                                                     | Marca         | Modelo                 | Año  |
 | -------------------------------------------------------------------------- | ------------- | ---------------------- | ---- |
@@ -114,7 +115,5 @@ name HOME
 type link
 action obsidian://open?vault=Carros%20Gt&file=Home%2F07%20Home
 color blue
-```{ #button-ei4y}
-
-
-[[Diagramas Compartidos/Chevrolet Spark 2016\|Chevrolet Spark 2016]]
+```
+^button-ei4y
