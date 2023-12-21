@@ -90,6 +90,7 @@
 | [[Vehículos/Nissan/Sentra SR (321KBN)\|Sentra SR (321KBN)]]             | Nissan        | Sentra SR Turbo        | 2017 |
 | [[Vehículos/Nissan/Xterra (787GWX)\|Xterra (787GWX)]]                   | Nissan        | Xterra                 | 2005 |
 | [[Vehículos/Scion/IA (221JFN)\|IA (221JFN)]]                            | Scion         | IA                     | 2016 |
+| [[Vehículos/Toyota/4Runner (869KHP)\|4Runner (869KHP)]]                 | Toyota        | 4Runner SR5            | 2007 |
 | [[Vehículos/Toyota/Corolla (110KJM)\|Corolla (110KJM)]]                 | Toyota        | Corolla                | 2016 |
 | [[Vehículos/Toyota/Pickup V6 (418BHQ)\|Pickup V6 (418BHQ)]]             | Toyota        | Pickup V6              | 1990 |
 | [[Vehículos/Toyota/Prius (121JHQ)\|Prius (121JHQ)]]                     | Toyota        | Prius                  | 2008 |
