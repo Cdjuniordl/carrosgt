@@ -8,9 +8,10 @@
 
 
 
-| Nombre                                                                  | Marca     | Modelo | Año  |
-| ----------------------------------------------------------------------- | --------- | ------ | ---- |
-| [[Diagramas Compartidos/Chevrolet Spark 2016\|Chevrolet Spark 2016]] | Chevrolet | Spark  | 2016 |
+| Nombre                                                                          | Marca     | Modelo               | Año  |
+| ------------------------------------------------------------------------------- | --------- | -------------------- | ---- |
+| [[Diagramas Compartidos/Chevrolet Spark 2016\|Chevrolet Spark 2016]]         | Chevrolet | Spark                | 2016 |
+| [[Diagramas Compartidos/Suzuki Grand Vitara 2000\|Suzuki Grand Vitara 2000]] | Suzuki    | Grand Vitara Limited | 2000 |
 
 { .block-language-dataview}
 
