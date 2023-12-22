@@ -66,6 +66,7 @@
 | [[Vehículos/Kia/Río (528JYQ)\|Río (528JYQ)]]                            | Kia           | Rio LX                 | 2016 |
 | [[Vehículos/Kia/Sorento (156FXC)\|Sorento (156FXC)]]                    | Kia           | Sorento                | 2012 |
 | [[Vehículos/Kia/Sorento (472JVY)\|Sorento (472JVY)]]                    | Kia           | Sorento                | \-   |
+| [[Vehículos/Kia/Soul (141KJT)\|Soul (141KJT)]]                          | Kia           | Soul                   | 2011 |
 | [[Vehículos/Kia/Soul (681KKW)\|Soul (681KKW)]]                          | Kia           | Soul Base              | 2015 |
 | [[Vehículos/Kia/Sportage (538FFR)\|Sportage (538FFR)]]                  | Kia           | Sportage 4WD           | 1999 |
 | [[Vehículos/Mazda/2 (936JYR)\|2 (936JYR)]]                              | Mazda         | 2 Sport                | 2012 |
