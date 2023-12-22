@@ -57,6 +57,7 @@
 | [[Vehículos/Hyundai/Starex (346KMF)\|Starex (346KMF)]]                  | Hyundai       | Grand Starex CVX       | 2010 |
 | [[Vehículos/Hyundai/Tucson (620JJN)\|Tucson (620JJN)]]                  | Hyundai       | Tucson GLS             | 2014 |
 | [[Vehículos/Hyundai/Tucson (809JYW)\|Tucson (809JYW)]]                  | Hyundai       | Tucson                 | 2009 |
+| [[Vehículos/Jeep/Cherokee (226CVG)\|Cherokee (226CVG)]]                 | Jeep          | Cherokee               | \-   |
 | [[Vehículos/Jeep/Cherokee Límited (332CLC)\|Cherokee Límited (332CLC)]] | Jeep          | Grand Cherokee Limited | 2004 |
 | [[Vehículos/Jeep/Grand Cherokee (299JML)\|Grand Cherokee (299JML)]]     | Jeep          | Grand Cherokee Laredo  | 2006 |
 | [[Vehículos/Jeep/Liberty (805DNZ)\|Liberty (805DNZ)]]                   | Jeep          | Liberty Sport          | 2002 |
