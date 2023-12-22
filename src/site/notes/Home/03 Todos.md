@@ -68,6 +68,7 @@
 | [[Vehículos/Kia/Sorento (472JVY)\|Sorento (472JVY)]]                    | Kia           | Sorento                | \-   |
 | [[Vehículos/Kia/Soul (681KKW)\|Soul (681KKW)]]                          | Kia           | Soul Base              | 2015 |
 | [[Vehículos/Kia/Sportage (538FFR)\|Sportage (538FFR)]]                  | Kia           | Sportage 4WD           | 1999 |
+| [[Vehículos/Mazda/2 (936JYR)\|2 (936JYR)]]                              | Mazda         | 2 Sport                | 2012 |
 | [[Vehículos/Mazda/3i (586GJK)\|3i (586GJK)]]                            | Mazda         | 3i                     | 2006 |
 | [[Vehículos/Mazda/3i (658GRP)\|3i (658GRP)]]                            | Mazda         | 3i                     | 2012 |
 | [[Vehículos/Mazda/3i (797GWN)\|3i (797GWN)]]                            | Mazda         | 3i                     | 2010 |
