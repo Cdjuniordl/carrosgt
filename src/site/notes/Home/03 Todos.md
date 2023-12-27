@@ -88,6 +88,7 @@
 | [[Vehículos/Mitsubishi/Montero (928DTV)\|Montero (928DTV)]]             | Mitsubishi    | Montero Sport          | 1999 |
 | [[Vehículos/Nissan/Frontier (805FFT)\|Frontier (805FFT)]]               | Nissan        | Frontier XE            | 2001 |
 | [[Vehículos/Nissan/Frontier (836JHT)\|Frontier (836JHT)]]               | Nissan        | Frontier Se King       | 2008 |
+| [[Vehículos/Nissan/Frontier XE (925JRZ)\|Frontier XE (925JRZ)]]         | Nissan        | Frontier XE            | 2000 |
 | [[Vehículos/Nissan/Rogue Se (568JYV)\|Rogue Se (568JYV)]]               | Nissan        | Rogue Se AWD           | 2013 |
 | [[Vehículos/Nissan/Sentra (965JXT)\|Sentra (965JXT)]]                   | Nissan        | Sentra Sv              | 2014 |
 | [[Vehículos/Nissan/Sentra SR (321KBN)\|Sentra SR (321KBN)]]             | Nissan        | Sentra SR Turbo        | 2017 |
