@@ -33,10 +33,10 @@
 #### Fotos de Recepción: 
 ![Tablero|225](http://drive.google.com/uc?export=view&id=
 
-###### Kilometraje: 
-###### Nivel de Gasolina: 
-###### Luces en tablero: 
-###### Llaves o documentos: 
+###### Kilometraje: 103 229Mi
+###### Nivel de Gasolina:  Full
+###### Luces en tablero: Check
+###### Llaves o documentos: Llave
 
 ---
 
@@ -48,24 +48,30 @@
 ---
 
 ## Diagnóstico:
-### DTC:: 
+### DTC:: P0421, P0128
 
 - <a href="http"><button class="btn success">CÓDIGOS</button></a>
 - Frenos en buen estado 
 - Servicio menor (al próximo servicio mayor)
+- Aceite 20w50 Valvoline 
+- Filtro aceite B6Y1-14-302
+- Cargador inferior trasero de motor roto
 
 ---
 ## Reparación:
-- 
+- Cambio de aceite y filtro de aceite 
+- Cargador de motor se programo para la próxima semana 
 
 ---
 
 ## Presupuesto:
 
-| Nombre    | Cantidad | Precio |
-| --------- |:--------:| ------:|
-|           |          |        |
-| **Total** |          |  **Q** |
+| Nombre        | Cantidad | Precio |
+| ------------- |:--------:| ------:|
+| Aceite 20w50  |    5     |   Q250 |
+| Filtro aceite |    1     |    Q25 |
+| Mano de Obra  |          |      Q100 |
+| **Total**              |          |   **Q375**    |
 
 ---
 
@@ -75,4 +81,4 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2023-12-28
