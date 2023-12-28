@@ -80,6 +80,7 @@
 | [[Vehículos/Mazda/Cx7 (349FRY)\|Cx7 (349FRY)]]                          | Mazda         | Cx-7 Touring           | 2007 |
 | [[Vehículos/Mazda/Protege (420DTQ)\|Protege (420DTQ)]]                  | Mazda         | Protege Lx             | 2000 |
 | [[Vehículos/Mazda/Protege (650DPQ)\|Protege (650DPQ)]]                  | Mazda         | Protege DX             | 2000 |
+| [[Vehículos/Mazda/Protege ES (631GGQ)\|Protege ES (631GGQ)]]            | Mazda         | Protege ES             | 2002 |
 | [[Vehículos/Mercedes/E300 (869BXL)\|E300 (869BXL)]]                     | Mercedes-Benz | E300 Turbo Diesel      | 1999 |
 | [[Vehículos/Mitsubishi/Lancer (508DDD)\|Lancer (508DDD)]]               | Mitsubishi    | Lancer GLX             | 2007 |
 | [[Vehículos/Mitsubishi/Lancer (819DMF)\|Lancer (819DMF)]]               | Mitsubishi    | Lancer GLX             | 2008 |
