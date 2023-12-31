@@ -48,23 +48,33 @@
 ---
 
 ## Diagnóstico:
-### DTC:: 
+### DTC:: P1400
 
-- <a href="http"><button class="btn success">CÓDIGOS</button></a>
-- 
+- <a href="https://usait.x431.com/Home/Report/reportDetail/diagnose_record_id/6b7f8a0cgeAEnRDhKwtZnRDhlp/report_type/D/l/es/timezone/-6"><button class="btn success">CÓDIGOS</button></a>
+- Solenoide de Control de EGR dañado 
+	![Solenoide|225](http://drive.google.com/uc?export=view&id=1dFDhLT2WmzAuA4AslPq7mPWig_CLOkBI)
+- Cables y Taza de distribución malos 
+	![Cables|225](http://drive.google.com/uc?export=view&id=1dXzPMGzNbovqef3ZrboYyJ7tlW0Vbtcc)
+- Problema de comunicación Luz de Airbag 
 
 ---
 ## Reparación:
-- 
+- Cambio de Solenoide de EGR
+- Cambio de cables y taza de distribución
+- Reparación Luz de Airbag
+	![Nuevos|225](http://drive.google.com/uc?export=view&id=1dXrYMmltOztLqN7auVLtRVPM_cStCTOb)
 
 ---
 
 ## Presupuesto:
 
-| Nombre    | Cantidad | Precio |
-| --------- |:--------:| ------:|
-|           |          |        |
-| **Total** |          |  **Q** |
+| Nombre               | Cantidad | Precio |
+| -------------------- |:--------:| ------:|
+| Cables de candela    |    4     |   Q225 |
+| Taza de distribución |    1     |   Q125 |
+| Solenoide de EGR     |    1     |      Q |
+| Mano de obra         |          |      Q |
+| **Total**                   |          | **Q**       |
 
 ---
 
@@ -74,4 +84,4 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2023-12-30
