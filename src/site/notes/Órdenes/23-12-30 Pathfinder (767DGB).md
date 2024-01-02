@@ -68,10 +68,10 @@
 
 | Nombre           | Cantidad | Precio |
 | ---------------- |:--------:| ------:|
-| Filtro de aceite |    1     |      Q |
+| Filtro de aceite |    1     |      Q40 |
 | Polea alternador |    1     |   Q400 |
-| Mano de obra     |          |      Q |
-| **Total**                 |          | **Q**       |
+| Mano de obra     |          |      Q260 |
+| **Total**                 |          | **Q700**       |
 
 ---
 
