@@ -13,7 +13,7 @@
 ### Año:: 2008
 #### Motor:: 1500
 #### Serie Motor:: 
-#### Vin:: 
+#### Vin:: JTDKB20U887723017
 ##### Placa:: 121HJQ
 ##### Color:: Gris
 ---
