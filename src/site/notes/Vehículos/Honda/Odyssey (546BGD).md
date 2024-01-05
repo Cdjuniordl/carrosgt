@@ -6,16 +6,16 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![Vehículo](http://drive.google.com/uc?export=view&id=
+![Vehículo](http://drive.google.com/uc?export=view&id=1gPso7poQwHoObP5SqNX7v4QN74-Gs6fy)
 
 ### Marca:: Honda
 ### Modelo:: Odyssey EX
 ### Año:: 2004
-#### Motor:: 
-#### Serie Motor:: 
-#### Vin:: 
+#### Motor:: 3500
+#### Serie Motor:: J35A4
+#### Vin:: 5FNRL18954B900925
 ##### Placa:: 545BGD
-##### Color:: 
+##### Color:: Plateado 
 ---
 
 ## Cliente:
@@ -26,5 +26,6 @@
 
 ## Historial
 
+- [[Órdenes/24-01-03 Odyssey (545BGD)\|24-01-03 Odyssey (545BGD)]]
 
 { .block-language-dataview} 
