@@ -6,7 +6,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![Vehículo](http://drive.google.com/uc?export=view&id=
+![Vehículo](http://drive.google.com/uc?export=view&id=1hAXXrzZ9XZPP-ddqboNBewvjvCJPfH4r)
 
 ### Marca:: Mazda 
 ### Modelo:: Protege ES
@@ -27,5 +27,6 @@
 ## Historial
 
 - [[Órdenes/23-12-27 Protege ES (631GGQ)\|23-12-27 Protege ES (631GGQ)]]
+- [[Órdenes/24-01-04 Protege (631GGQ)\|24-01-04 Protege (631GGQ)]]
 
 { .block-language-dataview} 
