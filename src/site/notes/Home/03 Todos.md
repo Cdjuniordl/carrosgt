@@ -19,6 +19,7 @@
 | [[Vehículos/Chevrolet/Spark (002JZC)\|Spark (002JZC)]]                  | Chevrolet     | Spark Ls               | 2015 |
 | [[Vehículos/Chevrolet/Spark (795DGY)\|Spark (795DGY)]]                  | Chevrolet     | Spark                  | 2007 |
 | [[Vehículos/Chevrolet/Spark Ls (057FWX)\|Spark Ls (057FWX)]]            | Chevrolet     | Spark Ls               | 2014 |
+| [[Vehículos/Chevrolet/Spark LS (504KQH)\|Spark LS (504KQH)]]            | Chevrolet     | Spark LS               | 2013 |
 | [[Vehículos/Chevrolet/Tracker (928JRZ)\|Tracker (928JRZ)]]              | Chevrolet     | Tracker                | 1996 |
 | [[Vehículos/Diagramas\|Diagramas]]                                      | \-            | \-                     | \-   |
 | [[Vehículos/Dodge/Caliber (949FDM)\|Caliber (949FDM)]]                  | Dodge         | Caliber SXT            | 2007 |
