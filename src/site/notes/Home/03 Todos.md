@@ -89,6 +89,7 @@
 | [[Vehículos/Mitsubishi/Mitsubishi Mirage\|Mitsubishi Mirage]]           | Mitsubishi    | Mirage DE              | 2000 |
 | [[Vehículos/Mitsubishi/Montero (\|Montero (]]                           | \-            | \-                     | \-   |
 | [[Vehículos/Mitsubishi/Montero (928DTV)\|Montero (928DTV)]]             | Mitsubishi    | Montero Sport          | 1999 |
+| [[Vehículos/Mitsubishi/Nativa (409BLF)\|Nativa (409BLF)]]               | Mitsubishi    | Nativa GLS             | 2005 |
 | [[Vehículos/Nissan/Frontier (805FFT)\|Frontier (805FFT)]]               | Nissan        | Frontier XE            | 2001 |
 | [[Vehículos/Nissan/Frontier (836JHT)\|Frontier (836JHT)]]               | Nissan        | Frontier Se King       | 2008 |
 | [[Vehículos/Nissan/Frontier XE (925JRZ)\|Frontier XE (925JRZ)]]         | Nissan        | Frontier XE            | 2000 |
