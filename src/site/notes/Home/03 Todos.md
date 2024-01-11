@@ -15,12 +15,12 @@
 | [[Vehículos/BMW/BMW 328i (882GTX)\|BMW 328i (882GTX)]]                  | BMW           | 328i                   | 2011 |
 | [[Vehículos/BMW/X3 (624GBK)\|X3 (624GBK)]]                              | BMW           | X3 3.0i 4x4            | 2004 |
 | [[Vehículos/Chevrolet/Colorado Lt\|Colorado Lt]]                        | Chevrolet     | Colorado LT            | 2007 |
-| [[Vehículos/Chevrolet/Marca\|Marca]]                                    | Chevrolet     | Spark LT               | 2014 |
 | [[Vehículos/Chevrolet/S10 (412BCL)\|S10 (412BCL)]]                      | Chevrolet     | S10                    | 1999 |
 | [[Vehículos/Chevrolet/Spark (002JZC)\|Spark (002JZC)]]                  | Chevrolet     | Spark Ls               | 2015 |
 | [[Vehículos/Chevrolet/Spark (795DGY)\|Spark (795DGY)]]                  | Chevrolet     | Spark                  | 2007 |
 | [[Vehículos/Chevrolet/Spark Ls (057FWX)\|Spark Ls (057FWX)]]            | Chevrolet     | Spark Ls               | 2014 |
 | [[Vehículos/Chevrolet/Spark LS (504KQH)\|Spark LS (504KQH)]]            | Chevrolet     | Spark LS               | 2013 |
+| [[Vehículos/Chevrolet/Spark LT (752KHK)\|Spark LT (752KHK)]]            | Chevrolet     | Spark LT               | 2014 |
 | [[Vehículos/Chevrolet/Tracker (928JRZ)\|Tracker (928JRZ)]]              | Chevrolet     | Tracker                | 1996 |
 | [[Vehículos/Diagramas\|Diagramas]]                                      | \-            | \-                     | \-   |
 | [[Vehículos/Dodge/Caliber (949FDM)\|Caliber (949FDM)]]                  | Dodge         | Caliber SXT            | 2007 |
