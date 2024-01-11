@@ -15,6 +15,7 @@
 | [[Vehículos/BMW/BMW 328i (882GTX)\|BMW 328i (882GTX)]]                  | BMW           | 328i                   | 2011 |
 | [[Vehículos/BMW/X3 (624GBK)\|X3 (624GBK)]]                              | BMW           | X3 3.0i 4x4            | 2004 |
 | [[Vehículos/Chevrolet/Colorado Lt\|Colorado Lt]]                        | Chevrolet     | Colorado LT            | 2007 |
+| [[Vehículos/Chevrolet/Marca\|Marca]]                                    | Chevrolet     | Spark LT               | 2014 |
 | [[Vehículos/Chevrolet/S10 (412BCL)\|S10 (412BCL)]]                      | Chevrolet     | S10                    | 1999 |
 | [[Vehículos/Chevrolet/Spark (002JZC)\|Spark (002JZC)]]                  | Chevrolet     | Spark Ls               | 2015 |
 | [[Vehículos/Chevrolet/Spark (795DGY)\|Spark (795DGY)]]                  | Chevrolet     | Spark                  | 2007 |
