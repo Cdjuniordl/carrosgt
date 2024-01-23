@@ -86,4 +86,4 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2024-01-19
