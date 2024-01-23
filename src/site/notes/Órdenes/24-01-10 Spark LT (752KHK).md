@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ordenes/24-01-10-spark-lt-752-khk/"}
 ---
 
-![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+![Logo|100](https://lh3.googleusercontent.com/drive-viewer/AEYmBYSpcK6uqBUJHU1Zm8MP7HBK8KT1E9hSR1Ft4JQwDPtpQiFoL4c1ncHqULCwO1olD-1WG5Kk9U-jh7jaZPXfqyxL0-aeRg=s1600)
 
 ## Vehículo
 
@@ -12,7 +12,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![Vehículo](http://drive.google.com/uc?export=view&id=1mbT8wLO_1GHbKMa6yOFNVjVJnOg2uffI)
+![Vehículo](https://lh3.googleusercontent.com/drive-viewer/AEYmBYS9PS9uZjOX1dBKIvgJ22CSteUW-uJ3rFt3GlS0U4JsufLnbU7Aqi4u4p__rEmKGhqyxHk5TEON7XjQCDgXwJkwx0gI=s1600)
 
 ### Marca:: Chevrolet 
 ### Modelo:: Spark LT
@@ -31,7 +31,7 @@
 ## Recepción:
 ### Fecha:: 2024-01-10
 #### Fotos de Recepción: 
-![Tablero|225](http://drive.google.com/uc?export=view&id=
+
 
 ###### Kilometraje: 174 355Km
 ###### Nivel de Gasolina: 1/4
@@ -54,18 +54,20 @@
 
 - <a href="http"><button class="btn success">CÓDIGOS</button></a>
 - Alternador dañado 
-	![Alternador1|250](http://drive.google.com/uc?export=view&id=1mcUFS6BUXGMxhhorrU9lfbxp9WX8_p9y)
-	![Alternador2|250](http://drive.google.com/uc?export=view&id=1mdxdpNGAKqiU0kwUz8ZWGZ3Sf3riBFbB)
+	![Alternador1|250](https://lh3.googleusercontent.com/drive-viewer/AEYmBYTbupcKokYKvWX3nEpcqwPODNfTaEc6jQMAq5Q89RU1ksigz4fFSoyiUF-xtUI-WZZr7gqAaTkdOAZFhFOgqf2lWKoPng=s1600)
+	![Alternador2|250](https://lh3.googleusercontent.com/drive-viewer/AEYmBYRDobT-0INEVoTTVDJtwyAcC3wLm9TiVgmBexNDuJI8lgcwhirSFWo3sB6OndDucy8YmHzTzZRwamfDUL7okY85Off0=s1600)
 - Falla en las pistas del Colector
-	![Alternador3|250](http://drive.google.com/uc?export=view&id=1meEaGrkg8y1Lv5ospRQLGvO5vlWSX6ml)
+	![Alternador3|250](https://lh3.googleusercontent.com/drive-viewer/AEYmBYQW_g4UnAoIhA-HJHCwPO39rYzINIlN_Egmk2oadKw9cynfcPwEMe5B7eF9clY-PQT-Eq-kb2uxGKajNmvGGBw7SnC0=s1600)
 
 ---
 ## Reparación:
 - No se encontro repuesto para el colector 
 - Se cambió el alternador por uno Nuevo
-	![Nuevo1|250](http://drive.google.com/uc?export=view&id=1mNQhCg1NOxrv3nCyFSdAkwVN8wlNolIU)
-	![Nuevo2|250](http://drive.google.com/uc?export=view&id=1mQl6rUrlaxOaapJUZBWJ5o4sXEv46Nvm)
-	![Nuevo3|250](http://drive.google.com/uc?export=view&id=1mT4_SIobK-oIArcEmjJCOTneUb5syaUP)
+	![Nuevo1|250](https://lh3.googleusercontent.com/drive-viewer/AEYmBYSakXSwzOn-A-qGfKSISy_lhFilUrPHIaEwfhmKN_QTDU5Y-7LWY45qy2S2g_SIubeITd0Psg2Hrh-tSNjhUHLizjPFEg=s1600)
+	![Nuevo2|250](https://lh3.googleusercontent.com/drive-viewer/AEYmBYQ7gA8plxtrGe5yMrcofCqBGnDjspdwlg2N0D_2B_o-VeLykCRXbbuQTEuGX0esEynCcRQJS0-6ZF-kHmRZYmKkM7ulQQ=s1600)
+	![Nuevo3|250](https://lh3.googleusercontent.com/drive-viewer/AEYmBYTeGVO6pwYPwsmuP41kz1fsCGwQEFQSpwAJcNfMgk7NwO1fsdztKossNdORjNQXb2FNPouNl90l0XWy1kTjXhE3lnBtJg=s1600)
+
+<p style="background: #000000; font-weight: bold; padding: 15px; border-left:8px solid #005794; border-top-left-radius:8px; border-bottom-left-radius:8px;">El alternador Nuevo se dañó y se cubrió garantía reparando el defecto de fabricación</p>
 
 ---
 
