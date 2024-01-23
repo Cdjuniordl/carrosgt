@@ -5,7 +5,7 @@
 
 
 # Carros Gt
-
+[[Órdenes/24-01-23 Prueba\|24-01-23 Prueba]]
 [[Vehículos/Diagramas\|Diagramas]]
 
 | Nombre                                                                     | Marca         | Modelo                 | Año  |
@@ -133,6 +133,3 @@ color blue
 ```{ #button-ei4y}
 
 
-
-
-[[Órdenes/24-01-23 Prueba\|24-01-23 Prueba]]
