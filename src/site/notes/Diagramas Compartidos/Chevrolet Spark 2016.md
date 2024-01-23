@@ -18,9 +18,11 @@
 ## Diagrama
 ### Distribución de Positivos
 
-![](http://drive.google.com/uc?export=view&id=1DJVXqC_CSdIMM2evitsAHNGl8FbgBKQj)
+<a href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYSe6SribAGV73DhH1CWbJGr0TisN9Ozir682A4VyCcrO9H6EzjqHLTGcTTH3WHBkNEHCH_Y9W4wMwslRTxQLmyIFC7W=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYSe6SribAGV73DhH1CWbJGr0TisN9Ozir682A4VyCcrO9H6EzjqHLTGcTTH3WHBkNEHCH_Y9W4wMwslRTxQLmyIFC7W=s1600" /> </a>
 
-![](http://drive.google.com/uc?export=view&id=1DFSosBox6cotR1V401h8TQazZ09MEhow)
+<a href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYR0Mb3gZj9Pnqmm9Jkp0V8rrJDyeJimD29_kNG5YdGwGwdQb3qjiEXr-ADmAqxZnQQEhzD7yGIpe6pcc0ZvyMFKkExmnA=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYR0Mb3gZj9Pnqmm9Jkp0V8rrJDyeJimD29_kNG5YdGwGwdQb3qjiEXr-ADmAqxZnQQEhzD7yGIpe6pcc0ZvyMFKkExmnA=s1600" /> </a>
+
+<a href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYSV6_J_GG-FN214Bi4qJ81_EVrma1C6BIDxd1u1ZPEnXCj4FmCl5qccvrpDsyHCcufAwZBZrOtJVwppFFcRy-ymB1gZIw=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYSV6_J_GG-FN214Bi4qJ81_EVrma1C6BIDxd1u1ZPEnXCj4FmCl5qccvrpDsyHCcufAwZBZrOtJVwppFFcRy-ymB1gZIw=s1600" /> </a>
 
 ![](http://drive.google.com/uc?export=view&id=1DAZimOGwJ69v4XITj7IPtzy_OHiW5Gzp)
 
