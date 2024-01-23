@@ -130,5 +130,9 @@ name HOME
 type link
 action obsidian://open?vault=Carros%20Gt&file=Home%2F07%20Home
 color blue
-```
-^button-ei4y
+```{ #button-ei4y}
+
+
+
+
+[[Órdenes/24-01-23 Prueba\|24-01-23 Prueba]]
