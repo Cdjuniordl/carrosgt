@@ -11,6 +11,7 @@
 | Nombre                                                                     | Marca         | Modelo                 | Año  |
 | -------------------------------------------------------------------------- | ------------- | ---------------------- | ---- |
 | [[Vehículos/Acura/Acura (189HNX)\|Acura (189HNX)]]                      | Acura         | TL                     | 1999 |
+| [[Vehículos/BMW/318i (137DZD)\|318i (137DZD)]]                          | BMW           | 318i                   | 1991 |
 | [[Vehículos/BMW/328i (636HNT)\|328i (636HNT)]]                          | BMW           | 328i                   | 2008 |
 | [[Vehículos/BMW/BMW 328i (882GTX)\|BMW 328i (882GTX)]]                  | BMW           | 328i                   | 2011 |
 | [[Vehículos/BMW/X3 (624GBK)\|X3 (624GBK)]]                              | BMW           | X3 3.0i 4x4            | 2004 |
@@ -58,6 +59,7 @@
 | [[Vehículos/Honda/Fit Lx (934JYV)\|Fit Lx (934JYV)]]                    | Honda         | Fit Lx                 | 2017 |
 | [[Vehículos/Honda/Fit Sport (920HRK)\|Fit Sport (920HRK)]]              | Honda         | Fit Sport              | 2008 |
 | [[Vehículos/Honda/Odyssey (546BGD)\|Odyssey (546BGD)]]                  | Honda         | Odyssey EX             | 2004 |
+| [[Vehículos/Hyundai/Santa Fe (791DZL)\|Santa Fe (791DZL)]]              | Hyundai       | Santa Fe GLS           | 2003 |
 | [[Vehículos/Hyundai/Santa Fe (886GHG)\|Santa Fe (886GHG)]]              | Hyundai       | Santa Fe Sport         | 2013 |
 | [[Vehículos/Hyundai/Starex (346KMF)\|Starex (346KMF)]]                  | Hyundai       | Grand Starex CVX       | 2010 |
 | [[Vehículos/Hyundai/Tucson (620JJN)\|Tucson (620JJN)]]                  | Hyundai       | Tucson GLS             | 2014 |
