@@ -67,34 +67,27 @@ $$
 \text{Terminales y conectores}
 \end{cases}
 $$
-*Q350*
+Total: *Q350*
 
 $$
 \text{Mecánica}
 \begin{cases}
 \text{Instalación módulo de ABS}\\
 \text{Instalación manguera de freno}\\
-\text{Líquido de frenos}\\
-\text{Terminales y conectores}
+\text{Armado flecha delantera derecha}\\
+\text{Ajuste de suspensión}\\
+\text{Instalación de Canister}\\
+\text{Instalación cargador de Transmisión}\\
+\text{Fabricación de base para Válvula de presión de aceite}\\
+\text{Instalación de Radiador y ventilador}\\
+\text{Cambio de compresor}\\
+\text{Cambio de Bomba de agua}\\
+\text{Cambio de Alternador}\\
+\text{Instalación deposito auxiliar de refrigerante}\\
+\text{Purgado de Frenos}
 \end{cases}
 $$
-
-- Mecánica 
-	Instalacion módulo ABS 
-	Instalación manguera de freno 
-	Armado flecha delantera derecha 
-	Reaprete de suspención 
-	Instalación de Canister 
-	Instalador cargador de transmisión 
-	Fabricación de base para válvula presión de aceite 
-	Instalación de radiador y ventilador 
-	Cambio de compresor 
-	Cambio de bomba de agua 
-	Cambio de alternador 
-	Instalación deposito auxiliar de refrigerante 
-	Instalación deposito chorritos 
-	Purgado de frenos 
-	*Q750*
+Total: *Q750*
 - Eléctrico:
 	Instalacion arnes de Radar y neblineras 
 	Arnes de chorritos 
@@ -119,7 +112,8 @@ $$
 | Mecánica  |          |   Q750 |
 | Eléctrico |          |  Q1400 |
 | Grúa      |          |   Q200 |
-| **Total**          |          |    **Q2700**    |
+|        |  **Total**        |    **Q2700**    |
+
 
 ---
 
@@ -130,3 +124,5 @@ $$
 ## Estado
 
 ### Entrega:: 2024-01-31
+
+
