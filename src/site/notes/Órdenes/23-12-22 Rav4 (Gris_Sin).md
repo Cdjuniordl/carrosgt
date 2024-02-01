@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ordenes/23-12-22-rav4-gris-sin/"}
 ---
 
-![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+![Logo|100](https://lh3.googleusercontent.com/drive-viewer/AEYmBYSpcK6uqBUJHU1Zm8MP7HBK8KT1E9hSR1Ft4JQwDPtpQiFoL4c1ncHqULCwO1olD-1WG5Kk9U-jh7jaZPXfqyxL0-aeRg=s1600)
 
 ## Vehículo
 
@@ -58,7 +58,56 @@
 
 ---
 ## Reparación:
-- 
+$$
+\text{Repuestos}
+\begin{cases}
+\text{Mangueras y abrazaderas para Radiador}\\
+\text{Luces}\\
+\text{Líquido de frenos}\\
+\text{Terminales y conectores}
+\end{cases}
+$$
+*Q350*
+
+$$
+\text{Mecánica}
+\begin{cases}
+\text{Instalación módulo de ABS}\\
+\text{Instalación manguera de freno}\\
+\text{Líquido de frenos}\\
+\text{Terminales y conectores}
+\end{cases}
+$$
+
+- Mecánica 
+	Instalacion módulo ABS 
+	Instalación manguera de freno 
+	Armado flecha delantera derecha 
+	Reaprete de suspención 
+	Instalación de Canister 
+	Instalador cargador de transmisión 
+	Fabricación de base para válvula presión de aceite 
+	Instalación de radiador y ventilador 
+	Cambio de compresor 
+	Cambio de bomba de agua 
+	Cambio de alternador 
+	Instalación deposito auxiliar de refrigerante 
+	Instalación deposito chorritos 
+	Purgado de frenos 
+	*Q750*
+- Eléctrico:
+	Instalacion arnes de Radar y neblineras 
+	Arnes de chorritos 
+	Arnes luz delantera derecha completo 
+	Arnes luz media izquierda 
+	Reparación Arnes de Fusiblera derecha 
+	Arnes de Starter 
+	Fusibles de luces 
+	Arnes de ABS 
+	Reparación arnes de sensor ABS 
+	*Q1400*
+
+
 
 ---
 
@@ -66,8 +115,11 @@
 
 | Nombre    | Cantidad | Precio |
 | --------- |:--------:| ------:|
-|           |          |        |
-| **Total** |          |  **Q** |
+| Repuestos |          |   Q350 |
+| Mecánica  |          |   Q750 |
+| Eléctrico |          |  Q1400 |
+| Grúa      |          |   Q200 |
+| **Total**          |          |    **Q2700**    |
 
 ---
 
@@ -77,4 +129,4 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2024-01-31
