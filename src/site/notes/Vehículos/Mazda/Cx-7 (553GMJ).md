@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/vehiculos/mazda/cx-7-553-gmj/"}
 ---
 
-![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+![Logo|100](https://lh3.googleusercontent.com/drive-viewer/AEYmBYSpcK6uqBUJHU1Zm8MP7HBK8KT1E9hSR1Ft4JQwDPtpQiFoL4c1ncHqULCwO1olD-1WG5Kk9U-jh7jaZPXfqyxL0-aeRg=s1600)
 
 ## Datos del Vehículo 
 ### Foto:: 
@@ -21,7 +21,7 @@
 
 ## Historial:
 
+- [[Órdenes/23-08-14 Cx-7 (553GMJ)\|23-08-14 Cx-7 (553GMJ)]]
 
 { .block-language-dataview} 
-
 
