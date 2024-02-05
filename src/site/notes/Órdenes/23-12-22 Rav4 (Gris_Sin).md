@@ -124,5 +124,3 @@ Total: *Q750*
 ## Estado
 
 ### Entrega:: 2024-01-31
-
-
