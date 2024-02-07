@@ -58,16 +58,23 @@
 
 ---
 ## Reparación:
-- 
+- Cambio de Sensor 2 de Temperatura de Refrigerante
+- Cambio de sensor ABS trasero izquierdo 
+- Cambio de Manguera de Intercooler
+- Aplicación de refrigerante 
 
 ---
 
 ## Presupuesto:
 
-| Nombre    | Cantidad | Precio |
-| --------- |:--------:| ------:|
-|           |          |        |
-| **Total** |          |  **Q** |
+| Nombre               | Cantidad | Precio |
+| -------------------- |:--------:| ------:|
+| Sensor    ABS        |    1     |   Q290 |
+| Sensor Temperatura   |    1     |    Q90 |
+| Manguera Intercooler |    1     |   Q100 |
+| Mensajería           |          |    Q80 |
+| Mano de Obra         |          |   Q350 |
+| **Total**                     |          |  **Q950**      |
 
 ---
 
@@ -77,6 +84,6 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2024-02-06
 
 
