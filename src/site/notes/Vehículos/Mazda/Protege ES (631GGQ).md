@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/vehiculos/mazda/protege-es-631-ggq/","tags":["Mazda"]}
 ---
 
-![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+![Logo|100](https://lh3.googleusercontent.com/drive-viewer/AEYmBYSpcK6uqBUJHU1Zm8MP7HBK8KT1E9hSR1Ft4JQwDPtpQiFoL4c1ncHqULCwO1olD-1WG5Kk9U-jh7jaZPXfqyxL0-aeRg=s1600)
 
 ## Datos del Vehículo 
 ### Foto:: 
-![Vehículo](http://drive.google.com/uc?export=view&id=1hAXXrzZ9XZPP-ddqboNBewvjvCJPfH4r)
+![Vehículo](https://lh3.googleusercontent.com/drive-viewer/AEYmBYQJiVAFTlMKzyLzomv07U4PCvaAzNPVomFlFlugnjyqKBOdtQ0DAJ80igKX2jAXD6dPLI8DGjF1g85JcvOkxXq2q3eX=s1600)
 
 ### Marca:: Mazda 
 ### Modelo:: Protege ES
@@ -28,5 +28,6 @@
 
 - [[Órdenes/23-12-27 Protege ES (631GGQ)\|23-12-27 Protege ES (631GGQ)]]
 - [[Órdenes/24-01-04 Protege (631GGQ)\|24-01-04 Protege (631GGQ)]]
+- [[Órdenes/24-02-08 Protege (631GGQ)\|24-02-08 Protege (631GGQ)]]
 
 { .block-language-dataview} 
