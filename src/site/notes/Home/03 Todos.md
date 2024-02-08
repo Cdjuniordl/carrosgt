@@ -80,6 +80,7 @@
 | [[Vehículos/Mazda/2 (936JYR)\|2 (936JYR)]]                              | Mazda         | 2 Sport                | 2012 |
 | [[Vehículos/Mazda/3i (586GJK)\|3i (586GJK)]]                            | Mazda         | 3i                     | 2006 |
 | [[Vehículos/Mazda/3i (658GRP)\|3i (658GRP)]]                            | Mazda         | 3i                     | 2012 |
+| [[Vehículos/Mazda/3i (715HQW)\|3i (715HQW)]]                            | Mazda         | 3 i                    | 2014 |
 | [[Vehículos/Mazda/3i (797GWN)\|3i (797GWN)]]                            | Mazda         | 3i                     | 2010 |
 | [[Vehículos/Mazda/B2600i (040JZV)\|B2600i (040JZV)]]                    | Mazda         | B2600i 4x4             | 1993 |
 | [[Vehículos/Mazda/Cx-5 (785KGT)\|Cx-5 (785KGT)]]                        | Mazda         | Cx-5 Grand Touring     | 2018 |
@@ -98,8 +99,8 @@
 | [[Vehículos/Mitsubishi/Nativa (409BLF)\|Nativa (409BLF)]]               | Mitsubishi    | Nativa GLS             | 2005 |
 | [[Vehículos/Nissan/Frontier (805FFT)\|Frontier (805FFT)]]               | Nissan        | Frontier XE            | 2001 |
 | [[Vehículos/Nissan/Frontier (836JHT)\|Frontier (836JHT)]]               | Nissan        | Frontier Se King       | 2008 |
+| [[Vehículos/Nissan/Frontier SE (086FNT)\|Frontier SE (086FNT)]]         | Nissan        | Frontier SE            | 2000 |
 | [[Vehículos/Nissan/Frontier XE (925JRZ)\|Frontier XE (925JRZ)]]         | Nissan        | Frontier XE            | 2000 |
-| [[Vehículos/Nissan/Marca\|Marca]]                                       | Nissan        | Frontier SE            | 2000 |
 | [[Vehículos/Nissan/Pathfinder (767DGB)\|Pathfinder (767DGB)]]           | Nissan        | Pathfinder R51         | 2006 |
 | [[Vehículos/Nissan/Rogue Se (568JYV)\|Rogue Se (568JYV)]]               | Nissan        | Rogue Se AWD           | 2013 |
 | [[Vehículos/Nissan/Sentra (965JXT)\|Sentra (965JXT)]]                   | Nissan        | Sentra Sv              | 2014 |
