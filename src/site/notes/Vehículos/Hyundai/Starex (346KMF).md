@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/vehiculos/hyundai/starex-346-kmf/"}
 ---
 
-![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+![Logo|100](https://lh3.googleusercontent.com/drive-viewer/AEYmBYSpcK6uqBUJHU1Zm8MP7HBK8KT1E9hSR1Ft4JQwDPtpQiFoL4c1ncHqULCwO1olD-1WG5Kk9U-jh7jaZPXfqyxL0-aeRg=s1600)
 
 ## Datos del Vehículo 
 ### Foto:: 
-![Vehículo](http://drive.google.com/uc?export=view&id=1qnbeqQJmYt7OCgyPeNzYlQkWr_2C-Dbz)
+![Vehículo](https://lh3.googleusercontent.com/drive-viewer/AEYmBYSXl-YnoRswo7n6DeTTLsvxOXmHHApZkAYwXwP2g1IjfBd2oPUrFyXib-8oJz2rRaz7-AnhT8-InReQXpXWUY6Ok0rSqA=s1600)
 
 ### Marca:: Hyundai
 ### Modelo:: Grand Starex CVX
@@ -26,5 +26,6 @@
 
 ## Historial
 
+- [[Órdenes/23-10-12 Starex (346KMF)\|23-10-12 Starex (346KMF)]]
 
 { .block-language-dataview} 
