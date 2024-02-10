@@ -42,6 +42,9 @@
 
 ## Falla presentada:
 - Ruido en motor 
+- Servicio de aceite de Transmisión
+- Cambio de refrigerante 
+- Ajuste de luz trasera derecha 
 
 
 ---
@@ -53,10 +56,17 @@
 - Ruido de la faja de tiempo en tapadera frontal 
 - Cambio empaque Tapa válvulas 
 - Kit de tiempo
+- Tapas frontales dañadas 
+- Servicio de caja 
+- Tornillos de luz trasera 
+- Refrigerante 
 
 ---
 ## Reparación:
-- 
+- Cambio de Kit de Tiempo 
+- Tapas se consiguieron solo nuevas en *Q700* cliente decidió poner las mismas 
+- Servicio de Transmisión
+- Cambio de Refrigerante 
 
 ---
 
