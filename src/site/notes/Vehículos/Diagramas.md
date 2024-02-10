@@ -13,6 +13,7 @@
 | [[Diagramas Compartidos/Chevrolet Spark 2016\|Chevrolet Spark 2016]]         | Chevrolet  | Spark                | 2016 |
 | [[Diagramas Compartidos/Dodge Neón 2005\|Dodge Neón 2005]]                   | Dodge      | Neón                 | 2005 |
 | [[Diagramas Compartidos/Honda Odyssey 08\|Honda Odyssey 08]]                 | Honda      | Odyssey              | 2008 |
+| [[Diagramas Compartidos/Sienna 2006\|Sienna 2006]]                           | Toyota     | Sienna               | 2006 |
 | [[Diagramas Compartidos/Suzuki Grand Vitara 2000\|Suzuki Grand Vitara 2000]] | Suzuki     | Grand Vitara Limited | 2000 |
 | [[Diagramas Compartidos/Toyota Corolla 2004\|Toyota Corolla 2004]]           | Toyota     | Corolla              | 2004 |
 | [[Diagramas Compartidos/Vw Gol 2010\|Vw Gol 2010]]                           | Volkswagen | Gol                  | 2010 |
