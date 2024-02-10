@@ -70,8 +70,8 @@
 
 | Nombre    | Cantidad | Precio |
 | --------- |:--------:| ------:|
-|           |          |        |
-| **Total** |          |  **Q** |
+|           Diagnóstico y Repuestos |          |    Q350    |
+| **Total** |          |  **Q350** |
 
 ---
 
@@ -81,6 +81,6 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2024-02-09
 
 
