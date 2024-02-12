@@ -72,10 +72,16 @@
 
 ## Presupuesto:
 
-| Nombre    | Cantidad | Precio |
-| --------- |:--------:| ------:|
-|           |          |        |
-| **Total** |          |  **Q** |
+| Nombre                        | Cantidad | Precio |
+| ----------------------------- |:--------:| ------:|
+| kit de       tiempo           |          |   Q700 |
+| Empaque     tapa     valvulas |    1     |   Q100 |
+| Retenedores                   |    2     |   Q100 |
+| Refrigerante                  |    1     |   Q100 |
+| Aceite Transmisión            |    1     |   Q300 |
+| Filtro aceite                 |    1     |   Q150 |
+| Mano de Obra                  |          |      Q550 |
+| **Total**                              |          |     **Q2,000**   |
 
 ---
 
@@ -85,6 +91,6 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2024-02-10
 
 
