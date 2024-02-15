@@ -72,18 +72,7 @@
 
 ## Presupuesto:
 
-| Nombre                        | Cantidad | Precio |
-| ----------------------------- |:--------:| ------:|
-| kit de       tiempo           |          |   Q700 |
-| Empaque     tapa     valvulas |    1     |   Q100 |
-| Retenedores                   |    2     |   Q100 |
-| Refrigerante                  |    1     |   Q100 |
-| Aceite Transmisión            |    1     |   Q300 |
-| Filtro aceite                 |    1     |   Q150 |
-| Mano de Obra                  |          |      Q550 |
-| **Total**                              |          |     **Q2,000**   |
-
-![Presupuesto](https://lh3.googleusercontent.com/drive-viewer/AEYmBYTl1E7g_RoNJ35u_975jLtv8Fcf7K__HrA1dkfZt2TTLeqqHQceqK6QF2-3HJ_nbdqJhmOfJWD_xUPB9INwyd1bBuynnA=s1600)
+<img src="https://lh3.googleusercontent.com/d/11tVwAMgFECMzgWX5G9yzc3q8x3SyjXAx">
 
 ---
 
