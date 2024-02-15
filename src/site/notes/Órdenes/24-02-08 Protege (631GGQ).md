@@ -83,6 +83,8 @@
 | Mano de Obra                  |          |      Q550 |
 | **Total**                              |          |     **Q2,000**   |
 
+![Presupuesto](https://lh3.googleusercontent.com/drive-viewer/AEYmBYTl1E7g_RoNJ35u_975jLtv8Fcf7K__HrA1dkfZt2TTLeqqHQceqK6QF2-3HJ_nbdqJhmOfJWD_xUPB9INwyd1bBuynnA=s1600)
+
 ---
 
 ###### TAG:: #Mazda , #Protege 
