@@ -21,6 +21,7 @@
 | [[Vehículos/Chevrolet/S10 (412BCL)\|S10 (412BCL)]]                      | Chevrolet     | S10                    | 1999 |
 | [[Vehículos/Chevrolet/Spark (002JZC)\|Spark (002JZC)]]                  | Chevrolet     | Spark Ls               | 2015 |
 | [[Vehículos/Chevrolet/Spark (795DGY)\|Spark (795DGY)]]                  | Chevrolet     | Spark                  | 2007 |
+| [[Vehículos/Chevrolet/Spark (990FKV)\|Spark (990FKV)]]                  | Chevrolet     | Spark                  | 2012 |
 | [[Vehículos/Chevrolet/Spark Ls (057FWX)\|Spark Ls (057FWX)]]            | Chevrolet     | Spark Ls               | 2014 |
 | [[Vehículos/Chevrolet/Spark LS (504KQH)\|Spark LS (504KQH)]]            | Chevrolet     | Spark LS               | 2013 |
 | [[Vehículos/Chevrolet/Spark LT (752KHK)\|Spark LT (752KHK)]]            | Chevrolet     | Spark LT               | 2014 |
