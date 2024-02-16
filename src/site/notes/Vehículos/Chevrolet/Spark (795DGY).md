@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/vehiculos/chevrolet/spark-795-dgy/","tags":["Chevrolet"]}
 ---
 
-![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+![Logo|100](https://lh3.googleusercontent.com/drive-viewer/AEYmBYSpcK6uqBUJHU1Zm8MP7HBK8KT1E9hSR1Ft4JQwDPtpQiFoL4c1ncHqULCwO1olD-1WG5Kk9U-jh7jaZPXfqyxL0-aeRg=s1600)
 
 ## Datos del Vehículo 
 ### Foto:: 
-![Vehículo](http://drive.google.com/uc?export=view&id=1U1GLVakFKQGtVklHGkiHkKA1Zpcy5y0y)
+![Vehículo](https://lh3.googleusercontent.com/d/1U1GLVakFKQGtVklHGkiHkKA1Zpcy5y0y)
 
 ### Marca:: Chevrolet 
 ### Modelo:: Spark 
