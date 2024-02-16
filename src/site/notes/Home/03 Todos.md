@@ -115,6 +115,7 @@
 | [[Vehículos/Toyota/Prius (121JHQ)\|Prius (121JHQ)]]                     | Toyota        | Prius                  | 2008 |
 | [[Vehículos/Toyota/Rav4 (404JPN)\|Rav4 (404JPN)]]                       | Toyota        | Rav4                   | 2001 |
 | [[Vehículos/Toyota/Rav4 (671HZR)\|Rav4 (671HZR)]]                       | Toyota        | Rav4                   | 2001 |
+| [[Vehículos/Toyota/Rav4 (676BZT)\|Rav4 (676BZT)]]                       | Toyota        | Rav4                   | 2011 |
 | [[Vehículos/Toyota/Rav4 (694KHV)\|Rav4 (694KHV)]]                       | Toyota        | Rav4                   | 2010 |
 | [[Vehículos/Toyota/Rav4 (887KQS)\|Rav4 (887KQS)]]                       | Toyota        | Rav4 Límited           | 2019 |
 | [[Vehículos/Toyota/Rav4 (blanca)\|Rav4 (blanca)]]                       | Toyota        | Rav4 XLE               | 2023 |
