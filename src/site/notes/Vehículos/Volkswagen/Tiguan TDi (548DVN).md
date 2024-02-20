@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/vehiculos/volkswagen/tiguan-t-di-548-dvn/"}
 ---
 
-![Logo|100](https://lh3.googleusercontent.com/d/137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+<img src="https://lh3.googleusercontent.com/d/137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G" width="150">
 
 ## Datos del Vehículo 
 ### Foto:: 
