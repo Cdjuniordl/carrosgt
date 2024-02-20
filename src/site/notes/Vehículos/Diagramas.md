@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/vehiculos/diagramas/"}
 ---
 
-
+<img src="https://lh3.googleusercontent.com/d/137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G" class="logo">
 
 # Carros Gt
 
