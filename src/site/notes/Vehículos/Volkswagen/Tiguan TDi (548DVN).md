@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/vehiculos/volkswagen/tiguan-t-di-548-dvn/"}
 ---
 
-![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+![Logo|100](https://lh3.googleusercontent.com/d/137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
 
 ## Datos del Vehículo 
 ### Foto:: 
-![Vehículo](http://drive.google.com/uc?export=view&id=1UmilOOZSMjZpKHwQ1O-N2PJ6teAvIT02)
+<img src="https://lh3.googleusercontent.com/d/1UmilOOZSMjZpKHwQ1O-N2PJ6teAvIT02">
 
 ### Marca:: Volkswagen 
 ### Modelo:: Tiguan TDi
