@@ -18,7 +18,7 @@
 ## Diagrama
 ### Diagrama de Motor 
 
-<iframe src="https://lh3.googleusercontent.com/d/1AS1GtbHKYiUCjrT1hWRTI4zT7tH2mvBE" style="width: 320px; height: 400px;">
+<iframe src="https://lh3.googleusercontent.com/d/1AS1GtbHKYiUCjrT1hWRTI4zT7tH2mvBE" style="width: 300px; height: 800px;">
 
 
 <a href="https://drive.google.com/file/d/1AS1GtbHKYiUCjrT1hWRTI4zT7tH2mvBE/view?usp=drivesdk"><button class="btn success">DESCARGA</button></a>
