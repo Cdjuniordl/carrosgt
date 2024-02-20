@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/diagramas-compartidos/toyota-corolla-2004/"}
 ---
 
-![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+<img src="https://lh3.googleusercontent.com/d/137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G" class="logo">
 
 <a href="https://carrosgt.vercel.app/vehiculos/diagramas/"><button class="btn success">MAS DIAGRAMAS</button></a>
 
