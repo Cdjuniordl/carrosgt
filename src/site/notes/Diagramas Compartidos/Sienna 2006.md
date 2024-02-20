@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/diagramas-compartidos/sienna-2006/"}
 ---
 
-![Logo|100](https://lh3.googleusercontent.com/drive-viewer/AEYmBYSpcK6uqBUJHU1Zm8MP7HBK8KT1E9hSR1Ft4JQwDPtpQiFoL4c1ncHqULCwO1olD-1WG5Kk9U-jh7jaZPXfqyxL0-aeRg=s1600)
+<img src="https://lh3.googleusercontent.com/d/137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G" class="logo">
 
 <a href="https://carrosgt.vercel.app/vehiculos/diagramas/"><button class="btn success">MAS DIAGRAMAS</button></a>
 
