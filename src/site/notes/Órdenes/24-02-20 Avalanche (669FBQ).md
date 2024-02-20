@@ -47,10 +47,12 @@
 ---
 
 ## Diagnóstico:
-### DTC:: 
+### DTC:: P0141, P0706, C0265
 
-- <a href="http"><button class="btn success">CÓDIGOS</button></a>
-- 
+- <a href="https://usait.x431.com/Home/Report/reportDetail/diagnose_record_id/dc196b00geKw3btZ542YKw542Y/report_type/D/l/es/timezone/-6"><button class="btn success">CÓDIGOS</button></a>
+- Código de calefactor, sensor de oxigeno Banco1, sensor 2
+- Mal funcionamiento del selector de velocidades 
+- Mal funcionamiento relé de ABS 
 
 ---
 ## Reparación:
