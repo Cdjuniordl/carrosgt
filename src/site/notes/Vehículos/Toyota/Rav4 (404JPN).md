@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/vehiculos/toyota/rav4-404-jpn/"}
 ---
 
-<img src="https://lh3.googleusercontent.com/d/137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G" class="logo">
+<img src="https://lh3.googleusercontent.com/d/137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G" width="150">
 
 ## Datos del Vehículo 
 ### Foto:: 
-![Vehículo](http://drive.google.com/uc?export=view&id=1x9o-Yn_VjwQykPiXbUOM3wx2acfB0XvE)
+<img src="https://lh3.googleusercontent.com/d/1x9o-Yn_VjwQykPiXbUOM3wx2acfB0XvE">
 
 ### Marca:: Toyota 
 ### Modelo:: Rav4
