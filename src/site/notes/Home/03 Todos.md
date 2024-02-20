@@ -40,6 +40,7 @@
 | [[Vehículos/Ford/Mustang (334JMV)\|Mustang (334JMV)]]                   | Ford          | Mustang V6 convertible | 2014 |
 | [[Vehículos/Ford/Ranger (037CRQ)\|Ranger (037CRQ)]]                     | Ford          | Ranger XLT             | 1995 |
 | [[Vehículos/GMC/Envoy (214JQC)\|Envoy (214JQC)]]                        | GMC           | Envoy                  | 2008 |
+| [[Vehículos/GMC/Sierra (345CGX)\|Sierra (345CGX)]]                      | GMC           | Sierra                 | 1996 |
 | [[Vehículos/Honda/Civic (186GNZ)\|Civic (186GNZ)]]                      | Honda         | Civic EX               | 2012 |
 | [[Vehículos/Honda/Civic (428KJL)\|Civic (428KJL)]]                      | Honda         | Civic Lx               | 2011 |
 | [[Vehículos/Honda/Civic (907BYS)\|Civic (907BYS)]]                      | Honda         | Civic Lx               | 1996 |
