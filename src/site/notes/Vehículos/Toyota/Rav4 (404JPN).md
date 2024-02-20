@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/vehiculos/toyota/rav4-404-jpn/"}
 ---
 
-![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+<img src="https://lh3.googleusercontent.com/d/137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G" class="logo">
 
 ## Datos del Vehículo 
 ### Foto:: 
@@ -27,5 +27,6 @@
 ## Historial
 
 - [[Órdenes/23-10-24 Rav4 (404JPN)\|23-10-24 Rav4 (404JPN)]]
+- [[Órdenes/24-01-27 Rav4 (404JPN)\|24-01-27 Rav4 (404JPN)]]
 
 { .block-language-dataview} 
