@@ -16,6 +16,7 @@
 | [[Vehículos/BMW/330 Ci (476DVC)\|330 Ci (476DVC)]]                      | BMW           | Serie 3 330Ci          | 2001 |
 | [[Vehículos/BMW/BMW 328i (882GTX)\|BMW 328i (882GTX)]]                  | BMW           | 328i                   | 2011 |
 | [[Vehículos/BMW/X3 (624GBK)\|X3 (624GBK)]]                              | BMW           | X3 3.0i 4x4            | 2004 |
+| [[Vehículos/Chevrolet/Avalanche (669FBQ)\|Avalanche (669FBQ)]]          | Chevrolet     | Avalanche 4x2 Z66      | 2003 |
 | [[Vehículos/Chevrolet/Colorado Lt\|Colorado Lt]]                        | Chevrolet     | Colorado LT            | 2007 |
 | [[Vehículos/Chevrolet/Metro (105DBG)\|Metro (105DBG)]]                  | Chevrolet     | Metro                  | 1999 |
 | [[Vehículos/Chevrolet/S10 (412BCL)\|S10 (412BCL)]]                      | Chevrolet     | S10                    | 1999 |
