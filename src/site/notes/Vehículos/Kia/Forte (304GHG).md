@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/vehiculos/kia/forte-304-ghg/"}
 ---
 
-![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+<img src="https://lh3.googleusercontent.com/d/137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G" width="150">
 
 ## Datos del Vehículo 
 ### Foto:: 
-![Vehículo](http://drive.google.com/uc?export=view&id=1ScpPPNoGOyDQ5oHoJH1CqrO_V7awxO4c)
+<img src="https://lh3.googleusercontent.com/d/1ScpPPNoGOyDQ5oHoJH1CqrO_V7awxO4c">
 
 ### Marca:: Kia 
 ### Modelo:: Forte Koup Ex
@@ -28,5 +28,6 @@
 
 - [[Órdenes/23-10-09 Forte (304GHG)\|23-10-09 Forte (304GHG)]]
 - [[Órdenes/23-12-06 Forte (304GHG)\|23-12-06 Forte (304GHG)]]
+- [[Órdenes/24-02-19 Forte (304GHG)\|24-02-19 Forte (304GHG)]]
 
 { .block-language-dataview} 
