@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ordenes/23-08-19-sportage-538-ffr/"}
 ---
 
-![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+<img src="https://lh3.googleusercontent.com/d/137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G" class="logo">
 
 ## Vehículo
 
@@ -11,7 +11,7 @@
 
 
 
-![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+<img src="https://lh3.googleusercontent.com/d/137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G" class="logo">
 
 ## Vehículo
 
@@ -20,7 +20,7 @@
 
 
 
-![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+<img src="https://lh3.googleusercontent.com/d/137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G" class="logo">
 
 ## Vehículo
 
@@ -29,7 +29,7 @@
 
 
 
-![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+<img src="https://lh3.googleusercontent.com/d/137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G" class="logo">
 
 ## Vehículo
 
@@ -38,7 +38,7 @@
 
 
 
-![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+<img src="https://lh3.googleusercontent.com/d/137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G" class="logo">
 
 ## Vehículo
 ![[Órdenes/23-08-19 Sportage (538FFR)#Datos del Vehículo\|#Datos del Vehículo]]
