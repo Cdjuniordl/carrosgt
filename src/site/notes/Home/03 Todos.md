@@ -124,6 +124,7 @@
 | [[Vehículos/Toyota/Rav4 (blanca)\|Rav4 (blanca)]]                       | Toyota        | Rav4 XLE               | 2023 |
 | [[Vehículos/Toyota/Rav4 (Gris_Sin)\|Rav4 (Gris_Sin)]]                   | Toyota        | Rav4                   | 2022 |
 | [[Vehículos/Toyota/Rav4 (sin)\|Rav4 (sin)]]                             | Toyota        | Rav4 XLE               | 2022 |
+| [[Vehículos/Toyota/Tacoma (166JCS)\|Tacoma (166JCS)]]                   | Toyota        | Tacoma 4x2 SR5         | 1998 |
 | [[Vehículos/Toyota/Yaris (470GQF)\|Yaris (470GQF)]]                     | Toyota        | Yaris Le               | 2013 |
 | [[Vehículos/Toyota/Yaris (653KGQ)\|Yaris (653KGQ)]]                     | Toyota        | Yaris                  | 2012 |
 | [[Vehículos/Toyota/Yaris L (424KLP)\|Yaris L (424KLP)]]                 | Toyota        | Yaris L                | 2019 |
