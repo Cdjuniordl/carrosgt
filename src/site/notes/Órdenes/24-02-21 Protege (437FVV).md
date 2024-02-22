@@ -63,7 +63,7 @@
 
 ## Presupuesto:
 
-<img src="https://lh3.googleusercontent.com/d/161W1WfISLDZ3PBaO3HQCcgFN2p4Zg47H" Alt="Presupuesto">
+<img src="https://lh3.googleusercontent.com/d/167oRHs6DQ1ZAI6jbA_pCJBy5gbvuBtGz" Alt="Presupuesto">
 
 ---
 
