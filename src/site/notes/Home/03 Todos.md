@@ -85,6 +85,7 @@
 | [[Vehículos/Mazda/3i (658GRP)\|3i (658GRP)]]                            | Mazda         | 3i                     | 2012 |
 | [[Vehículos/Mazda/3i (715HQW)\|3i (715HQW)]]                            | Mazda         | 3 i                    | 2014 |
 | [[Vehículos/Mazda/3i (797GWN)\|3i (797GWN)]]                            | Mazda         | 3i                     | 2010 |
+| [[Vehículos/Mazda/5 (696JYQ)\|5 (696JYQ)]]                              | Mazda         | 5 Sport                | 2012 |
 | [[Vehículos/Mazda/B2300 (764DCJ)\|B2300 (764DCJ)]]                      | Mazda         | B2300                  | 1997 |
 | [[Vehículos/Mazda/B2600i (040JZV)\|B2600i (040JZV)]]                    | Mazda         | B2600i 4x4             | 1993 |
 | [[Vehículos/Mazda/Cx-5 (785KGT)\|Cx-5 (785KGT)]]                        | Mazda         | Cx-5 Grand Touring     | 2018 |
