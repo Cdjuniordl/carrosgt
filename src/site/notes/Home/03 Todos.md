@@ -63,6 +63,7 @@
 | [[Vehículos/Honda/Fit Lx (934JYV)\|Fit Lx (934JYV)]]                    | Honda         | Fit Lx                 | 2017 |
 | [[Vehículos/Honda/Fit Sport (920HRK)\|Fit Sport (920HRK)]]              | Honda         | Fit Sport              | 2008 |
 | [[Vehículos/Honda/Odyssey (546BGD)\|Odyssey (546BGD)]]                  | Honda         | Odyssey EX             | 2004 |
+| [[Vehículos/Hyundai/Elantra Gls (494BTR)\|Elantra Gls (494BTR)]]        | Hyundai       | Elantra Gls            | 2000 |
 | [[Vehículos/Hyundai/Santa Fe (791DZL)\|Santa Fe (791DZL)]]              | Hyundai       | Santa Fe GLS           | 2003 |
 | [[Vehículos/Hyundai/Santa Fe (886GHG)\|Santa Fe (886GHG)]]              | Hyundai       | Santa Fe Sport         | 2013 |
 | [[Vehículos/Hyundai/Starex (346KMF)\|Starex (346KMF)]]                  | Hyundai       | Grand Starex CVX       | 2010 |
