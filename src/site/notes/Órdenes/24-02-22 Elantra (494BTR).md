@@ -52,6 +52,16 @@
 
 - <a href="https://usait.x431.com/Home/Report/reportDetail/diagnose_record_id/ca5a704fgeKw3bOMoGoGKwTdoG/report_type/D/l/es/timezone/-6"><button class="btn success">CÓDIGOS</button></a>
 - Circuito abierto en inyectores 2 y 3
+- Inyector 3 mantiene su pulso normal 
+- Bovina de inyector 3 *16$\ohm$*
+- **Gráfica de Inyectores 2 y 3**
+	<img src="https://lh3.googleusercontent.com/d/16qWkSHNNqVtxPUiMulvXAgHkBJLfYlrR" width="250">
+	<img src="https://lh3.googleusercontent.com/d/16ymNe8YzhNKkuMrAQQ5radeG4A4--VIC" width="250">
+	<img src="https://lh3.googleusercontent.com/d/16wC4fTaBShQHJwOWpDfVfOVvntGvFguf" width="250">
+
+>[!info]- Conexiones
+>**Canal1** (amarillo): Gráfica inyector 2
+>**Canal2** (azul): Gráfica inyector 3
 
 ---
 ## Reparación:
