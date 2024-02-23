@@ -44,7 +44,7 @@
 ![[Órdenes/23-08-19 Sportage (538FFR)#Datos del Vehículo\|#Datos del Vehículo]]
 
 ## Recepción:
-### Fecha:: 2023-08-19ñ
+### Fecha:: 2023-08-19
 #### Fotos de Recepción: 
 
 ###### Kilometraje: 
@@ -99,7 +99,7 @@
 
 
 ## Recepción:
-### Fecha:: 2023-08-19ñ
+### Fecha:: 2023-08-19
 #### Fotos de Recepción: 
 
 ###### Kilometraje: 
@@ -154,7 +154,7 @@
 
 
 ## Recepción:
-### Fecha:: 2023-08-19ñ
+### Fecha:: 2023-08-19
 #### Fotos de Recepción: 
 
 ###### Kilometraje: 
@@ -209,7 +209,7 @@
 
 
 ## Recepción:
-### Fecha:: 2023-08-19ñ
+### Fecha:: 2023-08-19
 #### Fotos de Recepción: 
 
 ###### Kilometraje: 
@@ -264,7 +264,7 @@
 
 
 ## Recepción:
-### Fecha:: 2023-08-19ñ
+### Fecha:: 2023-08-19
 #### Fotos de Recepción: 
 
 ###### Kilometraje: 
