@@ -65,13 +65,14 @@
 
 ---
 ## Reparación:
-- 
+- Se reviso arnes de inyectores y señal de computadora 
+- La falla se corrigió pero podría volver a presentarse el problema, en ese caso sería un daño interno de la Computadora y deberá reemplazar 
 
 ---
 
 ## Presupuesto:
 
-<img src="https://lh3.googleusercontent.com/d/" Alt="Presupuesto">
+<img src="https://lh3.googleusercontent.com/d/17AiQaK1ug8j9kfXbO4J8wAmzuejkUb2n" Alt="Presupuesto">
 
 ---
 
@@ -81,6 +82,6 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2024-02-22
 
 
