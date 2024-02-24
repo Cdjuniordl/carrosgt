@@ -58,12 +58,15 @@
 ---
 ## Reparación:
 - Cambio de Bomba de Gasolina 
+- Reparación Vacíos de MAP
+- **Bomba de Gas Nueva 40psi**
+	<iframe src="https://drive.google.com/file/d/17hTw20473Dh4TgT2PL1coQll71_3tsm-/preview" allow="autoplay"></iframe>
 
 ---
 
 ## Presupuesto:
 
-<img src="https://lh3.googleusercontent.com/d/167oRHs6DQ1ZAI6jbA_pCJBy5gbvuBtGz" Alt="Presupuesto">
+<img src="https://lh3.googleusercontent.com/d/17_sACagSvj-jlsgFOwdTaL0cHeU8qq2l" Alt="Presupuesto">
 
 ---
 
