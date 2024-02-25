@@ -5,7 +5,7 @@
 
 # Carros Gt Garage
 
-![Logo](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+<img src="https://lh3.googleusercontent.com/d/137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G" width="250">
 
 ### Taller automotriz 
 
@@ -33,6 +33,5 @@
 ![Foto7|100](http://drive.google.com/uc?export=view&id=13hvQ0S8KliS-wBPlUQ5hIErd7RG2BhZ-) ![Foto8|100](http://drive.google.com/uc?export=view&id=13ZLVLjtkR40RNm07dh3KBB1dGPFcBCJO)
 
 
-![Logo](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
-
+<img src="https://lh3.googleusercontent.com/d/137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G" width="150">
 
