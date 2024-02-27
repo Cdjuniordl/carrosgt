@@ -15,6 +15,7 @@
 | [[Vehículos/BMW/318i (137DZD)\|318i (137DZD)]]                          | BMW           | 318i                   | 1991 | 137DZD   |
 | [[Vehículos/BMW/328i (636HNT)\|328i (636HNT)]]                          | BMW           | 328i                   | 2008 | 636HNT   |
 | [[Vehículos/BMW/330 Ci (476DVC)\|330 Ci (476DVC)]]                      | BMW           | Serie 3 330Ci          | 2001 | 476DVC   |
+| [[Vehículos/BMW/330i (225CNX)\|330i (225CNX)]]                          | BMW           | 330i                   | 2002 | 225CNX   |
 | [[Vehículos/BMW/BMW 328i (882GTX)\|BMW 328i (882GTX)]]                  | BMW           | 328i                   | 2011 | 882GTX   |
 | [[Vehículos/BMW/X3 (624GBK)\|X3 (624GBK)]]                              | BMW           | X3 3.0i 4x4            | 2004 | 624GBK   |
 | [[Vehículos/Chevrolet/Avalanche (669FBQ)\|Avalanche (669FBQ)]]          | Chevrolet     | Avalanche 4x2 Z66      | 2003 | 669FBQ   |
@@ -107,6 +108,7 @@
 | [[Vehículos/Mitsubishi/Montero (\|Montero (]]                           | \-            | \-                     | \-   | \-       |
 | [[Vehículos/Mitsubishi/Montero (928DTV)\|Montero (928DTV)]]             | Mitsubishi    | Montero Sport          | 1999 | 928DTV   |
 | [[Vehículos/Mitsubishi/Nativa (409BLF)\|Nativa (409BLF)]]               | Mitsubishi    | Nativa GLS             | 2005 | 409BLF   |
+| [[Vehículos/Nissan/Frontier (682KKW)\|Frontier (682KKW)]]               | Nissan        | Frontier SV 4x4        | 2014 | 682KKW   |
 | [[Vehículos/Nissan/Frontier (805FFT)\|Frontier (805FFT)]]               | Nissan        | Frontier XE            | 2001 | 805FFT   |
 | [[Vehículos/Nissan/Frontier (836JHT)\|Frontier (836JHT)]]               | Nissan        | Frontier Se King       | 2008 | 836JHT   |
 | [[Vehículos/Nissan/Frontier SE (086FNT)\|Frontier SE (086FNT)]]         | Nissan        | Frontier SE            | 2000 | 086FNT   |
