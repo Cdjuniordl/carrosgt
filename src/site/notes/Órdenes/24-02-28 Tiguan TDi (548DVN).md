@@ -41,20 +41,23 @@
 ---
 
 ## Falla presentada:
-- 
+- Se cambió la válvula de posición de turbo pero no carga el turbo y arroja el código **P0299**
 
 
 ---
 
 ## Diagnóstico:
-### DTC:: 
+### DTC:: P0299
 
 - <a href="http"><button class="btn success">CÓDIGOS</button></a>
-- 
+- Se hizo prueba de fugas en el sistema de intercooler pero no se encontró ninguna 
+- Se realizó prueba de manejo y se verifico los valores de funcionamiento de la válvula de vacío y del sensor de posición, encontrando que el sensor no llegaba a moverse por falta de vacío 
+- Se encontró una manguera de vacío obstruida, provocando que el sensor de posición no se moviera 
 
 ---
 ## Reparación:
-- 
+- Se reparó la manguera de vacío y se calibro el sensor de posición y se realizó prueba de manejo 
+- Se solucionó el problema 
 
 ---
 
@@ -64,7 +67,7 @@
 
 ---
 
-###### TAG:: 
+###### TAG:: #Vw , #Tiguan , #Perdida_Potencia 
 
 ---
 
