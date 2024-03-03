@@ -31,12 +31,12 @@
 ## Recepción:
 ### Fecha:: 2024-02-28
 #### Fotos de Recepción: 
-<img src="https://lh3.googleusercontent.com/d/" width="250" Alt="Tablero">
+<img src="https://lh3.googleusercontent.com/d/1Auc0wFDT8H1nR1gZ0FlaREs_RPFKeA64" width="250" Alt="Tablero">
 
-###### Odómetro: 
-###### Nivel de Gasolina: 
-###### Luces en tablero: 
-###### Llaves o documentos: 
+###### Odómetro: 250 334Km
+###### Nivel de Gasolina: 3/4
+###### Luces en tablero: Check y parpadea precalentador 
+###### Llaves o documentos: Llave
 
 ---
 
@@ -49,21 +49,24 @@
 ## Diagnóstico:
 ### DTC:: P0299
 
-- <a href="http"><button class="btn success">CÓDIGOS</button></a>
+- <a href="https://usait.x431.com/Home/Report/reportDetail/diagnose_record_id/343631f6geKw8cKwoGAEtZ54OM/report_type/D/l/es/timezone/-6"><button class="btn success">CÓDIGOS</button></a>
 - Se hizo prueba de fugas en el sistema de intercooler pero no se encontró ninguna 
 - Se realizó prueba de manejo y se verifico los valores de funcionamiento de la válvula de vacío y del sensor de posición, encontrando que el sensor no llegaba a moverse por falta de vacío 
 - Se encontró una manguera de vacío obstruida, provocando que el sensor de posición no se moviera 
+	<img src="https://lh3.googleusercontent.com/d/1AtgCqtaFIslzg9uyiefsl_sewxQl3fyz" width="275">
 
 ---
 ## Reparación:
 - Se reparó la manguera de vacío y se calibro el sensor de posición y se realizó prueba de manejo 
 - Se solucionó el problema 
+- **Gráficas de Sensor y de posición y Pulso de válvula de control**
+	<iframe src="https://drive.google.com/file/d/1ApP6QsZ6yGd3vAyRyBKfF_lA9dhseN1o/preview" allow="autoplay"></iframe>
 
 ---
 
 ## Presupuesto:
 
-<img src="https://lh3.googleusercontent.com/d/" Alt="Presupuesto">
+<img src="https://lh3.googleusercontent.com/d/1AvvPAUYzvSROi1bmRGCalRnM951mio2i" Alt="Presupuesto">
 
 ---
 
@@ -73,6 +76,6 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2024-02-29
 
 
