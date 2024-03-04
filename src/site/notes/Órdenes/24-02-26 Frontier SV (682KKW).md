@@ -50,7 +50,25 @@
 ### DTC:: U1000
 
 - <a href="https://usait.x431.com/Home/Report/reportDetail/diagnose_record_id/92f8735fgeKw8c8cDhAETdLrDh/report_type/D/l/es/timezone/-6"><button class="btn success">CÓDIGOS</button></a>
-- Pérdida de comunicación con ECM
+- Pérdida de comunicación con ECM y otro módulos 
+- Solo se puede acceder a la ECM a través de *K-Line*
+
+- Se procede a diagnosticar la **Red CAN**
+
+#### Teoría de diagnóstico de la Red CAN
+El sistema de red CAN funciona a través de 2 señales: *CAN-H* y *CAN-L* las cuales se encargan de hacer la comunicación entre los distintos módulos interconectados en el vehículo.
+
+Existen varios factores a tener en cuenta:
+
+1. Se debe identificar en el diagrama las posiciones de conexión de la red CAN para poder realizar las diferentes pruebas 
+>[!info]- Conector DLC
+> 
+><img src="https://lh3.googleusercontent.com/d/1B9r39IanOPbLXT2NPnLvtrcJdnrT4cUA" width="240">
+2. Resistencia interna de los módulos de conexión: Aproximadamente*60$\ohm$* con todos los módulos conectados y en buen estado.
+>[!info]- Resistencia de Red CAN
+>
+><img src="https://lh3.googleusercontent.com/d/1B9eLo7jdkJ9V7kn8nP6v7ICy8UcuWNRP" width="230" >
+
 
 ---
 ## Reparación:
