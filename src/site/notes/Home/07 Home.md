@@ -55,10 +55,9 @@ color green
 
 ```button
 name NUEVO VEHÍCULO
-type note(Modelo) template
+type note(Datos) template
 action tpl.Datos
-color purple
-```{ #button-o39b}
+```{ #button-hpr7}
 
 
 ```button
