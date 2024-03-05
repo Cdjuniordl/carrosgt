@@ -53,18 +53,24 @@
 ### DTC:: 
 
 - <a href="https://usait.x431.com/Home/Report/reportDetail/diagnose_record_id/41ce14b0geKw8ctZKw2Y54oGoG/report_type/D/l/es/timezone/-6"><button class="btn success">CÓDIGOS</button></a>
-- 
+- Consumo de carga a través del compresor de aire acondicionado 
+- Compresor de AC se queda activo aún con el vehículo apagado y el AC en off, el consumo llega a **3Amps**
+	<iframe src="https://drive.google.com/file/d/1D1fgB1Frcl-H1LY4-KmkxKRzaDJByFI3/preview" allow="autoplay"></iframe>
+	<iframe src="https://drive.google.com/file/d/1D1hmNZTTRy9s74Tf65oPlQXZT0Sj75mx/preview" allow="autoplay"></iframe>
+
+- El sistema eléctrico tenía una alteración porque el ventilador no activa correctamente, esto hace que el compresor se quede activo 
+- Se debe reemplazar el Termoswitch ya que no activa a la temperatura correcta, pasando más de los *100°C*
+	<iframe src="https://drive.google.com/file/d/1D5iuyCNwCHKaZVitkeohm1kATOjpX6A0/preview" allow="autoplay"></iframe>
 
 ---
 ## Reparación:
-- Consumo de carga a través del compresor de aire acondicionado 
-- Compresor de AC se queda activo aún con el vehículo apagado y el AC en off
+
 
 ---
 
 ## Presupuesto:
 
-<img src="https://lh3.googleusercontent.com/d/" Alt="Presupuesto">
+<img src="https://lh3.googleusercontent.com/d/1D9UswI8qSzVU1sijCkyq8skbEhi9PXcj" Alt="Presupuesto">
 
 ---
 
