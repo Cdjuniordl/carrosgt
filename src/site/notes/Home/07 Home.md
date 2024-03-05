@@ -55,9 +55,10 @@ color green
 
 ```button
 name NUEVO VEHÍCULO
-type note(Datos) template
-action tpl.Datos
-```{ #button-hpr7}
+type command
+action Templater: Create new note from template
+color purple
+```{ #button-1mbu}
 
 
 ```button
