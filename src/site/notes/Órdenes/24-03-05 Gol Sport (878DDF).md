@@ -59,12 +59,13 @@
 	<iframe src="https://drive.google.com/file/d/1D1hmNZTTRy9s74Tf65oPlQXZT0Sj75mx/preview" allow="autoplay"></iframe>
 
 - El sistema eléctrico tenía una alteración porque el ventilador no activa correctamente, esto hace que el compresor se quede activo 
-- Se debe reemplazar el Termoswitch ya que no activa a la temperatura correcta, pasando más de los *100°C*
+- Se debe reemplazar el Termoswitch ya que no activa a la temperatura correcta, pasando más de los *100°C* llegando incluso a *106°C*
+- El funcionamiento debería estar entre los *96* a *98°C*
 	<iframe src="https://drive.google.com/file/d/1D5iuyCNwCHKaZVitkeohm1kATOjpX6A0/preview" allow="autoplay"></iframe>
 
 ---
 ## Reparación:
-
+- En espera de aprobación 
 
 ---
 
