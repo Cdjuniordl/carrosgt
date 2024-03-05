@@ -64,15 +64,39 @@ Existen varios factores a tener en cuenta:
 >[!info]- Conector DLC
 > 
 ><img src="https://lh3.googleusercontent.com/d/1B9r39IanOPbLXT2NPnLvtrcJdnrT4cUA" width="240">
-2. Resistencia interna de los módulos de conexión: Aproximadamente*60$\ohm$* con todos los módulos conectados y en buen estado.
+2. Resistencia interna de los módulos de conexión: Aproximadamente **60$\ohm$** con todos los módulos conectados y en buen estado.
 >[!info]- Resistencia de Red CAN
 >
 ><img src="https://lh3.googleusercontent.com/d/1B9eLo7jdkJ9V7kn8nP6v7ICy8UcuWNRP" width="230" >
+3. Diagnosticar la gráfica de la señal de comunicación CAN utilizando el Osciloscopio, la cual debería verse de manera similar 
+>[!info]- Gráfica de Red CAN
+>
+><img src="https://lh3.googleusercontent.com/d/1BAbCc3-xgLzsC2PFZF2lnGwh32nhAkdu" width="240">
+>
+><img src="https://lh3.googleusercontent.com/d/1BAdn6jeUUFUgwWRBZVMWc-VqIjKJKGSp" width="240">
 
+#### Datos Obtenidos del Vehículo
+##### Resistencia de Red CAN
+<img src="https://lh3.googleusercontent.com/d/1BC2aY0RmGxjhBw5btgj2PzkG1KIzRemx" width="275">
+
+##### Voltajes de línea CAN-H y CAN-L respectivamente 
+<img src="https://lh3.googleusercontent.com/d/1BG2IVVmHFL5M2rRMM245vgWolam_mw7X" width="275">
+<img src="https://lh3.googleusercontent.com/d/1BIS-m_kAXRoNrYWZo9fij-r0pD13ksak" width="275">
+
+Segun los valores obtenidos notamos que aunque la resistencia se encuentra dentro de regla, los valores de voltaje están fuera del rango permitido, indicando un mal funcionamiento de la Red CAN
+
+##### Gráfica de la Red CAN
+<img src="https://lh3.googleusercontent.com/d/1BmWjMKPzcrdBdovnACjdEZaEhqYTrmyw" width="300">
+
+<img src="https://lh3.googleusercontent.com/d/1BrUkBVj7smSfPcdig4Nnvp2bjNRBGKNG" width="300">
 
 ---
 ## Reparación:
-- 
+- Aunque se encontraron valores fuera del rango en las señales de comunicación CAN, no se presentaron fallas en los módulos y tampoco se pudo volver a reproducir el código en ninguno de los módulos 
+- Se realizó una prueba de manejo para comprobar el funcionamiento del vehículo 
+- **Reporte de códigos después de la prueba** 
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/jbrdRiimGTI7UO?hostedIn=slideshare&page=upload" width="320" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 ---
 
