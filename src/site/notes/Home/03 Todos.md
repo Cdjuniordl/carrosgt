@@ -105,6 +105,7 @@
 | [[Vehículos/Mazda/Protege (650DPQ)\|Protege (650DPQ)]]                  | Mazda         | Protege DX             | 2000 | 650DPQ   |
 | [[Vehículos/Mazda/Protege ES (631GGQ)\|Protege ES (631GGQ)]]            | Mazda         | Protege ES             | 2002 | 631GGQ   |
 | [[Vehículos/Mercedes/E300 (869BXL)\|E300 (869BXL)]]                     | Mercedes-Benz | E300 Turbo Diesel      | 1999 | 869BXL   |
+| [[Vehículos/Mitsubishi/Eclipse Gt (044KRM)\|Eclipse Gt (044KRM)]]       | Mitsubishi    | Eclipse Gt             | 2007 | 044KRM   |
 | [[Vehículos/Mitsubishi/Lancer (508DDD)\|Lancer (508DDD)]]               | Mitsubishi    | Lancer GLX             | 2007 | 508DDD   |
 | [[Vehículos/Mitsubishi/Lancer (819DMF)\|Lancer (819DMF)]]               | Mitsubishi    | Lancer GLX             | 2008 | 819DMF   |
 | [[Vehículos/Mitsubishi/Mitsubishi Mirage\|Mitsubishi Mirage]]           | Mitsubishi    | Mirage DE              | 2000 | 988BHF   |
