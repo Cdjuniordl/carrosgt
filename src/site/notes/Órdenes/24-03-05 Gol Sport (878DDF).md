@@ -52,12 +52,13 @@
 ## Diagnóstico:
 ### DTC:: 
 
-- <a href="http"><button class="btn success">CÓDIGOS</button></a>
+- <a href="https://usait.x431.com/Home/Report/reportDetail/diagnose_record_id/41ce14b0geKw8ctZKw2Y54oGoG/report_type/D/l/es/timezone/-6"><button class="btn success">CÓDIGOS</button></a>
 - 
 
 ---
 ## Reparación:
-- 
+- Consumo de carga a través del compresor de aire acondicionado 
+- Compresor de AC se queda activo aún con el vehículo apagado y el AC en off
 
 ---
 
