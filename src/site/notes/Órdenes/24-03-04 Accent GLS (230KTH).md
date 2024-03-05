@@ -12,7 +12,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-<img src="https://lh3.googleusercontent.com/d/" Alt="Foto Vehiculo">
+<img src="https://lh3.googleusercontent.com/d/1BYbzkSqlwTM5eIiI2RIdV2GHtwSrOajt" Alt="Foto Vehiculo">
 
 ### Marca:: Hyundai
 ### Modelo:: Accent GLS 
@@ -31,12 +31,12 @@
 ## Recepción:
 ### Fecha:: 2024-03-04
 #### Fotos de Recepción: 
-<img src="https://lh3.googleusercontent.com/d/" width="250" Alt="Tablero">
+<img src="https://lh3.googleusercontent.com/d/1B_OSxPcjjFUH9kKvrT6JIjhl-HqRwgKV" width="250" Alt="Tablero">
 
-###### Odómetro: 
-###### Nivel de Gasolina: 
-###### Luces en tablero: 
-###### Llaves o documentos: 
+###### Odómetro: 70 223Mi
+###### Nivel de Gasolina: 1/2
+###### Luces en tablero: Ninguna
+###### Llaves o documentos: Llave y tarjeta 
 
 ---
 
@@ -54,13 +54,15 @@
 
 ---
 ## Reparación:
-- 
+- Cambio de sensor CKP
+- <img src="https://lh3.googleusercontent.com/d/1Ba0O_FZ4Gg7cxtuzY3zwTLvlevC-M0fl" width="275">
+- <img src="https://lh3.googleusercontent.com/d/1BbOkf9lVuM4DOkHoj_H1CQZ5Lvvg17pR" width="275">
 
 ---
 
 ## Presupuesto:
 
-<img src="https://lh3.googleusercontent.com/d/" Alt="Presupuesto">
+<img src="https://lh3.googleusercontent.com/d/1BkjQumvIhAXbqndVvRv9YhvGhT8Jzdwb" Alt="Presupuesto">
 
 ---
 
@@ -70,6 +72,6 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2024-03-04
 
 
