@@ -65,7 +65,10 @@
 
 ---
 ## Reparación:
-- En espera de aprobación 
+- Se reparó el sistema de aire acondicionado 
+- Se cambió el Termoswitch
+- El sistema quedó activando su ventilador a los *90°C* y quedó funcionando perfectamente 
+- <iframe src="https://drive.google.com/file/d//preview" allow="autoplay"></iframe>
 
 ---
 
