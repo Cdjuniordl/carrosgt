@@ -139,6 +139,7 @@
 | [[Vehículos/Toyota/Yaris (470GQF)\|Yaris (470GQF)]]                     | Toyota        | Yaris Le               | 2013 | 470GQF   |
 | [[Vehículos/Toyota/Yaris (653KGQ)\|Yaris (653KGQ)]]                     | Toyota        | Yaris                  | 2012 | 653KGQ   |
 | [[Vehículos/Toyota/Yaris L (424KLP)\|Yaris L (424KLP)]]                 | Toyota        | Yaris L                | 2019 | 424KLP   |
+| [[Vehículos/Volkswagen/Fox (311BJR)\|Fox (311BJR)]]                     | Volkswagen    | Fox                    | 2005 | 311BJR   |
 | [[Vehículos/Volkswagen/Gol Sport (878DDF)\|Gol Sport (878DDF)]]         | Volkswagen    | Gol Sport              | 2006 | 878DDF   |
 | [[Vehículos/Volkswagen/Golf Gti (157JNP)\|Golf Gti (157JNP)]]           | Volkswagen    | Golf Gti               | 2013 | 157JNP   |
 | [[Vehículos/Volkswagen/Golf Gti (303JZW)\|Golf Gti (303JZW)]]           | Volkswagen    | Gti                    | 2010 | 303JZW   |
