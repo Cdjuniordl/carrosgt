@@ -61,6 +61,7 @@
 | [[Vehículos/Honda/Crv (142JNB)\|Crv (142JNB)]]                          | Honda         | CR-V EX                | 2002 | 142JNB   |
 | [[Vehículos/Honda/Crv (751GMF)\|Crv (751GMF)]]                          | Honda         | CR-V Ex                | 2005 | 751GMF   |
 | [[Vehículos/Honda/Crv LX (690JZB)\|Crv LX (690JZB)]]                    | Honda         | CR-V LX 4WD            | 2015 | 690JZB   |
+| [[Vehículos/Honda/Element Lx (042JKH)\|Element Lx (042JKH)]]            | Honda         | Element Lx 2WD         | 2007 | 042JKH   |
 | [[Vehículos/Honda/Fit (590JVY)\|Fit (590JVY)]]                          | Honda         | Fit                    | 2008 | 590JVY   |
 | [[Vehículos/Honda/Fit Lx (934JYV)\|Fit Lx (934JYV)]]                    | Honda         | Fit Lx                 | 2017 | 934JYV   |
 | [[Vehículos/Honda/Fit Sport (920HRK)\|Fit Sport (920HRK)]]              | Honda         | Fit Sport              | 2008 | 920HRK   |
