@@ -12,7 +12,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-<img src="https://lh3.googleusercontent.com/d/" Alt="Foto Vehiculo">
+<img src="https://lh3.googleusercontent.com/d/1ERGlA9kHaRBaaSRGrgE2AVkGBscYjPmt" Alt="Foto Vehiculo">
 
 ### Marca:: Mazda
 ### Modelo:: CX-5 Touring
@@ -31,7 +31,7 @@
 ## Recepción:
 ### Fecha:: 2024-03-08
 #### Fotos de Recepción: 
-<img src="https://lh3.googleusercontent.com/d/" width="250" Alt="Tablero">
+<img src="https://lh3.googleusercontent.com/d/1EYyRqmluEn-lviiWVmo58tuFmi5p2HKx" width="250" Alt="Tablero">
 
 ###### Odómetro: 53 734Mi
 ###### Nivel de Gasolina: 3/4
@@ -50,14 +50,18 @@
 ---
 
 ## Diagnóstico:
-### DTC:: P05A0
+### DTC:: P05A0, P05A3
 
 - <a href="http"><button class="btn success">CÓDIGOS</button></a>
 - Rejilla reflectora de aire posición atascada 
 
 ---
 ## Reparación:
-- 
+- No trae la rejilla instalada, solo trae el motor de la rejilla 
+- Se debe comprar la rejilla para el reemplazo 
+
+> [!Nota]- 
+> El cliente decide llevarse el vehículo y conseguir la rejilla 
 
 ---
 
@@ -73,6 +77,6 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2024-03-08
 
 
