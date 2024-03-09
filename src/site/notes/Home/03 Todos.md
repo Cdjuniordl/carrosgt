@@ -102,6 +102,7 @@
 | [[Vehículos/Mazda/Cx-7 (553GMJ)\|Cx-7 (553GMJ)]]                        | Mazda         | Cx-7 Touring           | 2008 | 553GMJ   |
 | [[Vehículos/Mazda/Cx5 (613JCV)\|Cx5 (613JCV)]]                          | Mazda         | CX-5                   | 2015 | 613JCV   |
 | [[Vehículos/Mazda/Cx7 (349FRY)\|Cx7 (349FRY)]]                          | Mazda         | Cx-7 Touring           | 2007 | 349FRY   |
+| [[Vehículos/Mazda/Mpv Lx (863DXG)\|Mpv Lx (863DXG)]]                    | Mazda         | Mpv Lx                 | 2001 | 863DXG   |
 | [[Vehículos/Mazda/Protege (420DTQ)\|Protege (420DTQ)]]                  | Mazda         | Protege Lx             | 2000 | 420DTQ   |
 | [[Vehículos/Mazda/Protege (437FVV)\|Protege (437FVV)]]                  | Mazda         | Protege Lx             | 2000 | 437FVV   |
 | [[Vehículos/Mazda/Protege (650DPQ)\|Protege (650DPQ)]]                  | Mazda         | Protege DX             | 2000 | 650DPQ   |
