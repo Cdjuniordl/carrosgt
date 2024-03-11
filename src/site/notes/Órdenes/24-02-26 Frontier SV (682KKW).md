@@ -112,6 +112,6 @@ Segun los valores obtenidos notamos que aunque la resistencia se encuentra dentr
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2024-03-06
 
 
