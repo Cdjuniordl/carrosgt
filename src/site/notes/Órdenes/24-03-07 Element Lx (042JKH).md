@@ -58,13 +58,15 @@
 
 ---
 ## Reparación:
-- 
+- Cambio de frenos delanteros y traseros 
+- Cambio de filtro de aire 
+- Cambio de Aceite 20w50 y filtro de aceite 
 
 ---
 
 ## Presupuesto:
 
-<img src="https://lh3.googleusercontent.com/d/" Alt="Presupuesto">
+<img src="https://lh3.googleusercontent.com/d/1Ff3Az0_WN328QvOu3BGzNWVxraDj556R" Alt="Presupuesto">
 
 ---
 
@@ -74,6 +76,6 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2024-03-08
 
 
