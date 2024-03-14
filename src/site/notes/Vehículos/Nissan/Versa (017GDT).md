@@ -6,7 +6,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-<img src="https://lh3.googleusercontent.com/d/" Alt="Foto Vehiculo">
+<img src="https://lh3.googleusercontent.com/d/1HDFyth4PmcQUmeYnf8iYvj9-O07kzVuE" Alt="Foto Vehiculo">
 
 ### Marca:: Nissan
 ### Modelo:: Versa 
