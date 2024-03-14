@@ -49,8 +49,9 @@ customTextColor #FFFFFF
 name NUEVO CLIENTE
 type note(Cliente) template
 action tpl.Cliente
-color green
-```{ #button-9wda}
+templater true
+color blue
+```{ #button-button-cliente}
 
 
 ```button
