@@ -50,11 +50,13 @@
 ### DTC:: 
 
 - <a href="http"><button class="btn success">CÓDIGOS</button></a>
-- 
+- Arnes de luces dañado y cambiado de pines 
+- Fusibles quemados 
 
 ---
 ## Reparación:
-- 
+- Reparación de arnes de luces altas y bajas 
+- Cambio de fusibles 
 
 ---
 
@@ -70,6 +72,6 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2024-03-14
 
 
