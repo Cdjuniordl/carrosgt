@@ -126,6 +126,7 @@
 | [[Vehículos/Nissan/Sentra (965JXT)\|Sentra (965JXT)]]                   | Nissan        | Sentra Sv              | 2014 | 965JXT   |
 | [[Vehículos/Nissan/Sentra SR (321KBN)\|Sentra SR (321KBN)]]             | Nissan        | Sentra SR Turbo        | 2017 | 321KBN   |
 | [[Vehículos/Nissan/Versa (017GDT)\|Versa (017GDT)]]                     | Nissan        | Versa                  | 2007 | 017GDT   |
+| [[Vehículos/Nissan/Versa (733JDD)\|Versa (733JDD)]]                     | Nissan        | Versa                  | 2017 | 733JDD   |
 | [[Vehículos/Nissan/Xterra (787GWX)\|Xterra (787GWX)]]                   | Nissan        | Xterra                 | 2005 | 787GWX   |
 | [[Vehículos/Scion/IA (221JFN)\|IA (221JFN)]]                            | Scion         | IA                     | 2016 | 221JFN   |
 | [[Vehículos/Toyota/4Runner (869KHP)\|4Runner (869KHP)]]                 | Toyota        | 4Runner SR5            | 2007 | 869KHP   |
