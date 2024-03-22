@@ -27,6 +27,7 @@
 | [[Vehículos/Chevrolet/Spark (990FKV)\|Spark (990FKV)]]                  | Chevrolet     | Spark                  | 2012 | 990FKV   |
 | [[Vehículos/Chevrolet/Spark Ls (057FWX)\|Spark Ls (057FWX)]]            | Chevrolet     | Spark Ls               | 2014 | 057FWX   |
 | [[Vehículos/Chevrolet/Spark LS (504KQH)\|Spark LS (504KQH)]]            | Chevrolet     | Spark LS               | 2013 | 504KQH   |
+| [[Vehículos/Chevrolet/Spark LT (590679)\|Spark LT (590679)]]            | Chevrolet     | Spark LT               | 2013 | 590679   |
 | [[Vehículos/Chevrolet/Spark LT (752KHK)\|Spark LT (752KHK)]]            | Chevrolet     | Spark LT               | 2014 | 752KHK   |
 | [[Vehículos/Chevrolet/Tracker (928JRZ)\|Tracker (928JRZ)]]              | Chevrolet     | Tracker                | 1996 | 928JRZ   |
 | [[Vehículos/Diagramas\|Diagramas]]                                      | \-            | \-                     | \-   | \-       |
