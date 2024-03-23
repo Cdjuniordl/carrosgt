@@ -98,6 +98,7 @@
 | [[Vehículos/Mazda/3i (797GWN)\|3i (797GWN)]]                            | Mazda         | 3i                     | 2010 | 797GWN   |
 | [[Vehículos/Mazda/5 (696JYQ)\|5 (696JYQ)]]                              | Mazda         | 5 Sport                | 2012 | 696JYQ   |
 | [[Vehículos/Mazda/B2300 (764DCJ)\|B2300 (764DCJ)]]                      | Mazda         | B2300                  | 1997 | 764DCJ   |
+| [[Vehículos/Mazda/B2500 (945DDV)\|B2500 (945DDV)]]                      | Mazda         | B2500                  | 2007 | 946DDV   |
 | [[Vehículos/Mazda/B2600i (040JZV)\|B2600i (040JZV)]]                    | Mazda         | B2600i 4x4             | 1993 | 040JZV   |
 | [[Vehículos/Mazda/CX-5 (746KSN)\|CX-5 (746KSN)]]                        | Mazda         | Cx5                    | 2014 | 746KSN   |
 | [[Vehículos/Mazda/Cx-5 (785KGT)\|Cx-5 (785KGT)]]                        | Mazda         | Cx-5 Grand Touring     | 2018 | 785KGT   |
