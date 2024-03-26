@@ -20,7 +20,7 @@
 
 ## Cliente:
 
-
+[[Clientes/Rudy Bladimir\|Rudy Bladimir]]
 
 ---
 
