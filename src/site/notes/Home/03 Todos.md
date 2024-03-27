@@ -58,6 +58,7 @@
 | [[Vehículos/Honda/Civic Lx (648-060)\|Civic Lx (648-060)]]              | Honda         | Civic Lx               | 2001 | 648-060  |
 | [[Vehículos/Honda/Civic Lx (922FXJ)\|Civic Lx (922FXJ)]]                | Honda         | Civic Lx               | 2004 | 922FXJ   |
 | [[Vehículos/Honda/Civic Lx (Sin)\|Civic Lx (Sin)]]                      | Honda         | Civic Lx               | 2007 | \-       |
+| [[Vehículos/Honda/CR-V Lx (670GMF)\|CR-V Lx (670GMF)]]                  | Honda         | CR-V Lx                | 2002 | 670GMF   |
 | [[Vehículos/Honda/CR-Z (359KQD)\|CR-Z (359KQD)]]                        | Honda         | CR-Z EX                | 2011 | 359KQD   |
 | [[Vehículos/Honda/Crv (138HZB)\|Crv (138HZB)]]                          | Honda         | Crv                    | 1997 | 138HZB   |
 | [[Vehículos/Honda/Crv (142JNB)\|Crv (142JNB)]]                          | Honda         | CR-V EX                | 2002 | 142JNB   |
