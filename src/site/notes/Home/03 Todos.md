@@ -136,6 +136,7 @@
 | [[Vehículos/Scion/IA (221JFN)\|IA (221JFN)]]                            | Scion         | IA                     | 2016 | 221JFN   |
 | [[Vehículos/Toyota/4Runner (869KHP)\|4Runner (869KHP)]]                 | Toyota        | 4Runner SR5            | 2007 | 869KHP   |
 | [[Vehículos/Toyota/Corolla (110KJM)\|Corolla (110KJM)]]                 | Toyota        | Corolla                | 2016 | 110KJM   |
+| [[Vehículos/Toyota/Corolla (307GCR)\|Corolla (307GCR)]]                 | Toyota        | Corolla                | 1995 | 307GCR   |
 | [[Vehículos/Toyota/Pickup V6 (418BHQ)\|Pickup V6 (418BHQ)]]             | Toyota        | Pickup V6              | 1990 | 418BHQ   |
 | [[Vehículos/Toyota/Prius (121JHQ)\|Prius (121JHQ)]]                     | Toyota        | Prius                  | 2008 | 121HJQ   |
 | [[Vehículos/Toyota/Rav4 (404JPN)\|Rav4 (404JPN)]]                       | Toyota        | Rav4                   | 2001 | 404JPN   |
