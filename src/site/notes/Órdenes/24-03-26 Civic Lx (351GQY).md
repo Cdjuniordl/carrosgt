@@ -50,17 +50,20 @@
 ### DTC:: 
 
 - <a href="http"><button class="btn success">CÓDIGOS</button></a>
-- 
+- Frenos delanteros y traseros en buen estado 
+- Solo se recomienda mantenimiento 
+- Aceite de motor le falta medio litro 
 
 ---
 ## Reparación:
-- 
+- Medio litro de aceite de motor full sintético 5w30
+- Mantenimiento de frenos traseros y delanteros 
 
 ---
 
 ## Presupuesto:
 
-<img src="https://lh3.googleusercontent.com/d/" Alt="Presupuesto">
+<img src="https://lh3.googleusercontent.com/d/1L60aq0jWMusHMQPnTPyv_S2babA5eHmt" Alt="Presupuesto">
 
 ---
 
@@ -70,6 +73,6 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2024-03-26
 
 
