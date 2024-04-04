@@ -68,6 +68,7 @@
 | [[Vehículos/Honda/Fit (590JVY)\|Fit (590JVY)]]                          | Honda         | Fit                    | 2008 | 590JVY   |
 | [[Vehículos/Honda/Fit Lx (934JYV)\|Fit Lx (934JYV)]]                    | Honda         | Fit Lx                 | 2017 | 934JYV   |
 | [[Vehículos/Honda/Fit Sport (920HRK)\|Fit Sport (920HRK)]]              | Honda         | Fit Sport              | 2008 | 920HRK   |
+| [[Vehículos/Honda/HR-V Lx (591KTG)\|HR-V Lx (591KTG)]]                  | Honda         | HR-V Lx                | 2021 | 591KTG   |
 | [[Vehículos/Honda/HRV EX (702087)\|HRV EX (702087)]]                    | Honda         | HRV Ex                 | 2017 | \-       |
 | [[Vehículos/Honda/Odyssey (546BGD)\|Odyssey (546BGD)]]                  | Honda         | Odyssey EX             | 2004 | 545BGD   |
 | [[Vehículos/Hyundai/Accent GLS (230KTH)\|Accent GLS (230KTH)]]          | Hyundai       | Accent GLS             | 2012 | 230KTH   |
@@ -151,6 +152,7 @@
 | [[Vehículos/Toyota/Tacoma (166JCS)\|Tacoma (166JCS)]]                   | Toyota        | Tacoma 4x2 SR5         | 1998 | 166JCS   |
 | [[Vehículos/Toyota/Yaris (470GQF)\|Yaris (470GQF)]]                     | Toyota        | Yaris Le               | 2013 | 470GQF   |
 | [[Vehículos/Toyota/Yaris (653KGQ)\|Yaris (653KGQ)]]                     | Toyota        | Yaris                  | 2012 | 653KGQ   |
+| [[Vehículos/Toyota/Yaris iA (80796)\|Yaris iA (80796)]]                 | Toyota        | Yaris iA               | 2017 | \-       |
 | [[Vehículos/Toyota/Yaris L (424KLP)\|Yaris L (424KLP)]]                 | Toyota        | Yaris L                | 2019 | 424KLP   |
 | [[Vehículos/Volkswagen/Fox (311BJR)\|Fox (311BJR)]]                     | Volkswagen    | Fox                    | 2005 | 311BJR   |
 | [[Vehículos/Volkswagen/Gol Sport (878DDF)\|Gol Sport (878DDF)]]         | Volkswagen    | Gol Sport              | 2006 | 878DDF   |
