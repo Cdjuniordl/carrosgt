@@ -143,6 +143,7 @@
 | [[Vehículos/Toyota/Pickup V6 (418BHQ)\|Pickup V6 (418BHQ)]]             | Toyota        | Pickup V6              | 1990 | 418BHQ   |
 | [[Vehículos/Toyota/Prius (121JHQ)\|Prius (121JHQ)]]                     | Toyota        | Prius                  | 2008 | 121HJQ   |
 | [[Vehículos/Toyota/Rav4 (404JPN)\|Rav4 (404JPN)]]                       | Toyota        | Rav4                   | 2001 | 404JPN   |
+| [[Vehículos/Toyota/Rav4 (450HHJ)\|Rav4 (450HHJ)]]                       | Toyota        | Rav4                   | 2002 | 450HHJ   |
 | [[Vehículos/Toyota/Rav4 (671HZR)\|Rav4 (671HZR)]]                       | Toyota        | Rav4                   | 2001 | 671HZR   |
 | [[Vehículos/Toyota/Rav4 (676BZT)\|Rav4 (676BZT)]]                       | Toyota        | Rav4                   | 2011 | 676BZT   |
 | [[Vehículos/Toyota/Rav4 (694KHV)\|Rav4 (694KHV)]]                       | Toyota        | Rav4                   | 2010 | 694KHV   |
