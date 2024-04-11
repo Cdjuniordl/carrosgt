@@ -94,6 +94,7 @@
 | [[Vehículos/Kia/Soul (141KJT)\|Soul (141KJT)]]                          | Kia           | Soul                   | 2011 | 141KJT   |
 | [[Vehículos/Kia/Soul (681KKW)\|Soul (681KKW)]]                          | Kia           | Soul Base              | 2015 | 681KKW   |
 | [[Vehículos/Kia/Sportage (538FFR)\|Sportage (538FFR)]]                  | Kia           | Sportage 4WD           | 1999 | 538FFR   |
+| [[Vehículos/Kia/Sportage (763BSY)\|Sportage (763BSY)]]                  | Kia           | Sportage               | 1887 | \-       |
 | [[Vehículos/Mazda/2 (936JYR)\|2 (936JYR)]]                              | Mazda         | 2 Sport                | 2012 | 936JYR   |
 | [[Vehículos/Mazda/3 Touring (745KSN)\|3 Touring (745KSN)]]              | Mazda         | 3 Touring              | 2014 | 745KSN   |
 | [[Vehículos/Mazda/3i (290HRX)\|3i (290HRX)]]                            | Mazda         | 3i                     | 2007 | 290HRX   |
