@@ -6,7 +6,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-<img src="https://lh3.googleusercontent.com/d/" Alt="Foto Vehiculo">
+<img src="https://lh3.googleusercontent.com/d/1PjpwYZpwZUjwNkVN4jyhDnfSnik8j1FP" Alt="Foto Vehiculo">
 
 ### Marca:: Mazda
 ### Modelo:: 3 Touring 
