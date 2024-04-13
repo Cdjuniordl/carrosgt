@@ -61,10 +61,10 @@
 
 ## Presupuesto:
 
-- [ ] Toyota Corolla Blanco 📅 2024-03-26 
-	Fusible de AC dañado 
+- [x] Toyota Corolla Blanco 📅 2024-03-26
+	Fusible de AC dañado
 	**Q75**
-	#Eddy 
+	#Eddy ✅ 2024-04-13
 
 ---
 
