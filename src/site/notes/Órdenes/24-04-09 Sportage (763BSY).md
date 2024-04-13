@@ -19,7 +19,7 @@
 ### Año:: 1887
 #### Motor:: 2000
 #### Serie Motor:: 
-#### Vin:: 
+#### Vin:: KNDJA7232V5543636
 ##### Placa:: 
 ##### Color:: Azul oscuro 
 ---
@@ -51,17 +51,20 @@
 ### DTC:: P0131
 
 - <a href="https://usait.x431.com/Home/Report/reportDetail/diagnose_record_id/ff9e8d44geKwTdAEoG2YDhDhDh/report_type/D/l/es/timezone/-6"><button class="btn success">CÓDIGOS</button></a>
-- 
+- Sensor de oxígeno 1 pegado en mezcla pobre 
 
 ---
 ## Reparación:
-- 
+- Se debe cambiar el sensor de oxigeno #1
 
 ---
 
 ## Presupuesto:
 
-<img src="https://lh3.googleusercontent.com/d/" Alt="Presupuesto">
+- [ ] Kia Sportage 
+	Diagnóstico sensor de oxigeno 1
+	**Q150**
+	#Feisa 
 
 ---
 
@@ -71,6 +74,6 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2024-04-12
 
 
