@@ -13,7 +13,7 @@
 ### Año:: 1887
 #### Motor:: 2000
 #### Serie Motor:: 
-#### Vin:: 
+#### Vin:: KNDJA7232V5543636
 ##### Placa:: 
 ##### Color:: Azul oscuro 
 ---
