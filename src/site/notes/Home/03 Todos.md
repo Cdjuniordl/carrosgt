@@ -86,6 +86,7 @@
 | [[Vehículos/Jeep/Grand Cherokee (299JML)\|Grand Cherokee (299JML)]]     | Jeep          | Grand Cherokee Laredo  | 2006 | 299JML   |
 | [[Vehículos/Jeep/Liberty (805DNZ)\|Liberty (805DNZ)]]                   | Jeep          | Liberty Sport          | 2002 | 805DNZ   |
 | [[Vehículos/Jeep/Patriot (474JBZ)\|Patriot (474JBZ)]]                   | Jeep          | Patriot Sport 2WD      | 2016 | 474JBZ   |
+| [[Vehículos/Jeep/Renegade (271JZQ)\|Renegade (271JZQ)]]                 | Jeep          | Renegade Latitud       | 2018 | 271JZQ   |
 | [[Vehículos/Kia/Forte (304GHG)\|Forte (304GHG)]]                        | Kia           | Forte Koup Ex          | 2013 | 304GHG   |
 | [[Vehículos/Kia/Río (528JYQ)\|Río (528JYQ)]]                            | Kia           | Rio LX                 | 2016 | 528JYQ   |
 | [[Vehículos/Kia/Sorento (156FXC)\|Sorento (156FXC)]]                    | Kia           | Sorento                | 2012 | 156FXC   |
