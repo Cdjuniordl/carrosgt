@@ -61,9 +61,9 @@
 
 ## Presupuesto:
 
-- [ ] Eclipse 2007**Q175**🔼 ➕ 2024-03-05 
+- [x] Eclipse 2007**Q175**🔼 ➕ 2024-03-05
 	No activa el compresor de AC
-	#Eddy
+	#Eddy ✅ 2024-04-13
 
 ---
 
