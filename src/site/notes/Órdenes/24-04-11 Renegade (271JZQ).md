@@ -75,6 +75,6 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2024-04-13
 
 
