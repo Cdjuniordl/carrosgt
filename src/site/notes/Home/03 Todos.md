@@ -112,6 +112,7 @@
 | [[Vehículos/Mazda/Cx-5 (785KGT)\|Cx-5 (785KGT)]]                        | Mazda         | Cx-5 Grand Touring     | 2018 | 785KGT   |
 | [[Vehículos/Mazda/CX-5 Touring (987KPR)\|CX-5 Touring (987KPR)]]        | Mazda         | CX-5 Touring           | 2019 | 987KPR   |
 | [[Vehículos/Mazda/Cx-7 (553GMJ)\|Cx-7 (553GMJ)]]                        | Mazda         | Cx-7 Touring           | 2008 | 553GMJ   |
+| [[Vehículos/Mazda/Cx-9 (05689)\|Cx-9 (05689)]]                          | Mazda         | Cx-9 Signature         | 2018 | \-       |
 | [[Vehículos/Mazda/Cx5 (613JCV)\|Cx5 (613JCV)]]                          | Mazda         | CX-5                   | 2015 | 613JCV   |
 | [[Vehículos/Mazda/Cx7 (349FRY)\|Cx7 (349FRY)]]                          | Mazda         | Cx-7 Touring           | 2007 | 349FRY   |
 | [[Vehículos/Mazda/Mpv Lx (863DXG)\|Mpv Lx (863DXG)]]                    | Mazda         | Mpv Lx                 | 2001 | 863DXG   |
