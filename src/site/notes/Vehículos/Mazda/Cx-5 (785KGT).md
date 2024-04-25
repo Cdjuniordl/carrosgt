@@ -2,11 +2,12 @@
 {"dg-publish":true,"permalink":"/vehiculos/mazda/cx-5-785-kgt/"}
 ---
 
-![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+<img src="https://lh3.googleusercontent.com/d/137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G" width="150">
+
 
 ## Datos del Vehículo 
 ### Foto:: 
-![Vehículo](http://drive.google.com/uc?export=view&id=1H5w9tp_bHyBkBnDjsHWOsHF5uKCQRBxc)
+<img src="https://lh3.googleusercontent.com/d/1THFLirHQPec1jUC-xLt_CeKq27ZLSSBi">
 
 ### Marca:: Mazda
 ### Modelo:: Cx-5 Grand Touring
@@ -26,5 +27,8 @@
 
 ## Historial
 
+- [[Órdenes/23-08-22 Cx-5 (785KGT)\|23-08-22 Cx-5 (785KGT)]]
+- [[Órdenes/23-08-31 Cx-5 (785KGT)\|23-08-31 Cx-5 (785KGT)]]
+- [[Órdenes/24-04-25 CX-5 (785KGT)\|24-04-25 CX-5 (785KGT)]]
 
 { .block-language-dataview} 
