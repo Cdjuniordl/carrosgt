@@ -72,6 +72,7 @@
 | [[Vehículos/Honda/HR-V Lx (591KTG)\|HR-V Lx (591KTG)]]                  | Honda         | HR-V Lx                | 2021 | 591KTG   |
 | [[Vehículos/Honda/HRV EX (702087)\|HRV EX (702087)]]                    | Honda         | HRV Ex                 | 2017 | \-       |
 | [[Vehículos/Honda/Odyssey (546BGD)\|Odyssey (546BGD)]]                  | Honda         | Odyssey EX             | 2004 | 545BGD   |
+| [[Vehículos/Hyundai/Accent (073CRG)\|Accent (073CRG)]]                  | Hyundai       | Accent Ls4             | 2003 | 073CRG   |
 | [[Vehículos/Hyundai/Accent GLS (230KTH)\|Accent GLS (230KTH)]]          | Hyundai       | Accent GLS             | 2012 | 230KTH   |
 | [[Vehículos/Hyundai/Accent Se (285JHS)\|Accent Se (285JHS)]]            | Hyundai       | Accent SE              | 2017 | 285JHS   |
 | [[Vehículos/Hyundai/Creta (760GPN)\|Creta (760GPN)]]                    | Hyundai       | Creta                  | 2017 | 760GPN   |
