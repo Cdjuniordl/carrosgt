@@ -57,6 +57,7 @@
 - Cambio de módulo por termostato regulable
 	<img src="https://lh3.googleusercontent.com/d/1TcZl_oIoagdmpp_LI6LZT8AwFYgVzYVQ" width="275">
 
+<iframe src="https://drive.google.com/file/d/1Tg7z80Bua2Ys9-uVzr3Ui8p7CAAm55B_/preview" allow="autoplay"></iframe>
 ---
 
 ## Presupuesto:
@@ -64,9 +65,11 @@
 - [ ] Izusu Trooper 99
 	Aire acondicionado 
 	Instalación de Termostato regulable 
+	#Eddy 
 	**Q350**
 - [ ] Mazda Bt50
 	Soldadura Resistencia Blower 
+	#Eddy
 	**Q50**
 
 
