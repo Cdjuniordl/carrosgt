@@ -81,6 +81,7 @@
 | [[Vehículos/Hyundai/Starex (346KMF)\|Starex (346KMF)]]                  | Hyundai       | Grand Starex CVX       | 2010 | 346KMF   |
 | [[Vehículos/Hyundai/Tucson (620JJN)\|Tucson (620JJN)]]                  | Hyundai       | Tucson GLS             | 2014 | 620JJN   |
 | [[Vehículos/Hyundai/Tucson (809JYW)\|Tucson (809JYW)]]                  | Hyundai       | Tucson                 | 2009 | 809JYW   |
+| [[Vehículos/Isuzu/Trooper S (157BQY)\|Trooper S (157BQY)]]              | Izusu         | Trooper S              | 1999 | 157BQY   |
 | [[Vehículos/Jeep/Cherokee (226CVG)\|Cherokee (226CVG)]]                 | Jeep          | Cherokee               | \-   | 226CVG   |
 | [[Vehículos/Jeep/Cherokee Límited (332CLC)\|Cherokee Límited (332CLC)]] | Jeep          | Grand Cherokee Limited | 2004 | 332CLC   |
 | [[Vehículos/Jeep/Grand Cherokee (299JML)\|Grand Cherokee (299JML)]]     | Jeep          | Grand Cherokee Laredo  | 2006 | 299JML   |
