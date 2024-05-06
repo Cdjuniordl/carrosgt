@@ -71,6 +71,10 @@
 	Soldadura Resistencia Blower 
 	#Eddy
 	**Q50**
+- [ ] Mazda 3 
+	Mazda Fernando 
+	Arnes de compresor de AC
+	**Q250**
 
 
 ---
