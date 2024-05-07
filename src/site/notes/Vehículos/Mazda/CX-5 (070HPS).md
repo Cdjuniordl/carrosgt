@@ -20,7 +20,7 @@
 
 ## Cliente:
 
-[[Clientes/Gaby Castellaños\|Gaby Castellaños]]
+[[Clientes/Gaby Castellanos\|Gaby Castellanos]]
 
 ---
 
