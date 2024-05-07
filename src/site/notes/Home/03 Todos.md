@@ -112,6 +112,7 @@
 | [[Vehículos/Mazda/B2300 (764DCJ)\|B2300 (764DCJ)]]                      | Mazda         | B2300                  | 1997 | 764DCJ   |
 | [[Vehículos/Mazda/B2500 (945DDV)\|B2500 (945DDV)]]                      | Mazda         | B2500                  | 2007 | 946DDV   |
 | [[Vehículos/Mazda/B2600i (040JZV)\|B2600i (040JZV)]]                    | Mazda         | B2600i 4x4             | 1993 | 040JZV   |
+| [[Vehículos/Mazda/CX-5 (070HPS)\|CX-5 (070HPS)]]                        | Mazda         | CX-5 Sport             | 2014 | 070HPS   |
 | [[Vehículos/Mazda/CX-5 (746KSN)\|CX-5 (746KSN)]]                        | Mazda         | Cx5                    | 2014 | 746KSN   |
 | [[Vehículos/Mazda/Cx-5 (785KGT)\|Cx-5 (785KGT)]]                        | Mazda         | Cx-5 Grand Touring     | 2018 | 785KGT   |
 | [[Vehículos/Mazda/CX-5 Touring (987KPR)\|CX-5 Touring (987KPR)]]        | Mazda         | CX-5 Touring           | 2019 | 987KPR   |
