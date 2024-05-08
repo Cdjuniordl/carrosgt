@@ -52,11 +52,11 @@
 ### DTC:: 
 
 - <a href="http"><button class="btn success">CÓDIGOS</button></a>
-- 
+- Computadora dañada, no lanza pulso de inyección 
 
 ---
 ## Reparación:
-- 
+- Cliente decidio llevarse la camioneta 
 
 ---
 
@@ -72,6 +72,6 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2024-05-06
 
 
