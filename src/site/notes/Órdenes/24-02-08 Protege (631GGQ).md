@@ -12,7 +12,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![Vehículo](https://lh3.googleusercontent.com/drive-viewer/AEYmBYQJiVAFTlMKzyLzomv07U4PCvaAzNPVomFlFlugnjyqKBOdtQ0DAJ80igKX2jAXD6dPLI8DGjF1g85JcvOkxXq2q3eX=s1600)
+<img src="https://lh3.googleusercontent.com/d/1hAXXrzZ9XZPP-ddqboNBewvjvCJPfH4r">
 
 ### Marca:: Mazda 
 ### Modelo:: Protege ES
