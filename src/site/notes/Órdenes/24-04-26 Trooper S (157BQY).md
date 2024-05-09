@@ -62,19 +62,19 @@
 
 ## Presupuesto:
 
-- [ ] Izusu Trooper 99
-	Aire acondicionado 
-	Instalación de Termostato regulable 
-	#Eddy 
-	**Q350**
-- [ ] Mazda Bt50
-	Soldadura Resistencia Blower 
+- [x] Izusu Trooper 99
+	Aire acondicionado
+	Instalación de Termostato regulable
 	#Eddy
-	**Q50**
-- [ ] Mazda 3 
-	Mazda Fernando 
+	**Q350** ✅ 2024-05-08
+- [x] Mazda Bt50
+	Soldadura Resistencia Blower
+	#Eddy
+	**Q50** ✅ 2024-05-08
+- [x] Mazda 3
+	Mazda Fernando
 	Arnes de compresor de AC
-	**Q250**
+	**Q250** ✅ 2024-05-08
 
 
 ---
