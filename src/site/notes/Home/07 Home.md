@@ -47,11 +47,10 @@ customTextColor #FFFFFF
 
 ```button
 name NUEVO CLIENTE
-type note(Cliente) template
-action tpl.Cliente
-templater true
+type command
+action Templater: Create new note from template
 color blue
-```{ #button-button-cliente}
+```{ #button-4nh6}
 
 
 ```button
@@ -59,7 +58,7 @@ name NUEVO VEHÍCULO
 type command
 action Templater: Create new note from template
 color purple
-```{ #button-1mbu}
+```{ #button-rrnw}
 
 
 ```button
