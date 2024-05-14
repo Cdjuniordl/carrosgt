@@ -40,6 +40,7 @@
 | [[Vehículos/Fiat/Palio (763BDJ)\|Palio (763BDJ)]]                       | Fiat          | Palio Fire             | 2005 | 763BDJ   |
 | [[Vehículos/Ford/Aspire (873DRX)\|Aspire (873DRX)]]                     | Ford          | Aspire                 | 1997 | 873DRX   |
 | [[Vehículos/Ford/Bronco (540CTZ)\|Bronco (540CTZ)]]                     | Ford          | Bronco 2               | 1988 | 540CTZ   |
+| [[Vehículos/Ford/F150 Tritón (261DQD)\|F150 Tritón (261DQD)]]           | Ford          | F150 XLT Tritón        | 2004 | 261DQD   |
 | [[Vehículos/Ford/Fiesta (536GGF)\|Fiesta (536GGF)]]                     | Ford          | Fiesta SEL             | 2011 | 536GGF   |
 | [[Vehículos/Ford/Ford Ranger\|Ford Ranger]]                             | Ford          | Ranger                 | 1993 | 863CWH   |
 | [[Vehículos/Ford/Mustang (334JMV)\|Mustang (334JMV)]]                   | Ford          | Mustang V6 convertible | 2014 | 334JMV   |
