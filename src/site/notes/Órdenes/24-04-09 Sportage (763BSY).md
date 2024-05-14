@@ -63,7 +63,8 @@
 
 - [ ] Kia Sportage
 	Diagnóstico sensor de oxigeno 1
-	**Q150**
+	Cambio de sensor e instalación bocina 
+	**Q275**
 	#Feisa ✅ 2024-05-08
 
 ---
