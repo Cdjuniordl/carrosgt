@@ -91,6 +91,7 @@
 | [[Vehículos/Jeep/Patriot (474JBZ)\|Patriot (474JBZ)]]                   | Jeep          | Patriot Sport 2WD      | 2016 | 474JBZ   |
 | [[Vehículos/Jeep/Renegade (271JZQ)\|Renegade (271JZQ)]]                 | Jeep          | Renegade Latitud       | 2018 | 271JZQ   |
 | [[Vehículos/Kia/Forte (304GHG)\|Forte (304GHG)]]                        | Kia           | Forte Koup Ex          | 2013 | 304GHG   |
+| [[Vehículos/Kia/K2700 (104BRJ)\|K2700 (104BRJ)]]                        | Kia           | K2700 L                | 2018 | 104BRJ   |
 | [[Vehículos/Kia/Río (528JYQ)\|Río (528JYQ)]]                            | Kia           | Rio LX                 | 2016 | 528JYQ   |
 | [[Vehículos/Kia/Sorento (156FXC)\|Sorento (156FXC)]]                    | Kia           | Sorento                | 2012 | 156FXC   |
 | [[Vehículos/Kia/Sorento (472JVY)\|Sorento (472JVY)]]                    | Kia           | Sorento                | \-   | 472JVY   |
@@ -164,6 +165,7 @@
 | [[Vehículos/Toyota/Rav4 (sin)\|Rav4 (sin)]]                             | Toyota        | Rav4 XLE               | 2022 | \-       |
 | [[Vehículos/Toyota/Tacoma (166JCS)\|Tacoma (166JCS)]]                   | Toyota        | Tacoma 4x2 SR5         | 1998 | 166JCS   |
 | [[Vehículos/Toyota/Yaris (470GQF)\|Yaris (470GQF)]]                     | Toyota        | Yaris Le               | 2013 | 470GQF   |
+| [[Vehículos/Toyota/Yaris (556KHR)\|Yaris (556KHR)]]                     | Toyota        | Yaris                  | 2009 | 556KHR   |
 | [[Vehículos/Toyota/Yaris (653KGQ)\|Yaris (653KGQ)]]                     | Toyota        | Yaris                  | 2012 | 653KGQ   |
 | [[Vehículos/Toyota/Yaris iA (80796)\|Yaris iA (80796)]]                 | Toyota        | Yaris iA               | 2017 | \-       |
 | [[Vehículos/Toyota/Yaris L (424KLP)\|Yaris L (424KLP)]]                 | Toyota        | Yaris L                | 2019 | 424KLP   |
