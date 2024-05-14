@@ -61,7 +61,7 @@
 
 ## Presupuesto:
 
-- [x] Kia Sportage
+- [ ] Kia Sportage
 	Diagnóstico sensor de oxigeno 1
 	**Q150**
 	#Feisa ✅ 2024-05-08
