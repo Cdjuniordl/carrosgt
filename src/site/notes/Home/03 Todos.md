@@ -142,6 +142,7 @@
 | [[Vehículos/Nissan/Frontier XE (925JRZ)\|Frontier XE (925JRZ)]]         | Nissan        | Frontier XE            | 2000 | 925JRZ   |
 | [[Vehículos/Nissan/Pathfinder (767DGB)\|Pathfinder (767DGB)]]           | Nissan        | Pathfinder R51         | 2006 | 767DGB   |
 | [[Vehículos/Nissan/Rogue Se (568JYV)\|Rogue Se (568JYV)]]               | Nissan        | Rogue Se AWD           | 2013 | 568JYV   |
+| [[Vehículos/Nissan/Sentra (683KKW)\|Sentra (683KKW)]]                   | Nissan        | Sentra                 | 2016 | 683KKW   |
 | [[Vehículos/Nissan/Sentra (965JXT)\|Sentra (965JXT)]]                   | Nissan        | Sentra Sv              | 2014 | 965JXT   |
 | [[Vehículos/Nissan/Sentra SR (321KBN)\|Sentra SR (321KBN)]]             | Nissan        | Sentra SR Turbo        | 2017 | 321KBN   |
 | [[Vehículos/Nissan/Versa (017GDT)\|Versa (017GDT)]]                     | Nissan        | Versa                  | 2007 | 017GDT   |
