@@ -117,6 +117,7 @@
 | [[Vehículos/Mazda/CX-5 (070HPS)\|CX-5 (070HPS)]]                        | Mazda         | CX-5 Sport             | 2014 | 070HPS   |
 | [[Vehículos/Mazda/CX-5 (746KSN)\|CX-5 (746KSN)]]                        | Mazda         | Cx5                    | 2014 | 746KSN   |
 | [[Vehículos/Mazda/Cx-5 (785KGT)\|Cx-5 (785KGT)]]                        | Mazda         | Cx-5 Grand Touring     | 2018 | 785KGT   |
+| [[Vehículos/Mazda/CX-5 (825KVV)\|CX-5 (825KVV)]]                        | Mazda         | CX-5                   | 2017 | 825KVV   |
 | [[Vehículos/Mazda/CX-5 Touring (987KPR)\|CX-5 Touring (987KPR)]]        | Mazda         | CX-5 Touring           | 2019 | 987KPR   |
 | [[Vehículos/Mazda/Cx-7 (553GMJ)\|Cx-7 (553GMJ)]]                        | Mazda         | Cx-7 Touring           | 2008 | 553GMJ   |
 | [[Vehículos/Mazda/Cx-9 (05689)\|Cx-9 (05689)]]                          | Mazda         | Cx-9 Signature         | 2018 | \-       |
@@ -148,6 +149,7 @@
 | [[Vehículos/Nissan/Versa (017GDT)\|Versa (017GDT)]]                     | Nissan        | Versa                  | 2007 | 017GDT   |
 | [[Vehículos/Nissan/Versa (733JDD)\|Versa (733JDD)]]                     | Nissan        | Versa                  | 2017 | 733JDD   |
 | [[Vehículos/Nissan/Xterra (787GWX)\|Xterra (787GWX)]]                   | Nissan        | Xterra                 | 2005 | 787GWX   |
+| [[Vehículos/Range Rover (695FGJ)\|Range Rover (695FGJ)]]                | Land Rover    | Range Rover Evoque     | 2012 | 695FGJ   |
 | [[Vehículos/Scion/IA (221JFN)\|IA (221JFN)]]                            | Scion         | IA                     | 2016 | 221JFN   |
 | [[Vehículos/Toyota/4Runner (869KHP)\|4Runner (869KHP)]]                 | Toyota        | 4Runner SR5            | 2007 | 869KHP   |
 | [[Vehículos/Toyota/Corolla (110KJM)\|Corolla (110KJM)]]                 | Toyota        | Corolla                | 2016 | 110KJM   |
