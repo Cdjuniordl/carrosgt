@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ordenes/23-08-11-spark-ls-057-fwx/"}
 ---
 
-![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+<img src="https://lh3.googleusercontent.com/d/137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G" width="150">
 
 ## Vehículo
 
@@ -12,7 +12,7 @@
 
 ## Datos del Vehículo 
 ### Foto:: 
-![](http://drive.google.com/uc?export=view&id=1iuVEKCb4Ls22n28JimnSOiEFd_GBCI3e)
+<img src="https://lh3.googleusercontent.com/d/1iuVEKCb4Ls22n28JimnSOiEFd_GBCI3e">
 
 ### Marca:: Chevrolet 
 ### Modelo:: Spark Ls
@@ -49,11 +49,11 @@
 - Se revisaron las bujías, estando dañadas y recomendando el cambio 
 
 #### Bujías 
-![Bujias](http://drive.google.com/uc?export=view&id=108KuoucMgkYQ54srf8Q4rhj2Fo-9yKWK)
+<img src="https://lh3.googleusercontent.com/d/108KuoucMgkYQ54srf8Q4rhj2Fo-9yKWK" width="275">
 
-![Bujías y Bobinas](http://drive.google.com/uc?export=view&id=108eTZbfiiav1l-mcG6eu4VK_MVkZcopV)
+<img src="https://lh3.googleusercontent.com/d/108eTZbfiiav1l-mcG6eu4VK_MVkZcopV" width="275">
 
-![Bujía mala](http://drive.google.com/uc?export=view&id=10CKaQDQ01xJ-vaqPn_s4FVI4OsqcG0nS)
+<img src="https://lh3.googleusercontent.com/d/10CKaQDQ01xJ-vaqPn_s4FVI4OsqcG0nS" width="275">
 
 #### Falla de cilindros 
 **Video falla cilindro 1**
