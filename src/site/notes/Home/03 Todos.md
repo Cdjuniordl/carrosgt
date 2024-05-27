@@ -50,6 +50,7 @@
 | [[Vehículos/Honda/Civic (186GNZ)\|Civic (186GNZ)]]                      | Honda         | Civic EX               | 2012 | 186GNZ   |
 | [[Vehículos/Honda/Civic (428KJL)\|Civic (428KJL)]]                      | Honda         | Civic Lx               | 2011 | 428KJL   |
 | [[Vehículos/Honda/Civic (907BYS)\|Civic (907BYS)]]                      | Honda         | Civic Lx               | 1996 | 907BYS   |
+| [[Vehículos/Honda/Civic EX (269HMM)\|Civic EX (269HMM)]]                | Honda         | Civic EX               | 2008 | 269HMM   |
 | [[Vehículos/Honda/Civic Lx (140JVZ)\|Civic Lx (140JVZ)]]                | Honda         | Civic Lx               | 2011 | 140JVZ   |
 | [[Vehículos/Honda/Civic Lx (175CMJ)\|Civic Lx (175CMJ)]]                | Honda         | Civic Lc               | 2003 | 175CMJ   |
 | [[Vehículos/Honda/Civic Lx (203FXD)\|Civic Lx (203FXD)]]                | Honda         | Civic Lx               | 2002 | 203FXD   |
