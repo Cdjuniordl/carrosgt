@@ -105,6 +105,7 @@
 | [[Vehículos/Mazda/2 (936JYR)\|2 (936JYR)]]                              | Mazda         | 2 Sport                | 2012 | 936JYR   |
 | [[Vehículos/Mazda/3 GT (240JPR)\|3 GT (240JPR)]]                        | Mazda         | 3 Grand Touring        | 2017 | 240JPR   |
 | [[Vehículos/Mazda/3 i (644GKB)\|3 i (644GKB)]]                          | Mazda         | 3 i                    | 2008 | 644GKB   |
+| [[Vehículos/Mazda/3 Sport (824KVV)\|3 Sport (824KVV)]]                  | Mazda         | 3 Sport                | 2018 | 824KVV   |
 | [[Vehículos/Mazda/3 Touring (745KSN)\|3 Touring (745KSN)]]              | Mazda         | 3 Touring              | 2014 | 745KSN   |
 | [[Vehículos/Mazda/3i (290HRX)\|3i (290HRX)]]                            | Mazda         | 3i                     | 2007 | 290HRX   |
 | [[Vehículos/Mazda/3i (586GJK)\|3i (586GJK)]]                            | Mazda         | 3i                     | 2006 | 586GJK   |
