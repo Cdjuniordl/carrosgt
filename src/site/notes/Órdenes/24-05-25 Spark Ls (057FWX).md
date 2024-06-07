@@ -61,7 +61,16 @@
 
 ## Presupuesto:
 
-<img src="https://lh3.googleusercontent.com/d/" Alt="Presupuesto">
+- [ ] Spark Azul
+	No funciona AC
+	Sistema alternativo 
+	**Q450**
+	#Eddy 
+- [ ] Camión International 
+	No funciona el blower 
+	Cambio relay 
+	**Q150**
+	#Eddy 
 
 ---
 
@@ -71,6 +80,6 @@
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2024-06-27
 
 
