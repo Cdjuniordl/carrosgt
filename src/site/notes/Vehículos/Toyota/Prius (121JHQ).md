@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/vehiculos/toyota/prius-121-jhq/","tags":["Toyota"]}
 ---
 
-![Logo|100](http://drive.google.com/uc?export=view&id=137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G)
+<img src="https://lh3.googleusercontent.com/d/137fl3TIZ0-PU8b-Pt0bsjclwHub_u78G" width="150">
 
 ## Datos del Vehículo 
 ### Foto:: 
-![Vehículo](http://drive.google.com/uc?export=view&id=
+<img src="https://lh3.googleusercontent.com/d/1eFfSXUTZyCBwxMQliQjttETyZYwdPVPh">
 
 ### Marca:: Toyota
 ### Modelo:: Prius
@@ -26,5 +26,7 @@
 
 ## Historial
 
+- [[Órdenes/23-12-02 Prius (121HJQ)\|23-12-02 Prius (121HJQ)]]
+- [[Órdenes/24-06-18 Prius (121HJQ)\|24-06-18 Prius (121HJQ)]]
 
 { .block-language-dataview} 
