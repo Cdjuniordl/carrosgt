@@ -165,7 +165,7 @@
 | [[Vehículos/Toyota/Rav4 (450HHJ)\|Rav4 (450HHJ)]]                       | Toyota        | Rav4                   | 2002 | 450HHJ   |
 | [[Vehículos/Toyota/Rav4 (47597)\|Rav4 (47597)]]                         | Toyota        | Rav4                   | 2021 | 47597    |
 | [[Vehículos/Toyota/Rav4 (671HZR)\|Rav4 (671HZR)]]                       | Toyota        | Rav4                   | 2001 | 671HZR   |
-| [[Vehículos/Toyota/Rav4 (676BZT)\|Rav4 (676BZT)]]                       | Toyota        | Rav4                   | 2011 | 676BZT   |
+| [[Vehículos/Toyota/Rav4 (676DZT)\|Rav4 (676DZT)]]                       | Toyota        | Rav4                   | 2011 | 676DZT   |
 | [[Vehículos/Toyota/Rav4 (694KHV)\|Rav4 (694KHV)]]                       | Toyota        | Rav4                   | 2010 | 694KHV   |
 | [[Vehículos/Toyota/Rav4 (887KQS)\|Rav4 (887KQS)]]                       | Toyota        | Rav4 Límited           | 2019 | 887KQS   |
 | [[Vehículos/Toyota/Rav4 (blanca)\|Rav4 (blanca)]]                       | Toyota        | Rav4 XLE               | 2023 | \-       |
