@@ -126,6 +126,7 @@
 | [[Vehículos/Mazda/Cx-9 (05689)\|Cx-9 (05689)]]                          | Mazda         | Cx-9 Signature         | 2018 | \-       |
 | [[Vehículos/Mazda/Cx5 (613JCV)\|Cx5 (613JCV)]]                          | Mazda         | CX-5                   | 2015 | 613JCV   |
 | [[Vehículos/Mazda/Cx7 (349FRY)\|Cx7 (349FRY)]]                          | Mazda         | Cx-7 Touring           | 2007 | 349FRY   |
+| [[Vehículos/Mazda/Mazda 2 (038JSN)\|Mazda 2 (038JSN)]]                  | Mazda         | 2 Sport                | 2011 | 038JSN   |
 | [[Vehículos/Mazda/Mpv Lx (863DXG)\|Mpv Lx (863DXG)]]                    | Mazda         | Mpv Lx                 | 2001 | 863DXG   |
 | [[Vehículos/Mazda/Protege (420DTQ)\|Protege (420DTQ)]]                  | Mazda         | Protege Lx             | 2000 | 420DTQ   |
 | [[Vehículos/Mazda/Protege (437FVV)\|Protege (437FVV)]]                  | Mazda         | Protege Lx             | 2000 | 437FVV   |
@@ -146,6 +147,7 @@
 | [[Vehículos/Nissan/Frontier XE (925JRZ)\|Frontier XE (925JRZ)]]         | Nissan        | Frontier XE            | 2000 | 925JRZ   |
 | [[Vehículos/Nissan/Pathfinder (767DGB)\|Pathfinder (767DGB)]]           | Nissan        | Pathfinder R51         | 2006 | 767DGB   |
 | [[Vehículos/Nissan/Rogue Se (568JYV)\|Rogue Se (568JYV)]]               | Nissan        | Rogue Se AWD           | 2013 | 568JYV   |
+| [[Vehículos/Nissan/Sentra (54458)\|Sentra (54458)]]                     | Nissan        | Sentra S               | 2005 | \-       |
 | [[Vehículos/Nissan/Sentra (683KKW)\|Sentra (683KKW)]]                   | Nissan        | Sentra                 | 2016 | 683KKW   |
 | [[Vehículos/Nissan/Sentra (965JXT)\|Sentra (965JXT)]]                   | Nissan        | Sentra Sv              | 2014 | 965JXT   |
 | [[Vehículos/Nissan/Sentra SR (321KBN)\|Sentra SR (321KBN)]]             | Nissan        | Sentra SR Turbo        | 2017 | 321KBN   |
