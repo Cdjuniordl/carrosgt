@@ -64,6 +64,7 @@
 | [[Vehículos/Honda/CR-V  LX(618JMC)\|CR-V  LX(618JMC)]]                  | Honda         | CR-V LX                | 2014 | 618JMC   |
 | [[Vehículos/Honda/CR-V (812DYG)\|CR-V (812DYG)]]                        | Honda         | CR-V                   | 1999 | 812DYG   |
 | [[Vehículos/Honda/CR-V EX (327JWM)\|CR-V EX (327JWM)]]                  | Honda         | CR-V EX                | 2018 | 327JWM   |
+| [[Vehículos/Honda/CR-V EX (870KSN)\|CR-V EX (870KSN)]]                  | Honda         | CR-V EX                | 2003 | 870KSN   |
 | [[Vehículos/Honda/CR-V Lx (670GMF)\|CR-V Lx (670GMF)]]                  | Honda         | CR-V Lx                | 2002 | 670GMF   |
 | [[Vehículos/Honda/CR-Z (359KQD)\|CR-Z (359KQD)]]                        | Honda         | CR-Z EX                | 2011 | 359KQD   |
 | [[Vehículos/Honda/Crv (138HZB)\|Crv (138HZB)]]                          | Honda         | Crv                    | 1997 | 138HZB   |
