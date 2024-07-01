@@ -17,8 +17,9 @@
 
 ## Diagrama
 ### Diagrama de motor 
-![](http://drive.google.com/uc?export=view&id=1JhDfEMKijUe2EthNBqEwtu1w9GbLZshR)
 
-![](http://drive.google.com/uc?export=view&id=1Je1qtddtXipyCpZhLBloZDoGhQy4LfqQ)
+<img src="https://lh3.googleusercontent.com/d/1JhDfEMKijUe2EthNBqEwtu1w9GbLZshR">
 
-![](http://drive.google.com/uc?export=view&id=1JbfwIrUIUfCWnmFRQhUCtkBrCkvMGSqM)
+<img src="https://lh3.googleusercontent.com/d/1Je1qtddtXipyCpZhLBloZDoGhQy4LfqQ">
+
+<img src="https://lh3.googleusercontent.com/d/1JbfwIrUIUfCWnmFRQhUCtkBrCkvMGSqM">
