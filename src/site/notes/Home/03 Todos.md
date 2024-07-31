@@ -13,6 +13,7 @@
 | -------------------------------------------------------------------------- | ------------- | ---------------------- | ---- | -------- |
 | [[Vehículos/Acura/Acura (189HNX)\|Acura (189HNX)]]                      | Acura         | TL                     | 1999 | 189HNX   |
 | [[Vehículos/BMW/318i (137DZD)\|318i (137DZD)]]                          | BMW           | 318i                   | 1991 | 137DZD   |
+| [[Vehículos/BMW/328i (450GBZ)\|328i (450GBZ)]]                          | BMW           | 328i                   | 2008 | 450GBZ   |
 | [[Vehículos/BMW/328i (636HNT)\|328i (636HNT)]]                          | BMW           | 328i                   | 2008 | 636HNT   |
 | [[Vehículos/BMW/330 Ci (476DVC)\|330 Ci (476DVC)]]                      | BMW           | Serie 3 330Ci          | 2001 | 476DVC   |
 | [[Vehículos/BMW/330i (225CNX)\|330i (225CNX)]]                          | BMW           | 330i                   | 2002 | 225CNX   |
@@ -106,6 +107,7 @@
 | [[Vehículos/Kia/Soul (681KKW)\|Soul (681KKW)]]                          | Kia           | Soul Base              | 2015 | 681KKW   |
 | [[Vehículos/Kia/Sportage (538FFR)\|Sportage (538FFR)]]                  | Kia           | Sportage 4WD           | 1999 | 538FFR   |
 | [[Vehículos/Kia/Sportage (763BSY)\|Sportage (763BSY)]]                  | Kia           | Sportage               | 1887 | \-       |
+| [[Vehículos/Kia/Sportage EX (268FYL)\|Sportage EX (268FYL)]]            | Kia           | Sportage Ex            | 2011 | 268FYL   |
 | [[Vehículos/Mazda/2 (936JYR)\|2 (936JYR)]]                              | Mazda         | 2 Sport                | 2012 | 936JYR   |
 | [[Vehículos/Mazda/3 GT (240JPR)\|3 GT (240JPR)]]                        | Mazda         | 3 Grand Touring        | 2017 | 240JPR   |
 | [[Vehículos/Mazda/3 i (644GKB)\|3 i (644GKB)]]                          | Mazda         | 3 i                    | 2008 | 644GKB   |

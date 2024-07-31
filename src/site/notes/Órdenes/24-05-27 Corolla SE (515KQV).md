@@ -66,12 +66,12 @@
 
 ---
 
-###### TAG:: 
+###### TAG:: #Toyota , #Corolla , #Electrico 
 
 ---
 
 ## Estado
 
-### Entrega:: 
+### Entrega:: 2024-07-05
 
 
